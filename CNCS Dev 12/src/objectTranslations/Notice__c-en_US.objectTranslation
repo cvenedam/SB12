@@ -1,0 +1,342 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomObjectTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <caseValues>
+        <plural>false</plural>
+        <value>Notice</value>
+    </caseValues>
+    <caseValues>
+        <plural>true</plural>
+        <value>Notices</value>
+    </caseValues>
+    <fields>
+        <label><!-- Announcement Type --></label>
+        <name>Announcement_Type__c</name>
+    </fields>
+    <fields>
+        <label><!-- Applications are due by --></label>
+        <name>Applications_are_due_by__c</name>
+    </fields>
+    <fields>
+        <label><!-- Approval Status --></label>
+        <name>Approval_Status__c</name>
+        <picklistValues>
+            <masterLabel>Approved</masterLabel>
+            <translation><!-- Approved --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Rejected</masterLabel>
+            <translation><!-- Rejected --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Review-In-Progress</masterLabel>
+            <translation><!-- Review-In-Progress --></translation>
+        </picklistValues>
+    </fields>
+    <fields>
+        <label><!-- Approver1 --></label>
+        <name>Approver1__c</name>
+        <relationshipLabel><!-- Notice --></relationshipLabel>
+    </fields>
+    <fields>
+        <label><!-- Approver2 --></label>
+        <name>Approver2__c</name>
+        <relationshipLabel><!-- Notice (Approver2) --></relationshipLabel>
+    </fields>
+    <fields>
+        <label><!-- Approver3 --></label>
+        <name>Approver3__c</name>
+        <relationshipLabel><!-- Notice (Approver3) --></relationshipLabel>
+    </fields>
+    <fields>
+        <label><!-- Approver4 --></label>
+        <name>Approver4__c</name>
+        <relationshipLabel><!-- Notice (Approver4) --></relationshipLabel>
+    </fields>
+    <fields>
+        <label><!-- Approver --></label>
+        <name>Approver__c</name>
+        <relationshipLabel><!-- Notice --></relationshipLabel>
+    </fields>
+    <fields>
+        <label><!-- CFDA Number --></label>
+        <name>CFDA_Number__c</name>
+        <relationshipLabel><!-- Notice --></relationshipLabel>
+    </fields>
+    <fields>
+        <label><!-- Concept Form Deadline --></label>
+        <name>Concept_Form_Deadline1__c</name>
+    </fields>
+    <fields>
+        <label><!-- Concept Form Deadline --></label>
+        <name>Concept_Form_Deadline_1__c</name>
+    </fields>
+    <fields>
+        <label><!-- Concept Form Deadline --></label>
+        <name>Concept_Form_Deadline__c</name>
+    </fields>
+    <fields>
+        <label><!-- Concept Forms are due by --></label>
+        <name>Concept_Forms_are_due_by__c</name>
+    </fields>
+    <fields>
+        <label><!-- Disclosure --></label>
+        <name>Disclosure__c</name>
+    </fields>
+    <fields>
+        <label><!-- Federal Agency Name --></label>
+        <name>Federal_Agency_Name__c</name>
+    </fields>
+    <fields>
+        <label><!-- Funding Opportunity Title --></label>
+        <name>Funding_Opportunity_Title__c</name>
+    </fields>
+    <fields>
+        <label><!-- Layer 2 Name --></label>
+        <name>Layer_2_Name__c</name>
+        <relationshipLabel><!-- Notice --></relationshipLabel>
+    </fields>
+    <fields>
+        <label><!-- Layer 2 code --></label>
+        <name>Layer_2_code__c</name>
+    </fields>
+    <fields>
+        <label><!-- Mission --></label>
+        <name>Mission__c</name>
+    </fields>
+    <fields>
+        <label><!-- Notice Type --></label>
+        <name>Notice_Type__c</name>
+        <picklistValues>
+            <masterLabel>Notice of Federal Funding Availability</masterLabel>
+            <translation><!-- Notice of Federal Funding Availability --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Notice of Federal Funding Opportunity</masterLabel>
+            <translation><!-- Notice of Federal Funding Opportunity --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Request for Proposal</masterLabel>
+            <translation><!-- Request for Proposal --></translation>
+        </picklistValues>
+    </fields>
+    <fields>
+        <label><!-- Notice of Intent Deadline --></label>
+        <name>Notice_of_Intent_Deadline1__c</name>
+    </fields>
+    <fields>
+        <label><!-- Notice of Intent Deadline --></label>
+        <name>Notice_of_Intent_Deadline_1__c</name>
+    </fields>
+    <fields>
+        <label><!-- Notice of Intent Deadline --></label>
+        <name>Notice_of_Intent_Deadline__c</name>
+    </fields>
+    <fields>
+        <label><!-- Notices of Intent to Apply are due by --></label>
+        <name>Notices_of_Intent_to_Apply_are_due_by__c</name>
+    </fields>
+    <fields>
+        <label><!-- Planning --></label>
+        <name>Planning__c</name>
+        <relationshipLabel><!-- Notice --></relationshipLabel>
+    </fields>
+    <fields>
+        <label><!-- Status --></label>
+        <name>Status_1__c</name>
+        <picklistValues>
+            <masterLabel>Approved</masterLabel>
+            <translation><!-- Approved --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Rejected</masterLabel>
+            <translation><!-- Rejected --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Review-In-Progress</masterLabel>
+            <translation><!-- Review-In-Progress --></translation>
+        </picklistValues>
+    </fields>
+    <fields>
+        <label><!-- Status --></label>
+        <name>Status__c</name>
+        <picklistValues>
+            <masterLabel>Complete</masterLabel>
+            <translation><!-- Complete --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Finalized</masterLabel>
+            <translation><!-- Finalized --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>In-Progress</masterLabel>
+            <translation><!-- In-Progress --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Published</masterLabel>
+            <translation><!-- Published --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Rejected</masterLabel>
+            <translation><!-- Rejected --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Review-In-Progress</masterLabel>
+            <translation><!-- Review-In-Progress --></translation>
+        </picklistValues>
+    </fields>
+    <fields>
+        <label><!-- Status --></label>
+        <name>Status_del__c</name>
+        <picklistValues>
+            <masterLabel>Complete</masterLabel>
+            <translation><!-- Complete --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Finalized</masterLabel>
+            <translation><!-- Finalized --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>In-Progress</masterLabel>
+            <translation><!-- In-Progress --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Published</masterLabel>
+            <translation><!-- Published --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Rejected</masterLabel>
+            <translation><!-- Rejected --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Review-In-Progress</masterLabel>
+            <translation><!-- Review-In-Progress --></translation>
+        </picklistValues>
+    </fields>
+    <fields>
+        <label><!-- Successful applicant will be notified by --></label>
+        <name>Successful_applicants_will_be_notified_b__c</name>
+    </fields>
+    <layouts>
+        <layout>Copy of Notice Layout</layout>
+        <sections>
+            <label><!-- Basic Information --></label>
+            <section>Basic Information</section>
+        </sections>
+        <sections>
+            <label><!-- Concept Form --></label>
+            <section>Concept Form</section>
+        </sections>
+        <sections>
+            <label><!-- Custom Links --></label>
+            <section>Custom Links</section>
+        </sections>
+        <sections>
+            <label><!-- Disaster Services --></label>
+            <section>Disaster Services</section>
+        </sections>
+        <sections>
+            <label><!-- Economic Opportunity --></label>
+            <section>Economic Opportunity</section>
+        </sections>
+        <sections>
+            <label><!-- Education --></label>
+            <section>Education</section>
+        </sections>
+        <sections>
+            <label><!-- Environmental Stewardship --></label>
+            <section>Environmental Stewardship</section>
+        </sections>
+        <sections>
+            <label><!-- Healthy Futures --></label>
+            <section>Healthy Futures</section>
+        </sections>
+        <sections>
+            <label><!-- Important Dates --></label>
+            <section>Important Dates</section>
+        </sections>
+        <sections>
+            <label><!-- Intent Deadline --></label>
+            <section>Intent Deadline</section>
+        </sections>
+        <sections>
+            <label><!-- Others --></label>
+            <section>Others</section>
+        </sections>
+        <sections>
+            <label><!-- Overview --></label>
+            <section>Overview</section>
+        </sections>
+        <sections>
+            <label><!-- Veterans and Military Families --></label>
+            <section>Veterans and Military Families</section>
+        </sections>
+    </layouts>
+    <layouts>
+        <layout>Notice Layout</layout>
+        <sections>
+            <label><!-- Basic Information --></label>
+            <section>Basic Information</section>
+        </sections>
+        <sections>
+            <label><!-- Concept Form --></label>
+            <section>Concept Form</section>
+        </sections>
+        <sections>
+            <label><!-- Custom Links --></label>
+            <section>Custom Links</section>
+        </sections>
+        <sections>
+            <label><!-- Important Dates --></label>
+            <section>Important Dates</section>
+        </sections>
+        <sections>
+            <label><!-- Intent Deadline --></label>
+            <section>Intent Deadline</section>
+        </sections>
+        <sections>
+            <label><!-- Overview --></label>
+            <section>Overview</section>
+        </sections>
+    </layouts>
+    <startsWith>Consonant</startsWith>
+    <validationRules>
+        <errorMessage><!-- Select Future Date --></errorMessage>
+        <name>Applications_are_due_by</name>
+    </validationRules>
+    <validationRules>
+        <errorMessage><!-- Select Future Date --></errorMessage>
+        <name>Concept_Forms_are_due_by</name>
+    </validationRules>
+    <validationRules>
+        <errorMessage><!-- Please entry the date. --></errorMessage>
+        <name>Notice_of_Intent_Deadline</name>
+    </validationRules>
+    <validationRules>
+        <errorMessage><!-- Select Future Date --></errorMessage>
+        <name>Notice_of_intent_to_apply</name>
+    </validationRules>
+    <validationRules>
+        <errorMessage><!-- This should be before the application due date. --></errorMessage>
+        <name>Notices_of_Intent_to_Apply_are_due_by</name>
+    </validationRules>
+    <validationRules>
+        <errorMessage><!-- Select Future Date --></errorMessage>
+        <name>Successful_applicant_will_be_notified_by</name>
+    </validationRules>
+    <validationRules>
+        <errorMessage><!-- Please entry the date. --></errorMessage>
+        <name>concept_checkbox</name>
+    </validationRules>
+    <webLinks>
+        <label><!-- Conga --></label>
+        <name>Conga</name>
+    </webLinks>
+    <webLinks>
+        <label><!-- Conga_test --></label>
+        <name>Conga_test</name>
+    </webLinks>
+    <webLinks>
+        <label><!-- Test --></label>
+        <name>Test</name>
+    </webLinks>
+</CustomObjectTranslation>

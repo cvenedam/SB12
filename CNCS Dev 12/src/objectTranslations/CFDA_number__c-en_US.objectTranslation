@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomObjectTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <caseValues>
+        <plural>false</plural>
+        <value>CFDA number</value>
+    </caseValues>
+    <caseValues>
+        <plural>true</plural>
+        <value>CFDA</value>
+    </caseValues>
+    <fields>
+        <label><!-- Active --></label>
+        <name>Active__c</name>
+    </fields>
+    <fields>
+        <label><!-- CFDA Name --></label>
+        <name>CFDA_Name__c</name>
+    </fields>
+    <fields>
+        <label><!-- CFDA Number --></label>
+        <name>CFDA_Number__c</name>
+    </fields>
+    <fields>
+        <label><!-- Code --></label>
+        <name>Code__c</name>
+    </fields>
+    <layouts>
+        <layout>CFDA number Layout</layout>
+        <sections>
+            <label><!-- Custom Links --></label>
+            <section>Custom Links</section>
+        </sections>
+    </layouts>
+    <startsWith>Consonant</startsWith>
+</CustomObjectTranslation>

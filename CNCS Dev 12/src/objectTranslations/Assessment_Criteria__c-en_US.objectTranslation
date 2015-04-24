@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomObjectTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <caseValues>
+        <plural>false</plural>
+        <value>Assessment Criteria</value>
+    </caseValues>
+    <caseValues>
+        <plural>true</plural>
+        <value>Assessment Criteria</value>
+    </caseValues>
+    <fields>
+        <label><!-- Additional Criteria --></label>
+        <name>Additional_Criteria1__c</name>
+    </fields>
+    <fields>
+        <label><!-- Additional Criteria --></label>
+        <name>Additional_Criteria__c</name>
+    </fields>
+    <fields>
+        <label><!-- Cost Effectiveness &amp; Budget Adequacy --></label>
+        <name>Cost_Effectiveness_Budget_Adequacy__c</name>
+    </fields>
+    <fields>
+        <label><!-- Notice ID --></label>
+        <name>Notice_ID__c</name>
+        <relationshipLabel><!-- Assessment Criteria --></relationshipLabel>
+    </fields>
+    <fields>
+        <label><!-- Organizational Capability --></label>
+        <name>Organizational_Capability__c</name>
+    </fields>
+    <fields>
+        <label><!-- Rationale and Approach/Program Design --></label>
+        <name>Rationale_and_Approach_Program_Design__c</name>
+    </fields>
+    <layouts>
+        <layout>Assessment Criteria Layout</layout>
+        <sections>
+            <label><!-- Custom Links --></label>
+            <section>Custom Links</section>
+        </sections>
+    </layouts>
+    <startsWith>Consonant</startsWith>
+</CustomObjectTranslation>

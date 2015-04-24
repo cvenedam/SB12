@@ -1,0 +1,622 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomObjectTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <caseValues>
+        <plural>false</plural>
+        <value>Applications1</value>
+    </caseValues>
+    <caseValues>
+        <plural>true</plural>
+        <value>Applications1</value>
+    </caseValues>
+    <fields>
+        <label><!-- Address --></label>
+        <name>Address__c</name>
+    </fields>
+    <fields>
+        <label><!-- Applicant is Delinquent on federal debt? --></label>
+        <name>Applicant_is_Delinquent_on_any_federal_d__c</name>
+        <picklistValues>
+            <masterLabel>No</masterLabel>
+            <translation><!-- No --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Yes</masterLabel>
+            <translation><!-- Yes --></translation>
+        </picklistValues>
+    </fields>
+    <fields>
+        <label><!-- Application Due Date --></label>
+        <name>Application_Due_Date__c</name>
+    </fields>
+    <fields>
+        <label><!-- Application Package ID --></label>
+        <name>Application_Package_ID__c</name>
+    </fields>
+    <fields>
+        <label><!-- Application Type --></label>
+        <name>Application_Type__c</name>
+        <picklistValues>
+            <masterLabel>Continuation</masterLabel>
+            <translation><!-- Continuation --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>New</masterLabel>
+            <translation><!-- New --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>PS Amendments</masterLabel>
+            <translation><!-- PS Amendments --></translation>
+        </picklistValues>
+    </fields>
+    <fields>
+        <label><!-- Approval Status --></label>
+        <name>Approval_Status__c</name>
+        <picklistValues>
+            <masterLabel>Approved</masterLabel>
+            <translation><!-- Approved --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Onhold</masterLabel>
+            <translation><!-- Onhold --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Rejected</masterLabel>
+            <translation><!-- Rejected --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Submitted</masterLabel>
+            <translation><!-- Submitted --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Withdraw</masterLabel>
+            <translation><!-- Withdraw --></translation>
+        </picklistValues>
+    </fields>
+    <fields>
+        <label><!-- Areas affected by the Program --></label>
+        <name>Areas_affected_by_the_Program__c</name>
+        <picklistValues>
+            <masterLabel>Alabama</masterLabel>
+            <translation><!-- Alabama --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Alaska</masterLabel>
+            <translation><!-- Alaska --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Arizona</masterLabel>
+            <translation><!-- Arizona --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Arkansas</masterLabel>
+            <translation><!-- Arkansas --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>California</masterLabel>
+            <translation><!-- California --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Colorado</masterLabel>
+            <translation><!-- Colorado --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Connecticut</masterLabel>
+            <translation><!-- Connecticut --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Delaware</masterLabel>
+            <translation><!-- Delaware --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Florida</masterLabel>
+            <translation><!-- Florida --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Georgia</masterLabel>
+            <translation><!-- Georgia --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Hawaii</masterLabel>
+            <translation><!-- Hawaii --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Idaho</masterLabel>
+            <translation><!-- Idaho --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Illinois</masterLabel>
+            <translation><!-- Illinois --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Indiana</masterLabel>
+            <translation><!-- Indiana --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Iowa</masterLabel>
+            <translation><!-- Iowa --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Kansas</masterLabel>
+            <translation><!-- Kansas --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Kentucky</masterLabel>
+            <translation><!-- Kentucky --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Louisiana</masterLabel>
+            <translation><!-- Louisiana --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Maine</masterLabel>
+            <translation><!-- Maine --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Maryland</masterLabel>
+            <translation><!-- Maryland --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Massachusetts</masterLabel>
+            <translation><!-- Massachusetts --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Michigan</masterLabel>
+            <translation><!-- Michigan --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Minnesota</masterLabel>
+            <translation><!-- Minnesota --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Mississippi</masterLabel>
+            <translation><!-- Mississippi --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Missouri</masterLabel>
+            <translation><!-- Missouri --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Montana</masterLabel>
+            <translation><!-- Montana --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Nebraska</masterLabel>
+            <translation><!-- Nebraska --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Nevada</masterLabel>
+            <translation><!-- Nevada --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>New Hampshire</masterLabel>
+            <translation><!-- New Hampshire --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>New Jersey</masterLabel>
+            <translation><!-- New Jersey --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>New Mexico</masterLabel>
+            <translation><!-- New Mexico --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>New York</masterLabel>
+            <translation><!-- New York --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>North Carolina</masterLabel>
+            <translation><!-- North Carolina --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>North Dakota</masterLabel>
+            <translation><!-- North Dakota --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Ohio</masterLabel>
+            <translation><!-- Ohio --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Oklahoma</masterLabel>
+            <translation><!-- Oklahoma --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Oregon</masterLabel>
+            <translation><!-- Oregon --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Pennsylvania</masterLabel>
+            <translation><!-- Pennsylvania --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Rhode Island</masterLabel>
+            <translation><!-- Rhode Island --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>South Carolina</masterLabel>
+            <translation><!-- South Carolina --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>South Dakota</masterLabel>
+            <translation><!-- South Dakota --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Tennessee</masterLabel>
+            <translation><!-- Tennessee --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Texas</masterLabel>
+            <translation><!-- Texas --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Utah</masterLabel>
+            <translation><!-- Utah --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Vermont</masterLabel>
+            <translation><!-- Vermont --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Virginia</masterLabel>
+            <translation><!-- Virginia --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Washington</masterLabel>
+            <translation><!-- Washington --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>West Virginia</masterLabel>
+            <translation><!-- West Virginia --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Wisconsin</masterLabel>
+            <translation><!-- Wisconsin --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Wyoming</masterLabel>
+            <translation><!-- Wyoming --></translation>
+        </picklistValues>
+    </fields>
+    <fields>
+        <label><!-- City --></label>
+        <name>City__c</name>
+    </fields>
+    <fields>
+        <label><!-- Clarification Summary --></label>
+        <name>Clarification_Summary__c</name>
+    </fields>
+    <fields>
+        <label><!-- Comment --></label>
+        <name>Comment__c</name>
+    </fields>
+    <fields>
+        <label><!-- Concept Papers ID --></label>
+        <name>Concept_Papers_ID__c</name>
+        <relationshipLabel><!-- Applications1 --></relationshipLabel>
+    </fields>
+    <fields>
+        <label><!-- Continuation Changes --></label>
+        <name>Continuation_Changes__c</name>
+    </fields>
+    <fields>
+        <label><!-- Corporate Program --></label>
+        <name>Corporate_Program__c</name>
+        <relationshipLabel><!-- Applications1 --></relationshipLabel>
+    </fields>
+    <fields>
+        <label><!-- Cost Effectiveness and Budget Adequacy --></label>
+        <name>Cost_Effectiveness_and_Budget_Adequacy__c</name>
+    </fields>
+    <fields>
+        <label><!-- DUNS Number --></label>
+        <name>DUNS_Number__c</name>
+    </fields>
+    <fields>
+        <label><!-- Email --></label>
+        <name>Email2__c</name>
+    </fields>
+    <fields>
+        <label><!-- Evaluation Summary or Plan --></label>
+        <name>Evaluation_Summary_or_Plan__c</name>
+    </fields>
+    <fields>
+        <label><!-- Executive Summary --></label>
+        <name>Executive_Summary__c</name>
+    </fields>
+    <fields>
+        <label><!-- Federal Award Identifier --></label>
+        <name>Federal_Award_Identifier__c</name>
+    </fields>
+    <fields>
+        <label><!-- Federal Entity Identifier --></label>
+        <name>Federal_Entity_Identifier__c</name>
+    </fields>
+    <fields>
+        <label><!-- If yes, Please enter the review date --></label>
+        <name>If_yes_Please_enter_the_review_date__c</name>
+    </fields>
+    <fields>
+        <label><!-- If yes, Please explain --></label>
+        <name>If_yes_Please_explain__c</name>
+    </fields>
+    <fields>
+        <label><!-- Legal Name --></label>
+        <name>Legal_Name__c</name>
+    </fields>
+    <fields>
+        <label><!-- Local, State &amp; Federal Government Match --></label>
+        <name>Local_State_Federal_Government_Match__c</name>
+    </fields>
+    <fields>
+        <label><!-- Organization Address --></label>
+        <name>Organization_Address__c</name>
+    </fields>
+    <fields>
+        <label><!-- Organization Name --></label>
+        <name>Organization_Name__c</name>
+    </fields>
+    <fields>
+        <label><!-- Organizational Capability --></label>
+        <name>Organizational_Capability__c</name>
+    </fields>
+    <fields>
+        <label><!-- Other Revenue --></label>
+        <name>Other_Revenue__c</name>
+    </fields>
+    <fields>
+        <label><!-- Private Match --></label>
+        <name>Private_Match__c</name>
+    </fields>
+    <fields>
+        <label><!-- Project Title --></label>
+        <name>Project_Title__c</name>
+    </fields>
+    <fields>
+        <label><!-- Proposed End  Date --></label>
+        <name>Proposed_End_Date__c</name>
+    </fields>
+    <fields>
+        <label><!-- Proposed Start Date --></label>
+        <name>Proposed_Start_Date__c</name>
+    </fields>
+    <fields>
+        <label><!-- Rationale and Approach/Program Design --></label>
+        <name>Rationale_and_Approach_Program_Design__c</name>
+    </fields>
+    <fields>
+        <label><!-- Revision --></label>
+        <name>Revision__c</name>
+        <picklistValues>
+            <masterLabel>Decrease Award</masterLabel>
+            <translation><!-- Decrease Award --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Decrease Duration</masterLabel>
+            <translation><!-- Decrease Duration --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Increase Award</masterLabel>
+            <translation><!-- Increase Award --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Increase Duration</masterLabel>
+            <translation><!-- Increase Duration --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Other (specify).</masterLabel>
+            <translation><!-- Other (specify). --></translation>
+        </picklistValues>
+    </fields>
+    <fields>
+        <label><!-- Select a Program --></label>
+        <name>Select_a_Program__c</name>
+    </fields>
+    <fields>
+        <label><!-- State Application Identifier --></label>
+        <name>State_Application_Identifier__c</name>
+    </fields>
+    <fields>
+        <help><!-- The Application is Subject to Review by State Executive Order 12372 Process --></help>
+        <label><!-- State Executive order 12372 --></label>
+        <name>State_Executive_order_12372__c</name>
+        <picklistValues>
+            <masterLabel>No</masterLabel>
+            <translation><!-- No --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Yes</masterLabel>
+            <translation><!-- Yes --></translation>
+        </picklistValues>
+    </fields>
+    <fields>
+        <label><!-- State --></label>
+        <name>State__c</name>
+    </fields>
+    <fields>
+        <label><!-- Status --></label>
+        <name>Status__c</name>
+        <picklistValues>
+            <masterLabel>Approved</masterLabel>
+            <translation><!-- Approved --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Pending</masterLabel>
+            <translation><!-- Pending --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>ReOpen</masterLabel>
+            <translation><!-- ReOpen --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Rejected</masterLabel>
+            <translation><!-- Rejected --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Review In progress</masterLabel>
+            <translation><!-- Review In progress --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Withdrawn</masterLabel>
+            <translation><!-- Withdrawn --></translation>
+        </picklistValues>
+    </fields>
+    <fields>
+        <label><!-- Test Pdf --></label>
+        <name>Test_Pdf__c</name>
+    </fields>
+    <fields>
+        <label><!-- Total Match Dollars --></label>
+        <name>Total_Match_Dollars__c</name>
+    </fields>
+    <fields>
+        <label><!-- Type of Application --></label>
+        <name>Type_of_Application__c</name>
+        <picklistValues>
+            <masterLabel>Continuation</masterLabel>
+            <translation><!-- Continuation --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>New</masterLabel>
+            <translation><!-- New --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Revision.</masterLabel>
+            <translation><!-- Revision. --></translation>
+        </picklistValues>
+    </fields>
+    <fields>
+        <label><!-- Type of Submission --></label>
+        <name>Type_of_Submission__c</name>
+        <picklistValues>
+            <masterLabel>Application</masterLabel>
+            <translation><!-- Application --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Changed/Corrected Application</masterLabel>
+            <translation><!-- Changed/Corrected Application --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Preapplication</masterLabel>
+            <translation><!-- Preapplication --></translation>
+        </picklistValues>
+    </fields>
+    <fields>
+        <label><!-- Version --></label>
+        <name>Version__c</name>
+    </fields>
+    <fields>
+        <label><!-- Zip+4 --></label>
+        <name>Zip_4__c</name>
+    </fields>
+    <fields>
+        <label><!-- Zip --></label>
+        <name>Zip__c</name>
+    </fields>
+    <layouts>
+        <layout>Application Package Layout</layout>
+        <sections>
+            <label><!-- Custom Links --></label>
+            <section>Custom Links</section>
+        </sections>
+        <sections>
+            <label><!-- Organization Information --></label>
+            <section>Organization Information</section>
+        </sections>
+    </layouts>
+    <layouts>
+        <layout>Grantee Layout</layout>
+        <sections>
+            <label><!-- Custom Links --></label>
+            <section>Custom Links</section>
+        </sections>
+        <sections>
+            <label><!-- Organization Information --></label>
+            <section>Organization Information</section>
+        </sections>
+    </layouts>
+    <layouts>
+        <layout>Indian Tribe</layout>
+        <sections>
+            <label><!-- Application Information --></label>
+            <section>Application Information</section>
+        </sections>
+        <sections>
+            <label><!-- Custom Links --></label>
+            <section>Custom Links</section>
+        </sections>
+        <sections>
+            <label><!-- Demographics --></label>
+            <section>Demographics</section>
+        </sections>
+        <sections>
+            <label><!-- Fields --></label>
+            <section>Fields</section>
+        </sections>
+        <sections>
+            <label><!-- Narratives --></label>
+            <section>Narratives</section>
+        </sections>
+        <sections>
+            <label><!-- Other --></label>
+            <section>Other</section>
+        </sections>
+        <sections>
+            <label><!-- Program Information --></label>
+            <section>Program Information</section>
+        </sections>
+        <sections>
+            <label><!-- Program Start and End Dates --></label>
+            <section>Program Start and End Dates</section>
+        </sections>
+    </layouts>
+    <layouts>
+        <layout>Program Specific Application Package</layout>
+        <sections>
+            <label><!-- Custom Links --></label>
+            <section>Custom Links</section>
+        </sections>
+        <sections>
+            <label><!-- Fields --></label>
+            <section>Fields</section>
+        </sections>
+        <sections>
+            <label><!-- Organization Information --></label>
+            <section>Organization Information</section>
+        </sections>
+    </layouts>
+    <layouts>
+        <layout>Standard Application Package</layout>
+        <sections>
+            <label><!-- Application Information --></label>
+            <section>Application Information</section>
+        </sections>
+        <sections>
+            <label><!-- Custom Links --></label>
+            <section>Custom Links</section>
+        </sections>
+        <sections>
+            <label><!-- Fields --></label>
+            <section>Fields</section>
+        </sections>
+    </layouts>
+    <recordTypes>
+        <label><!-- Indian Tribe --></label>
+        <name>Indian_Tribe</name>
+    </recordTypes>
+    <recordTypes>
+        <label><!-- Program Specific --></label>
+        <name>Program_Specific</name>
+    </recordTypes>
+    <recordTypes>
+        <label><!-- Standard --></label>
+        <name>Standard</name>
+    </recordTypes>
+    <startsWith>Consonant</startsWith>
+    <validationRules>
+        <errorMessage><!-- Internal User cannot Save records --></errorMessage>
+        <name>Internal_Users_cannot_save</name>
+    </validationRules>
+    <webLinks>
+        <label><!-- Link_to_PDF --></label>
+        <name>Link_to_PDF</name>
+    </webLinks>
+</CustomObjectTranslation>

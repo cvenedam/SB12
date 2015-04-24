@@ -1,0 +1,1436 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomObjectTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <caseValues>
+        <plural>false</plural>
+        <value>Concept Papers1</value>
+    </caseValues>
+    <caseValues>
+        <plural>true</plural>
+        <value>Concept Papers1</value>
+    </caseValues>
+    <fields>
+        <label><!-- Address Line 1 --></label>
+        <name>Address_Line_1__c</name>
+    </fields>
+    <fields>
+        <help><!-- Address line 2 --></help>
+        <label><!-- Address Line 2 --></label>
+        <name>Address_Line_2__c</name>
+    </fields>
+    <fields>
+        <help><!-- If different from the organization address above, please provide the primary address where the service activities will take place. --></help>
+        <label><!-- Address line 1 --></label>
+        <name>Address__c</name>
+    </fields>
+    <fields>
+        <label><!-- Anticipated Length of Project in Months --></label>
+        <name>Anticipated_Length_of_Project_in_Months__c</name>
+    </fields>
+    <fields>
+        <label><!-- Anticipated Length of Project in Years --></label>
+        <name>Anticipated_Length_of_Project_in_Years__c</name>
+    </fields>
+    <fields>
+        <label><!-- Any Comments --></label>
+        <name>Any_Comments__c</name>
+    </fields>
+    <fields>
+        <label><!-- Application --></label>
+        <name>Application__c</name>
+        <relationshipLabel><!-- Concept Papers1 --></relationshipLabel>
+    </fields>
+    <fields>
+        <label><!-- Status --></label>
+        <name>Approval_Status__c</name>
+        <picklistValues>
+            <masterLabel>Approved</masterLabel>
+            <translation><!-- Approved --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Hold Pending Resources</masterLabel>
+            <translation><!-- Hold Pending Resources --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Rejected</masterLabel>
+            <translation><!-- Rejected --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Submitted</masterLabel>
+            <translation><!-- Submitted --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Under Review</masterLabel>
+            <translation><!-- Under Review --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Withdraw</masterLabel>
+            <translation><!-- Withdraw --></translation>
+        </picklistValues>
+    </fields>
+    <fields>
+        <label><!-- Are you a former Grantee/Sponsor? --></label>
+        <name>Are_you_a_former_Grantee_Sponsor__c</name>
+        <picklistValues>
+            <masterLabel>No</masterLabel>
+            <translation><!-- No --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Yes</masterLabel>
+            <translation><!-- Yes --></translation>
+        </picklistValues>
+    </fields>
+    <fields>
+        <label><!-- Areas Affected by the Project --></label>
+        <name>Areas_Affected_by_the_Project__c</name>
+    </fields>
+    <fields>
+        <label><!-- Choose from Existing Project Directors --></label>
+        <name>Choose_from_Existing_Project_Directors__c</name>
+        <picklistValues>
+            <masterLabel>A</masterLabel>
+            <translation><!-- A --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>B</masterLabel>
+            <translation><!-- B --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>None</masterLabel>
+            <translation><!-- None --></translation>
+        </picklistValues>
+    </fields>
+    <fields>
+        <label><!-- Choose from Existing Project Title --></label>
+        <name>Choose_from_Existing_Project_Title__c</name>
+        <picklistValues>
+            <masterLabel>A</masterLabel>
+            <translation><!-- A --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>B</masterLabel>
+            <translation><!-- B --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>None</masterLabel>
+            <translation><!-- None --></translation>
+        </picklistValues>
+    </fields>
+    <fields>
+        <label><!-- City --></label>
+        <name>City1__c</name>
+    </fields>
+    <fields>
+        <label><!-- City --></label>
+        <name>City__c</name>
+    </fields>
+    <fields>
+        <label><!-- Comments --></label>
+        <name>Comments__c</name>
+    </fields>
+    <fields>
+        <label><!-- Community Or Faith Based --></label>
+        <name>Community_Or_Faith_Based__c</name>
+    </fields>
+    <fields>
+        <label><!-- Complete Project --></label>
+        <name>Complete_Project__c</name>
+    </fields>
+    <fields>
+        <label><!-- Concept Paper Name --></label>
+        <name>Concept_Paper_Name__c</name>
+    </fields>
+    <fields>
+        <label><!-- Concept Papers --></label>
+        <name>Concept_Papers__c</name>
+        <relationshipLabel><!-- Concept Papers1 --></relationshipLabel>
+    </fields>
+    <fields>
+        <label><!-- Corporate Program --></label>
+        <name>Corporate_Program__c</name>
+        <relationshipLabel><!-- Concept Papers1 --></relationshipLabel>
+    </fields>
+    <fields>
+        <label><!-- Current NCCC Member --></label>
+        <name>Current_NCCC_Member__c</name>
+    </fields>
+    <fields>
+        <label><!-- Date --></label>
+        <name>Date__c</name>
+    </fields>
+    <fields>
+        <help><!-- NCCC has effectively been used in past projects to augment and support existing youth corps partnerships with organizations. Please describe how your plan to utilize NCCC will incorporate your existing partnership with the &quot;Fee for Service&quot; corps. --></help>
+        <label><!-- Describe how your plan to utilize NCCC --></label>
+        <name>Describe_how_your_plan_to_utilize_NCCC__c</name>
+    </fields>
+    <fields>
+        <help><!-- NCCC has effectively been used in the past projects to augmentand support existing youth corps partnerships with organizations. Please describe how your plan to utilize  NCCC will incorporate your existing partnership with &quot;Fee for Service&quot; corps. --></help>
+        <label><!-- If yes, Fee for Service Incorporation? --></label>
+        <name>Description__c</name>
+    </fields>
+    <fields>
+        <label><!-- Disaster Services --></label>
+        <name>Disaster_Services__c</name>
+        <picklistValues>
+            <masterLabel>Disaster Assistance Provided</masterLabel>
+            <translation><!-- Disaster Assistance Provided --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Other Disaster Services</masterLabel>
+            <translation><!-- Other Disaster Services --></translation>
+        </picklistValues>
+    </fields>
+    <fields>
+        <label><!-- Does your org have other CNCS resources? --></label>
+        <name>Does_your_org_have_other_CNCS_resources__c</name>
+        <picklistValues>
+            <masterLabel>No</masterLabel>
+            <translation><!-- No --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Yes</masterLabel>
+            <translation><!-- Yes --></translation>
+        </picklistValues>
+    </fields>
+    <fields>
+        <label><!-- Economic Opportunity --></label>
+        <name>Economic_Opportunity__c</name>
+        <picklistValues>
+            <masterLabel>Asset Building</masterLabel>
+            <translation><!-- Asset Building --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Community Economic Development</masterLabel>
+            <translation><!-- Community Economic Development --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Employment</masterLabel>
+            <translation><!-- Employment --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Financial Literacy</masterLabel>
+            <translation><!-- Financial Literacy --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Find opportunity</masterLabel>
+            <translation><!-- Find opportunity --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Housing</masterLabel>
+            <translation><!-- Housing --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Microenterprise</masterLabel>
+            <translation><!-- Microenterprise --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Other Economic Opportunity</masterLabel>
+            <translation><!-- Other Economic Opportunity --></translation>
+        </picklistValues>
+    </fields>
+    <fields>
+        <label><!-- Education --></label>
+        <name>Education__c</name>
+        <picklistValues>
+            <masterLabel>K-12 Success</masterLabel>
+            <translation><!-- K-12 Success --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Other Education</masterLabel>
+            <translation><!-- Other Education --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Post-HS Education Support</masterLabel>
+            <translation><!-- Post-HS Education Support --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>School Readiness</masterLabel>
+            <translation><!-- School Readiness --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Teacher Corps</masterLabel>
+            <translation><!-- Teacher Corps --></translation>
+        </picklistValues>
+    </fields>
+    <fields>
+        <label><!-- Email --></label>
+        <name>Email1__c</name>
+    </fields>
+    <fields>
+        <label><!-- Email --></label>
+        <name>Email3__c</name>
+    </fields>
+    <fields>
+        <label><!-- Email --></label>
+        <name>Email__c</name>
+    </fields>
+    <fields>
+        <label><!-- Environment Stewardship --></label>
+        <name>Environment_Stewardship__c</name>
+        <picklistValues>
+            <masterLabel>At-Risk Ecosystems</masterLabel>
+            <translation><!-- At-Risk Ecosystems --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Awareness &amp; Stewardship</masterLabel>
+            <translation><!-- Awareness &amp; Stewardship --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Energy Efficiency</masterLabel>
+            <translation><!-- Energy Efficiency --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Green Jobs</masterLabel>
+            <translation><!-- Green Jobs --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Other Environmental Stewardship</masterLabel>
+            <translation><!-- Other Environmental Stewardship --></translation>
+        </picklistValues>
+    </fields>
+    <fields>
+        <label><!-- Fax --></label>
+        <name>Fax__c</name>
+    </fields>
+    <fields>
+        <label><!-- Federal Government --></label>
+        <name>Federal_Government__c</name>
+    </fields>
+    <fields>
+        <label><!-- Fee For Service --></label>
+        <name>Fee_For_Service__c</name>
+        <picklistValues>
+            <masterLabel>No</masterLabel>
+            <translation><!-- No --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Yes</masterLabel>
+            <translation><!-- Yes --></translation>
+        </picklistValues>
+    </fields>
+    <fields>
+        <label><!-- First Name --></label>
+        <name>First_Name__c</name>
+    </fields>
+    <fields>
+        <label><!-- Fixed --></label>
+        <name>Fixed__c</name>
+    </fields>
+    <fields>
+        <label><!-- Flexibility of Proposed Dates --></label>
+        <name>Flexibility_of_Proposed_Dates__c</name>
+        <picklistValues>
+            <masterLabel>Fixed</masterLabel>
+            <translation><!-- Fixed --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Flexible</masterLabel>
+            <translation><!-- Flexible --></translation>
+        </picklistValues>
+    </fields>
+    <fields>
+        <label><!-- Flexible --></label>
+        <name>Flexible__c</name>
+    </fields>
+    <fields>
+        <label><!-- Have you previously worked with NCCC --></label>
+        <name>Have_you_previously_worked_with_NCCC__c</name>
+        <picklistValues>
+            <masterLabel>No</masterLabel>
+            <translation><!-- No --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Yes</masterLabel>
+            <translation><!-- Yes --></translation>
+        </picklistValues>
+    </fields>
+    <fields>
+        <label><!-- Healthy Futures --></label>
+        <name>Healthy_Futures__c</name>
+        <picklistValues>
+            <masterLabel>Access to Care</masterLabel>
+            <translation><!-- Access to Care --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Aging in Place</masterLabel>
+            <translation><!-- Aging in Place --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Obesity and Food</masterLabel>
+            <translation><!-- Obesity and Food --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Other Healthy Futures</masterLabel>
+            <translation><!-- Other Healthy Futures --></translation>
+        </picklistValues>
+    </fields>
+    <fields>
+        <help><!-- In the event that housing is not available on the regional campus or your project is beyond a reasonable driving distance (1hr) from your regional campus, briefly describe the housing arrangements you are exploring for the team. --></help>
+        <label><!-- Housing Arrangements --></label>
+        <name>Housing_Arrangements__c</name>
+    </fields>
+    <fields>
+        <label><!-- How did you find out about NCCC? --></label>
+        <name>How_did_you_find_out_about_NCCC__c</name>
+        <picklistValues>
+            <masterLabel>Current NCCC Member</masterLabel>
+            <translation><!-- Current NCCC Member --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>NCCC Alumini</masterLabel>
+            <translation><!-- NCCC Alumini --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>NCCC Staff Member</masterLabel>
+            <translation><!-- NCCC Staff Member --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Other</masterLabel>
+            <translation><!-- Other --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Outreach Presentation</masterLabel>
+            <translation><!-- Outreach Presentation --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Previous NCCC Sponsor</masterLabel>
+            <translation><!-- Previous NCCC Sponsor --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Service Office</masterLabel>
+            <translation><!-- Service Office --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>State CNCS Office</masterLabel>
+            <translation><!-- State CNCS Office --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>State Comm Community</masterLabel>
+            <translation><!-- State Comm Community --></translation>
+        </picklistValues>
+    </fields>
+    <fields>
+        <label><!-- How many teams are being requested? --></label>
+        <name>How_many__c</name>
+    </fields>
+    <fields>
+        <label><!-- I am a Past NCCC Sponsor --></label>
+        <name>I_am_a_Past_NCCC_Sponsor__c</name>
+    </fields>
+    <fields>
+        <label><!-- I am an NCCC --></label>
+        <name>I_am_an_NCCC__c</name>
+    </fields>
+    <fields>
+        <label><!-- If yes, how Many Members? --></label>
+        <name>If_yes_How_Many_Members1__c</name>
+    </fields>
+    <fields>
+        <label><!-- If yes, how Many Members? --></label>
+        <name>If_yes_How_Many_Members__c</name>
+    </fields>
+    <fields>
+        <label><!-- If yes, please explain? --></label>
+        <name>If_yes_Please_explain__c</name>
+    </fields>
+    <fields>
+        <help><!-- How Many teams have served your organization? --></help>
+        <label><!-- If yes, how many teams? --></label>
+        <name>If_yes_Teams_Served__c</name>
+    </fields>
+    <fields>
+        <label><!-- If yes, for how many years? --></label>
+        <name>If_yes_for_how_many_years__c</name>
+    </fields>
+    <fields>
+        <label><!-- If yes, how many members/participants? --></label>
+        <name>If_yes_how_many_members_participants__c</name>
+    </fields>
+    <fields>
+        <help><!-- When did a team most recently work with your organization? --></help>
+        <label><!-- If yes, when? --></label>
+        <name>If_yes_when__c</name>
+    </fields>
+    <fields>
+        <label><!-- Indian Tribe --></label>
+        <name>Indian_Tribe__c</name>
+    </fields>
+    <fields>
+        <label><!-- Intermediary Justification --></label>
+        <name>Intermediary_Justification__c</name>
+    </fields>
+    <fields>
+        <label><!-- Last Name --></label>
+        <name>Last_Name__c</name>
+    </fields>
+    <fields>
+        <label><!-- Level --></label>
+        <name>Level__c</name>
+        <picklistValues>
+            <masterLabel>Program Specific</masterLabel>
+            <translation><!-- Program Specific --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Standard</masterLabel>
+            <translation><!-- Standard --></translation>
+        </picklistValues>
+    </fields>
+    <fields>
+        <label><!-- Local Municipality --></label>
+        <name>Local_Municipality__c</name>
+    </fields>
+    <fields>
+        <label><!-- Low-income Nat-Amer./Nat-AK/Pac-Islander --></label>
+        <name>Low_income_Nat_Amer_Nat_AK_Pac_Islander__c</name>
+    </fields>
+    <fields>
+        <label><!-- Low-income adults --></label>
+        <name>Low_income_adults__c</name>
+    </fields>
+    <fields>
+        <label><!-- Low-income communities --></label>
+        <name>Low_income_communities__c</name>
+    </fields>
+    <fields>
+        <label><!-- Low-income formerly incarcerated adults --></label>
+        <name>Low_income_formerly_incarcerated_adults__c</name>
+    </fields>
+    <fields>
+        <label><!-- Low-income formerly incarcerated youth --></label>
+        <name>Low_income_formerly_incarcerated_youth__c</name>
+    </fields>
+    <fields>
+        <label><!-- Low-income individuals with disabilities --></label>
+        <name>Low_income_individuals_with_disabilities__c</name>
+    </fields>
+    <fields>
+        <label><!-- Low-income military families --></label>
+        <name>Low_income_military_families__c</name>
+    </fields>
+    <fields>
+        <label><!-- Low-income veterans --></label>
+        <name>Low_income_veterans__c</name>
+    </fields>
+    <fields>
+        <label><!-- Low-income youth --></label>
+        <name>Low_income_youth__c</name>
+    </fields>
+    <fields>
+        <label><!-- Mailing Address --></label>
+        <name>Mailing_Address__c</name>
+    </fields>
+    <fields>
+        <label><!-- Middle Name --></label>
+        <name>Middle_Name__c</name>
+    </fields>
+    <fields>
+        <label><!-- NCCC Alumini --></label>
+        <name>NCCC_Alumini__c</name>
+    </fields>
+    <fields>
+        <label><!-- NCCC Staff Member --></label>
+        <name>NCCC_Staff_Member__c</name>
+    </fields>
+    <fields>
+        <label><!-- Narratives --></label>
+        <name>Narratives__c</name>
+        <picklistValues>
+            <masterLabel>Intermediary Justification</masterLabel>
+            <translation><!-- Intermediary Justification --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Need</masterLabel>
+            <translation><!-- Need --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Organizational Capability</masterLabel>
+            <translation><!-- Organizational Capability --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Strengthening Communities</masterLabel>
+            <translation><!-- Strengthening Communities --></translation>
+        </picklistValues>
+    </fields>
+    <fields>
+        <label><!-- National Non Profit --></label>
+        <name>National_Non_Profit__c</name>
+    </fields>
+    <fields>
+        <label><!-- National State Park --></label>
+        <name>National_State_Park__c</name>
+    </fields>
+    <fields>
+        <label><!-- Need --></label>
+        <name>Need__c</name>
+    </fields>
+    <fields>
+        <label><!-- No --></label>
+        <name>No1__c</name>
+    </fields>
+    <fields>
+        <help><!-- Do you Currently or have you ever had a &quot;Fee for Service&quot; arrangement with youth corps or conversation corps program?(Fee for Service is defined as an agreement in which organization pays fees or reimburses costs to services program in exchange for member --></help>
+        <label><!-- No --></label>
+        <name>No__c</name>
+    </fields>
+    <fields>
+        <help><!-- How many weeks will it take a team of 8 to 12 members working full time (40-45 hours per week) to complete this project? --></help>
+        <label><!-- Number of weeks to complete the project --></label>
+        <name>Number_of_weeks_to_complete_the_project__c</name>
+    </fields>
+    <fields>
+        <label><!-- Organization Name --></label>
+        <name>Organization_Name__c</name>
+    </fields>
+    <fields>
+        <label><!-- Organization Representative --></label>
+        <name>Organization_Representative__c</name>
+    </fields>
+    <fields>
+        <label><!-- Organizational Capability --></label>
+        <name>Organizational_Capability__c</name>
+    </fields>
+    <fields>
+        <label><!-- Other --></label>
+        <name>Other1__c</name>
+    </fields>
+    <fields>
+        <label><!-- Other CNCS Resource --></label>
+        <name>Other_CNCS_Resource__c</name>
+    </fields>
+    <fields>
+        <label><!-- Other --></label>
+        <name>Other__c</name>
+    </fields>
+    <fields>
+        <label><!-- Outreach Presentation --></label>
+        <name>Outreach_Presentation__c</name>
+    </fields>
+    <fields>
+        <label><!-- Phone Number --></label>
+        <name>Phone_Number__c</name>
+    </fields>
+    <fields>
+        <label><!-- Phone --></label>
+        <name>Phone__c</name>
+    </fields>
+    <fields>
+        <help><!-- Provide a brief description about the service activities for which your organization is requesting an NCCC team. Please conclude your statement with the desired outcome expected from the involvement of NCCC. --></help>
+        <label><!-- Service Activities Description --></label>
+        <name>Please_Conclude_ur_statement_with_outcom__c</name>
+    </fields>
+    <fields>
+        <label><!-- Please Specify --></label>
+        <name>Please_Specify__c</name>
+    </fields>
+    <fields>
+        <label><!-- Prefix --></label>
+        <name>Prefix__c</name>
+    </fields>
+    <fields>
+        <label><!-- Previous NCCC Sponsor --></label>
+        <name>Previous_NCCC_Sponsor__c</name>
+    </fields>
+    <fields>
+        <label><!-- Primary Issue Area --></label>
+        <name>Primary_Issue_Area__c</name>
+        <picklistValues>
+            <masterLabel>Energy Conservations</masterLabel>
+            <translation><!-- Energy Conservations --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Environmental Stewardship and Conversation</masterLabel>
+            <translation><!-- Environmental Stewardship and Conversation --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Infrastructure Improvement</masterLabel>
+            <translation><!-- Infrastructure Improvement --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Natural and Other Disasters</masterLabel>
+            <translation><!-- Natural and Other Disasters --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Urban and Rural Development</masterLabel>
+            <translation><!-- Urban and Rural Development --></translation>
+        </picklistValues>
+    </fields>
+    <fields>
+        <help><!-- Please enter  Project Address --></help>
+        <label><!-- Project Address --></label>
+        <name>Project_Address__c</name>
+    </fields>
+    <fields>
+        <help><!-- Please Enter the Title for the Project --></help>
+        <label><!-- Project Title --></label>
+        <name>Project_Title__c</name>
+    </fields>
+    <fields>
+        <help><!-- Please enter URL for the Project --></help>
+        <label><!-- Project Website --></label>
+        <name>Project_Website__c</name>
+    </fields>
+    <fields>
+        <label><!-- Proposed End Date --></label>
+        <name>Proposed_End_Date__c</name>
+    </fields>
+    <fields>
+        <label><!-- Proposed Start Date --></label>
+        <name>Proposed_Start_Date__c</name>
+    </fields>
+    <fields>
+        <label><!-- Provide Organization Mission --></label>
+        <name>Provide_Organization_Mission__c</name>
+    </fields>
+    <fields>
+        <label><!-- RFP ID --></label>
+        <name>RFP_ID__c</name>
+        <relationshipLabel><!-- Concept Papers1 --></relationshipLabel>
+    </fields>
+    <fields>
+        <label><!-- Record type name --></label>
+        <name>Record_type_name__c</name>
+    </fields>
+    <fields>
+        <label><!-- Regional Campus --></label>
+        <name>Regional_Campus__c</name>
+    </fields>
+    <fields>
+        <help><!-- Provide a brief description about the service activities for which your organization is requesting a NCCC team. Please conclude your statement with the desired outcome expected from the involvement of NCCC. --></help>
+        <label><!-- Requesting Service Activities from NCCC --></label>
+        <name>Requesting_Service_Activities_from_NCCC__c</name>
+    </fields>
+    <fields>
+        <label><!-- School --></label>
+        <name>School__c</name>
+    </fields>
+    <fields>
+        <label><!-- Signature --></label>
+        <name>Signature__c</name>
+    </fields>
+    <fields>
+        <label><!-- State --></label>
+        <name>State1__c</name>
+    </fields>
+    <fields>
+        <label><!-- State CNCS office --></label>
+        <name>State_CNCS_office__c</name>
+    </fields>
+    <fields>
+        <label><!-- State Comm Community Service Office --></label>
+        <name>State_Comm_Community_Service_Office__c</name>
+    </fields>
+    <fields>
+        <label><!-- State Government --></label>
+        <name>State_Government__c</name>
+    </fields>
+    <fields>
+        <help><!-- Enter State --></help>
+        <label><!-- State --></label>
+        <name>State__c</name>
+        <picklistValues>
+            <masterLabel>AA</masterLabel>
+            <translation><!-- AA --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>AE</masterLabel>
+            <translation><!-- AE --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>AK</masterLabel>
+            <translation><!-- AK --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>AL</masterLabel>
+            <translation><!-- AL --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>AP</masterLabel>
+            <translation><!-- AP --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>AR</masterLabel>
+            <translation><!-- AR --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>AS</masterLabel>
+            <translation><!-- AS --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>AZ</masterLabel>
+            <translation><!-- AZ --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>BA</masterLabel>
+            <translation><!-- BA --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>BM</masterLabel>
+            <translation><!-- BM --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>CA</masterLabel>
+            <translation><!-- CA --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>CO</masterLabel>
+            <translation><!-- CO --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>CT</masterLabel>
+            <translation><!-- CT --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>DC</masterLabel>
+            <translation><!-- DC --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>DE</masterLabel>
+            <translation><!-- DE --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>FL</masterLabel>
+            <translation><!-- FL --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>GA</masterLabel>
+            <translation><!-- GA --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>GU</masterLabel>
+            <translation><!-- GU --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>HI</masterLabel>
+            <translation><!-- HI --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>IA</masterLabel>
+            <translation><!-- IA --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>ID</masterLabel>
+            <translation><!-- ID --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>IL</masterLabel>
+            <translation><!-- IL --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>IN</masterLabel>
+            <translation><!-- IN --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>JM</masterLabel>
+            <translation><!-- JM --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>KS</masterLabel>
+            <translation><!-- KS --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>KY</masterLabel>
+            <translation><!-- KY --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>LA</masterLabel>
+            <translation><!-- LA --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>MA</masterLabel>
+            <translation><!-- MA --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>MD</masterLabel>
+            <translation><!-- MD --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>ME</masterLabel>
+            <translation><!-- ME --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>MI</masterLabel>
+            <translation><!-- MI --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>MN</masterLabel>
+            <translation><!-- MN --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>MO</masterLabel>
+            <translation><!-- MO --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>MS</masterLabel>
+            <translation><!-- MS --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>MT</masterLabel>
+            <translation><!-- MT --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>NC</masterLabel>
+            <translation><!-- NC --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>ND</masterLabel>
+            <translation><!-- ND --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>NE</masterLabel>
+            <translation><!-- NE --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>NH</masterLabel>
+            <translation><!-- NH --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>NJ</masterLabel>
+            <translation><!-- NJ --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>NM</masterLabel>
+            <translation><!-- NM --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>NV</masterLabel>
+            <translation><!-- NV --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>NY</masterLabel>
+            <translation><!-- NY --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>OH</masterLabel>
+            <translation><!-- OH --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>OK</masterLabel>
+            <translation><!-- OK --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>OR</masterLabel>
+            <translation><!-- OR --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>PA</masterLabel>
+            <translation><!-- PA --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>PR</masterLabel>
+            <translation><!-- PR --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>PW</masterLabel>
+            <translation><!-- PW --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>RI</masterLabel>
+            <translation><!-- RI --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>SC</masterLabel>
+            <translation><!-- SC --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>SD</masterLabel>
+            <translation><!-- SD --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>SP</masterLabel>
+            <translation><!-- SP --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>TN</masterLabel>
+            <translation><!-- TN --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>TX</masterLabel>
+            <translation><!-- TX --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>UT</masterLabel>
+            <translation><!-- UT --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>VA</masterLabel>
+            <translation><!-- VA --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>VI</masterLabel>
+            <translation><!-- VI --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>VT</masterLabel>
+            <translation><!-- VT --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>WA</masterLabel>
+            <translation><!-- WA --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>WI</masterLabel>
+            <translation><!-- WI --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>WV</masterLabel>
+            <translation><!-- WV --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>WY</masterLabel>
+            <translation><!-- WY --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>XX</masterLabel>
+            <translation><!-- XX --></translation>
+        </picklistValues>
+    </fields>
+    <fields>
+        <label><!-- Status --></label>
+        <name>Status1__c</name>
+        <picklistValues>
+            <masterLabel>InProgress</masterLabel>
+            <translation><!-- InProgress --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Presubmitted</masterLabel>
+            <translation><!-- Presubmitted --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Submitted</masterLabel>
+            <translation><!-- Submitted --></translation>
+        </picklistValues>
+    </fields>
+    <fields>
+        <label><!-- Strengthening Communities --></label>
+        <name>Strengthening_Communities__c</name>
+    </fields>
+    <fields>
+        <label><!-- Suffix --></label>
+        <name>Suffix__c</name>
+    </fields>
+    <fields>
+        <label><!-- Summary --></label>
+        <name>Summary__c</name>
+    </fields>
+    <fields>
+        <label><!-- Telephone --></label>
+        <name>Telephone__c</name>
+    </fields>
+    <fields>
+        <label><!-- Those experiencing homelessness --></label>
+        <name>Those_experiencing_homelessness__c</name>
+    </fields>
+    <fields>
+        <label><!-- Title --></label>
+        <name>Title__c</name>
+    </fields>
+    <fields>
+        <label><!-- Unemployed individuals --></label>
+        <name>Unemployed_individuals__c</name>
+    </fields>
+    <fields>
+        <label><!-- Version --></label>
+        <name>Version__c</name>
+    </fields>
+    <fields>
+        <label><!-- Veterans and Military Families --></label>
+        <name>Veterans_and_Military_Families__c</name>
+        <picklistValues>
+            <masterLabel>Access &amp; Attract</masterLabel>
+            <translation><!-- Access &amp; Attract --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Other Veterans</masterLabel>
+            <translation><!-- Other Veterans --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Veterans &amp; Families Served</masterLabel>
+            <translation><!-- Veterans &amp; Families Served --></translation>
+        </picklistValues>
+    </fields>
+    <fields>
+        <label><!-- Website --></label>
+        <name>Website__c</name>
+    </fields>
+    <fields>
+        <label><!-- What is your organization type? --></label>
+        <name>What_is_your_organization_type__c</name>
+        <picklistValues>
+            <masterLabel>Community of Faith Based</masterLabel>
+            <translation><!-- Community of Faith Based --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Federal Government</masterLabel>
+            <translation><!-- Federal Government --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Indian Tribe</masterLabel>
+            <translation><!-- Indian Tribe --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Local Municipality</masterLabel>
+            <translation><!-- Local Municipality --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>National Non Profit</masterLabel>
+            <translation><!-- National Non Profit --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>National State Park</masterLabel>
+            <translation><!-- National State Park --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Other</masterLabel>
+            <translation><!-- Other --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>School</masterLabel>
+            <translation><!-- School --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>State Government</masterLabel>
+            <translation><!-- State Government --></translation>
+        </picklistValues>
+    </fields>
+    <fields>
+        <label><!-- Withdraw Justification --></label>
+        <name>Withdraw_Justification__c</name>
+    </fields>
+    <fields>
+        <help><!-- Do you Currently or have you ever had a &quot;Fee for Service&quot; arrangement with youth corps  or conversation corps program?(Fee for Service is defined as an agreement in which organization pays fees or reimburses costs to services program in exchange for membe --></help>
+        <label><!-- Yes --></label>
+        <name>Yes__c</name>
+    </fields>
+    <fields>
+        <label><!-- Yes --></label>
+        <name>Yes_c__c</name>
+    </fields>
+    <fields>
+        <label><!-- Zip --></label>
+        <name>Zip1__c</name>
+    </fields>
+    <fields>
+        <label><!-- Zip+4 --></label>
+        <name>Zip_41__c</name>
+    </fields>
+    <fields>
+        <label><!-- Zip --></label>
+        <name>Zip_4__c</name>
+    </fields>
+    <layouts>
+        <layout>Ameri Corps NCCC</layout>
+        <sections>
+            <label><!-- Custom Links --></label>
+            <section>Custom Links</section>
+        </sections>
+        <sections>
+            <label><!-- General Information --></label>
+            <section>General Information</section>
+        </sections>
+        <sections>
+            <label><!-- Organization Information --></label>
+            <section>Organization Information</section>
+        </sections>
+        <sections>
+            <label><!-- Primary Project Address --></label>
+            <section>Primary Project Address</section>
+        </sections>
+        <sections>
+            <label><!-- Project Information --></label>
+            <section>Project Information</section>
+        </sections>
+        <sections>
+            <label><!-- Provide description about the service activities --></label>
+            <section>Provide description about the service activities</section>
+        </sections>
+    </layouts>
+    <layouts>
+        <layout>Americorps VISTA</layout>
+        <sections>
+            <label><!-- Areas Affected by the Project --></label>
+            <section>Areas Affected by the Project</section>
+        </sections>
+        <sections>
+            <label><!-- Custom Links --></label>
+            <section>Custom Links</section>
+        </sections>
+        <sections>
+            <label><!-- Focus Areas &amp; Objectives --></label>
+            <section>Focus Areas &amp; Objectives</section>
+        </sections>
+        <sections>
+            <label><!-- General Information --></label>
+            <section>General Information</section>
+        </sections>
+        <sections>
+            <label><!-- Narratives --></label>
+            <section>Narratives</section>
+        </sections>
+        <sections>
+            <label><!-- Organization Information --></label>
+            <section>Organization Information</section>
+        </sections>
+        <sections>
+            <label><!-- Other --></label>
+            <section>Other</section>
+        </sections>
+        <sections>
+            <label><!-- Select Project Title --></label>
+            <section>Select Project Title</section>
+        </sections>
+        <sections>
+            <label><!-- Target Populations --></label>
+            <section>Target Populations</section>
+        </sections>
+    </layouts>
+    <layouts>
+        <layout>Grantee User NCCC</layout>
+        <sections>
+            <label><!-- Authorization --></label>
+            <section>Authorization</section>
+        </sections>
+        <sections>
+            <label><!-- Briefly describe the housing arrangements you are exploring for the team --></label>
+            <section>Briefly describe the housing arrangements you are exploring for the team</section>
+        </sections>
+        <sections>
+            <label><!-- Check The box for the primary issue area that the project will address --></label>
+            <section>Check The box for the primary issue area that the project will address</section>
+        </sections>
+        <sections>
+            <label><!-- Custom Links --></label>
+            <section>Custom Links</section>
+        </sections>
+        <sections>
+            <label><!-- Describe How your plan utilize NCCC --></label>
+            <section>Describe How your plan utilize NCCC</section>
+        </sections>
+        <sections>
+            <label><!-- Fee for Service --></label>
+            <section>Fee for Service</section>
+        </sections>
+        <sections>
+            <label><!-- Have you worked with NCCC Previously? --></label>
+            <section>Have you worked with NCCC Previously?</section>
+        </sections>
+        <sections>
+            <label><!-- How Did you Find out about NCCC? --></label>
+            <section>How Did you Find out about NCCC?</section>
+        </sections>
+        <sections>
+            <label><!-- If different from the organization address above, Please provide the address --></label>
+            <section>If different from the organization address above, Please provide the address</section>
+        </sections>
+        <sections>
+            <label><!-- Organization Information --></label>
+            <section>Organization Information</section>
+        </sections>
+        <sections>
+            <label><!-- Project Information --></label>
+            <section>Project Information</section>
+        </sections>
+        <sections>
+            <label><!-- Provide a brief description of about the service activities? --></label>
+            <section>Provide a brief description of about the service activities?</section>
+        </sections>
+        <sections>
+            <label><!-- Provide a brief description of your organization&apos;s mission --></label>
+            <section>Provide a brief description of your organization&apos;s mission</section>
+        </sections>
+        <sections>
+            <label><!-- Service Project Concept Form --></label>
+            <section>Service Project Concept Form</section>
+        </sections>
+        <sections>
+            <label><!-- Teams Requested --></label>
+            <section>Teams Requested</section>
+        </sections>
+        <sections>
+            <label><!-- What is your Organization Type? --></label>
+            <section>What is your Organization Type?</section>
+        </sections>
+    </layouts>
+    <layouts>
+        <layout>Grantee User VISTA</layout>
+        <sections>
+            <label><!-- Custom Links --></label>
+            <section>Custom Links</section>
+        </sections>
+        <sections>
+            <label><!-- Focus Areas &amp; Objectives --></label>
+            <section>Focus Areas &amp; Objectives</section>
+        </sections>
+        <sections>
+            <label><!-- General Information --></label>
+            <section>General Information</section>
+        </sections>
+        <sections>
+            <label><!-- Organization Information --></label>
+            <section>Organization Information</section>
+        </sections>
+        <sections>
+            <label><!-- Other --></label>
+            <section>Other</section>
+        </sections>
+        <sections>
+            <label><!-- Select Existing or Create New Project Director --></label>
+            <section>Select Existing or Create New Project Director</section>
+        </sections>
+        <sections>
+            <label><!-- Select Existing or Create New Project Title --></label>
+            <section>Select Existing or Create New Project Title</section>
+        </sections>
+    </layouts>
+    <layouts>
+        <layout>Program Specific Layout</layout>
+        <sections>
+            <label><!-- Custom Links --></label>
+            <section>Custom Links</section>
+        </sections>
+    </layouts>
+    <layouts>
+        <layout>Staff User</layout>
+        <sections>
+            <label><!-- Authorization --></label>
+            <section>Authorization</section>
+        </sections>
+        <sections>
+            <label><!-- Check The box for the primary issue area that the project will address --></label>
+            <section>Check The box for the primary issue area that the project will address</section>
+        </sections>
+        <sections>
+            <label><!-- Custom Links --></label>
+            <section>Custom Links</section>
+        </sections>
+        <sections>
+            <label><!-- Fee for Service --></label>
+            <section>Fee for Service</section>
+        </sections>
+        <sections>
+            <label><!-- Have you worked with NCCC Previously? --></label>
+            <section>Have you worked with NCCC Previously?</section>
+        </sections>
+        <sections>
+            <label><!-- How Did you Find out about NCCC? --></label>
+            <section>How Did you Find out about NCCC?</section>
+        </sections>
+        <sections>
+            <label><!-- If different from the organization address above, Please provide the address --></label>
+            <section>If different from the organization address above, Please provide the address</section>
+        </sections>
+        <sections>
+            <label><!-- Organization Information --></label>
+            <section>Organization Information</section>
+        </sections>
+        <sections>
+            <label><!-- Provide a brief description of about the service activities? --></label>
+            <section>Provide a brief description of about the service activities?</section>
+        </sections>
+        <sections>
+            <label><!-- Provide a brief description of your organization&apos;s mission --></label>
+            <section>Provide a brief description of your organization&apos;s mission</section>
+        </sections>
+        <sections>
+            <label><!-- Service Project Concept Form --></label>
+            <section>Service Project Concept Form</section>
+        </sections>
+        <sections>
+            <label><!-- Teams Requested --></label>
+            <section>Teams Requested</section>
+        </sections>
+        <sections>
+            <label><!-- What is your Organization Type? --></label>
+            <section>What is your Organization Type?</section>
+        </sections>
+    </layouts>
+    <layouts>
+        <layout>Staff User NCCC</layout>
+        <sections>
+            <label><!-- Application Information --></label>
+            <section>Application Information</section>
+        </sections>
+        <sections>
+            <label><!-- Custom Links --></label>
+            <section>Custom Links</section>
+        </sections>
+        <sections>
+            <label><!-- Organization Information --></label>
+            <section>Organization Information</section>
+        </sections>
+    </layouts>
+    <layouts>
+        <layout>Standard Layout</layout>
+        <sections>
+            <label><!-- Custom Links --></label>
+            <section>Custom Links</section>
+        </sections>
+    </layouts>
+    <recordTypes>
+        <label><!-- AmeriCorps NCCC --></label>
+        <name>AmeriCorps_NCCC</name>
+    </recordTypes>
+    <recordTypes>
+        <label><!-- AmeriCorps VISTA --></label>
+        <name>AmeriCorps_VISTA</name>
+    </recordTypes>
+    <recordTypes>
+        <label><!-- Ameri Test --></label>
+        <name>Ameri_Test</name>
+    </recordTypes>
+    <recordTypes>
+        <label><!-- Standard --></label>
+        <name>Standard</name>
+    </recordTypes>
+    <startsWith>Consonant</startsWith>
+    <validationRules>
+        <errorMessage><!-- Internal User cannot Save records --></errorMessage>
+        <name>Internal_User_cannot_Save</name>
+    </validationRules>
+    <validationRules>
+        <errorMessage><!-- Please Enter the Anticipated length of the Project (in Months or Years) --></errorMessage>
+        <name>Months_and_year_cannot_be_blank</name>
+    </validationRules>
+    <validationRules>
+        <errorMessage><!-- Anticipated Length should be filled Either in Months or Years --></errorMessage>
+        <name>Months_and_year_cannot_be_filled</name>
+    </validationRules>
+    <validationRules>
+        <errorMessage><!-- If you select new Project Director then Please Mention the First Name. Last Name, Phone and Email --></errorMessage>
+        <name>Required_Fields</name>
+    </validationRules>
+    <validationRules>
+        <errorMessage><!-- If you select new Project Title then Please fill Title, Address, Phone and Email --></errorMessage>
+        <name>Required_Fields1</name>
+    </validationRules>
+    <validationRules>
+        <errorMessage><!-- If Yes please enter &quot;How Many teams have served your organization?&quot; and &quot;When did a team most recently work with your organization?&quot; --></errorMessage>
+        <name>Required_field</name>
+    </validationRules>
+    <validationRules>
+        <errorMessage><!-- If Yes please enter the value for &quot;NCCC has effectively been used in the past projects to augmentand support existing youth corps partnerships with organizations. Please describe how your plan to utilize NCCC will incorporate your existing partnership wit --></errorMessage>
+        <name>fee_for_service</name>
+    </validationRules>
+    <webLinks>
+        <label><!-- Approve --></label>
+        <name>Approve</name>
+    </webLinks>
+    <webLinks>
+        <label><!-- New_Case --></label>
+        <name>New_Case</name>
+    </webLinks>
+    <webLinks>
+        <label><!-- OnHold --></label>
+        <name>OnHold</name>
+    </webLinks>
+    <webLinks>
+        <label><!-- On_hold1 --></label>
+        <name>On_hold1</name>
+    </webLinks>
+    <webLinks>
+        <label><!-- Reject --></label>
+        <name>Reject</name>
+    </webLinks>
+    <webLinks>
+        <label><!-- Withdraw --></label>
+        <name>Withdraw</name>
+    </webLinks>
+</CustomObjectTranslation>

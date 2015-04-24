@@ -1,0 +1,1176 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomObjectTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <caseValues>
+        <plural>false</plural>
+        <value>Applications</value>
+    </caseValues>
+    <caseValues>
+        <plural>true</plural>
+        <value>Applications</value>
+    </caseValues>
+    <fields>
+        <caseValues>
+            <plural>false</plural>
+            <value>Applications Contact Role</value>
+        </caseValues>
+        <name>contract_contact_role</name>
+        <startsWith>Consonant</startsWith>
+    </fields>
+    <fields>
+        <caseValues>
+            <plural>false</plural>
+            <value>Applications Currency</value>
+        </caseValues>
+        <name>contract_currency</name>
+        <startsWith>Consonant</startsWith>
+    </fields>
+    <fields>
+        <caseValues>
+            <plural>false</plural>
+            <value>Applications Custom Field</value>
+        </caseValues>
+        <caseValues>
+            <plural>true</plural>
+            <value>Applications Custom Fields</value>
+        </caseValues>
+        <name>contract_custom_field</name>
+        <startsWith>Consonant</startsWith>
+    </fields>
+    <fields>
+        <caseValues>
+            <plural>false</plural>
+            <value>Applications Detail</value>
+        </caseValues>
+        <name>contract_detail</name>
+        <startsWith>Consonant</startsWith>
+    </fields>
+    <fields>
+        <caseValues>
+            <plural>false</plural>
+            <value>Applications Division</value>
+        </caseValues>
+        <name>contract_division</name>
+        <startsWith>Consonant</startsWith>
+    </fields>
+    <fields>
+        <caseValues>
+            <plural>false</plural>
+            <value>Applications Edit</value>
+        </caseValues>
+        <name>contract_edit</name>
+        <startsWith>Consonant</startsWith>
+    </fields>
+    <fields>
+        <caseValues>
+            <plural>false</plural>
+            <value>Applications End Date</value>
+        </caseValues>
+        <name>contract_end_date</name>
+        <startsWith>Consonant</startsWith>
+    </fields>
+    <fields>
+        <caseValues>
+            <plural>false</plural>
+            <value>Applications Field</value>
+        </caseValues>
+        <caseValues>
+            <plural>true</plural>
+            <value>Applications Fields</value>
+        </caseValues>
+        <name>contract_field</name>
+        <startsWith>Consonant</startsWith>
+    </fields>
+    <fields>
+        <caseValues>
+            <plural>false</plural>
+            <value>Applications History</value>
+        </caseValues>
+        <name>contract_history</name>
+        <startsWith>Consonant</startsWith>
+    </fields>
+    <fields>
+        <caseValues>
+            <plural>false</plural>
+            <value>Applications History Report</value>
+        </caseValues>
+        <name>contract_history_report</name>
+        <startsWith>Consonant</startsWith>
+    </fields>
+    <fields>
+        <caseValues>
+            <plural>false</plural>
+            <value>Applications ID</value>
+        </caseValues>
+        <name>contract_id</name>
+        <startsWith>Consonant</startsWith>
+    </fields>
+    <fields>
+        <caseValues>
+            <plural>false</plural>
+            <value>Applications Information</value>
+        </caseValues>
+        <name>contract_information</name>
+        <startsWith>Consonant</startsWith>
+    </fields>
+    <fields>
+        <caseValues>
+            <plural>false</plural>
+            <value>Applications Manager</value>
+        </caseValues>
+        <name>contract_manager</name>
+        <startsWith>Consonant</startsWith>
+    </fields>
+    <fields>
+        <caseValues>
+            <plural>false</plural>
+            <value>Applications Name</value>
+        </caseValues>
+        <caseValues>
+            <plural>true</plural>
+            <value>Applications Names</value>
+        </caseValues>
+        <name>contract_name</name>
+        <startsWith>Consonant</startsWith>
+    </fields>
+    <fields>
+        <caseValues>
+            <plural>false</plural>
+            <value>Applications Number</value>
+        </caseValues>
+        <name>contract_number</name>
+        <startsWith>Consonant</startsWith>
+    </fields>
+    <fields>
+        <caseValues>
+            <plural>false</plural>
+            <value>Applications Owner</value>
+        </caseValues>
+        <name>contract_owner</name>
+        <startsWith>Consonant</startsWith>
+    </fields>
+    <fields>
+        <caseValues>
+            <plural>false</plural>
+            <value>Applications Owner Alias</value>
+        </caseValues>
+        <name>contract_owner_alias</name>
+        <startsWith>Consonant</startsWith>
+    </fields>
+    <fields>
+        <caseValues>
+            <plural>false</plural>
+            <value>Applications Owner Email</value>
+        </caseValues>
+        <name>contract_owner_email</name>
+        <startsWith>Consonant</startsWith>
+    </fields>
+    <fields>
+        <caseValues>
+            <plural>false</plural>
+            <value>Applications Owner Report</value>
+        </caseValues>
+        <name>contract_owner_report</name>
+        <startsWith>Consonant</startsWith>
+    </fields>
+    <fields>
+        <caseValues>
+            <plural>false</plural>
+            <value>Applications Ownership</value>
+        </caseValues>
+        <name>contract_ownership</name>
+        <startsWith>Consonant</startsWith>
+    </fields>
+    <fields>
+        <caseValues>
+            <plural>false</plural>
+            <value>Applications Picklist</value>
+        </caseValues>
+        <caseValues>
+            <plural>true</plural>
+            <value>Applications Picklists</value>
+        </caseValues>
+        <name>contract_picklist</name>
+        <startsWith>Consonant</startsWith>
+    </fields>
+    <fields>
+        <caseValues>
+            <plural>false</plural>
+            <value>Applications Record Type</value>
+        </caseValues>
+        <caseValues>
+            <plural>true</plural>
+            <value>Applications Record Types</value>
+        </caseValues>
+        <name>contract_record_type</name>
+        <startsWith>Consonant</startsWith>
+    </fields>
+    <fields>
+        <caseValues>
+            <plural>false</plural>
+            <value>Applications Record Type ID</value>
+        </caseValues>
+        <name>contract_record_type_id</name>
+        <startsWith>Consonant</startsWith>
+    </fields>
+    <fields>
+        <caseValues>
+            <plural>false</plural>
+            <value>Applications and Order</value>
+        </caseValues>
+        <caseValues>
+            <plural>true</plural>
+            <value>Applications and Orders</value>
+        </caseValues>
+        <name>contract_report</name>
+        <startsWith>Consonant</startsWith>
+    </fields>
+    <fields>
+        <caseValues>
+            <plural>false</plural>
+            <value>Applications Settings</value>
+        </caseValues>
+        <name>contract_settings</name>
+        <startsWith>Consonant</startsWith>
+    </fields>
+    <fields>
+        <caseValues>
+            <plural>false</plural>
+            <value>Applications Start Date</value>
+        </caseValues>
+        <name>contract_start_date</name>
+        <startsWith>Consonant</startsWith>
+    </fields>
+    <fields>
+        <caseValues>
+            <plural>false</plural>
+            <value>Applications Status</value>
+        </caseValues>
+        <name>contract_status</name>
+        <startsWith>Consonant</startsWith>
+    </fields>
+    <fields>
+        <caseValues>
+            <plural>false</plural>
+            <value>Applications Status Picklist Value</value>
+        </caseValues>
+        <caseValues>
+            <plural>true</plural>
+            <value>Applications Status Picklist Values</value>
+        </caseValues>
+        <name>contract_status_picklist_value</name>
+        <startsWith>Consonant</startsWith>
+    </fields>
+    <fields>
+        <caseValues>
+            <plural>false</plural>
+            <value>Applications Status Sort Order</value>
+        </caseValues>
+        <name>contract_status_sort_order</name>
+        <startsWith>Consonant</startsWith>
+    </fields>
+    <fields>
+        <caseValues>
+            <plural>false</plural>
+            <value>Applications Term</value>
+        </caseValues>
+        <name>contract_term</name>
+        <startsWith>Consonant</startsWith>
+    </fields>
+    <fields>
+        <caseValues>
+            <plural>false</plural>
+            <value>Applications Type</value>
+        </caseValues>
+        <name>contract_type</name>
+        <startsWith>Consonant</startsWith>
+    </fields>
+    <fields>
+        <caseValues>
+            <plural>false</plural>
+            <value>Applications View</value>
+        </caseValues>
+        <caseValues>
+            <plural>true</plural>
+            <value>Applications Views</value>
+        </caseValues>
+        <name>contract_view</name>
+        <startsWith>Consonant</startsWith>
+    </fields>
+    <fields>
+        <caseValues>
+            <plural>false</plural>
+            <value>Applications Detail Page</value>
+        </caseValues>
+        <name>contracts_detail_page</name>
+        <startsWith>Consonant</startsWith>
+    </fields>
+    <fields>
+        <label><!-- Accepted Date --></label>
+        <name>Accepted_Date__c</name>
+    </fields>
+    <fields>
+        <label><!-- Applicant Type --></label>
+        <name>Applicant1__c</name>
+    </fields>
+    <fields>
+        <help><!-- Is the Applicant Delinquent on any Federal Debt? --></help>
+        <label><!-- Applicant Delinquent on any Federal Debt --></label>
+        <name>Applicant_Delinquent_on_any_Federal_Debt__c</name>
+        <picklistValues>
+            <masterLabel>Yes</masterLabel>
+            <translation><!-- Yes --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>no</masterLabel>
+            <translation><!-- no --></translation>
+        </picklistValues>
+    </fields>
+    <fields>
+        <help><!-- Applicant Identifier --></help>
+        <label><!-- Applicant Identifier --></label>
+        <name>Applicant_Identifier__c</name>
+    </fields>
+    <fields>
+        <label><!-- Applicant --></label>
+        <name>Applicant__c</name>
+    </fields>
+    <fields>
+        <label><!-- Application Delinquent on Federal Debt? --></label>
+        <name>Application_Delinquent_on_Federal_Debt__c</name>
+        <picklistValues>
+            <masterLabel>No</masterLabel>
+            <translation><!-- No --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Yes</masterLabel>
+            <translation><!-- Yes --></translation>
+        </picklistValues>
+    </fields>
+    <fields>
+        <label><!-- Organization Type --></label>
+        <name>Application_Type2__c</name>
+        <relationshipLabel><!-- Contracts (Application Type) --></relationshipLabel>
+    </fields>
+    <fields>
+        <help><!-- Please enter Areas Affected by Project (Cities, Coutnies, States, etc) --></help>
+        <label><!-- Areas Affected by Project --></label>
+        <name>Areas_Affected_by_Project_Cities_Coutn__c</name>
+    </fields>
+    <fields>
+        <label><!-- Areas Affected by Project --></label>
+        <name>Areas_Affected_by_Project__c</name>
+    </fields>
+    <fields>
+        <label><!-- CFDA Number --></label>
+        <name>CFDA_Number__c</name>
+    </fields>
+    <fields>
+        <help><!-- CFDA Title --></help>
+        <label><!-- CFDA Title --></label>
+        <name>CFDA_Title__c</name>
+    </fields>
+    <fields>
+        <help><!-- Certification --></help>
+        <label><!-- Certification --></label>
+        <name>Certification__c</name>
+    </fields>
+    <fields>
+        <label><!-- City --></label>
+        <name>City__c</name>
+    </fields>
+    <fields>
+        <label><!-- Competition Identification Number --></label>
+        <name>Competition_Identification_Number__c</name>
+    </fields>
+    <fields>
+        <label><!-- Congressional Districts Of --></label>
+        <name>Congressional_Districts_Of__c</name>
+    </fields>
+    <fields>
+        <help><!-- Please enter County --></help>
+        <label><!-- County --></label>
+        <name>County__c</name>
+    </fields>
+    <fields>
+        <help><!-- Date Received --></help>
+        <label><!-- Date Received --></label>
+        <name>Date_Received__c</name>
+    </fields>
+    <fields>
+        <help><!-- Date Received by State --></help>
+        <label><!-- Date Received by State --></label>
+        <name>Date_Received_by_State__c</name>
+    </fields>
+    <fields>
+        <label><!-- Date Signed --></label>
+        <name>Date_Signed__c</name>
+    </fields>
+    <fields>
+        <label><!-- Date --></label>
+        <name>Date__c</name>
+    </fields>
+    <fields>
+        <label><!-- Date of Review --></label>
+        <name>Date_of_Review__c</name>
+    </fields>
+    <fields>
+        <label><!-- Department Name --></label>
+        <name>Department_Name__c</name>
+    </fields>
+    <fields>
+        <label><!-- Division Name --></label>
+        <name>Division_Name__c</name>
+    </fields>
+    <fields>
+        <label><!-- Email --></label>
+        <name>Email1__c</name>
+    </fields>
+    <fields>
+        <help><!-- Please enter your email --></help>
+        <label><!-- Email --></label>
+        <name>Email__c</name>
+    </fields>
+    <fields>
+        <help><!-- Please select End of Review --></help>
+        <label><!-- End of Review --></label>
+        <name>End_of_Review__c</name>
+        <picklistValues>
+            <masterLabel>No</masterLabel>
+            <translation><!-- No --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Yes</masterLabel>
+            <translation><!-- Yes --></translation>
+        </picklistValues>
+    </fields>
+    <fields>
+        <label><!-- Fax Number --></label>
+        <name>Fax_Number1__c</name>
+    </fields>
+    <fields>
+        <help><!-- Please enter your Fax Number --></help>
+        <label><!-- Fax Number --></label>
+        <name>Fax_Number__c</name>
+    </fields>
+    <fields>
+        <help><!-- Please enter Federal Award Identifier --></help>
+        <label><!-- Federal Award Identifier --></label>
+        <name>Federal_Award_Identifier__c</name>
+    </fields>
+    <fields>
+        <help><!-- Please enter Federal Entity Identifier --></help>
+        <label><!-- Federal Entity Identifier --></label>
+        <name>Federal_Entity_Identifier__c</name>
+    </fields>
+    <fields>
+        <label><!-- Federal --></label>
+        <name>Federal__c</name>
+    </fields>
+    <fields>
+        <label><!-- Funding Opportunity Title --></label>
+        <name>Funding_Opportunity_Title__c</name>
+    </fields>
+    <fields>
+        <help><!-- I Agree --></help>
+        <label><!-- I AGREE --></label>
+        <name>I_AGREE__c</name>
+    </fields>
+    <fields>
+        <label><!-- I have read &amp; agreed to the &apos;Terms&apos; --></label>
+        <name>I_have_read_agreed_to_the_Terms__c</name>
+    </fields>
+    <fields>
+        <label><!-- I have understood the Terms --></label>
+        <name>I_have_understood_the_Terms__c</name>
+    </fields>
+    <fields>
+        <help><!-- If,Yes --></help>
+        <label><!-- If “Yes,” Please Explain --></label>
+        <name>If_Yes__c</name>
+    </fields>
+    <fields>
+        <label><!-- If “Yes,” Please Specify Review Date --></label>
+        <name>If_Yes_date__c</name>
+    </fields>
+    <fields>
+        <help><!-- Please add Comments If other is selected --></help>
+        <label><!-- If other, Comments --></label>
+        <name>If_other_Comments__c</name>
+    </fields>
+    <fields>
+        <help><!-- Last Name --></help>
+        <label><!-- Last Name --></label>
+        <name>Last_Name1__c</name>
+    </fields>
+    <fields>
+        <help><!-- Please enter Last Name --></help>
+        <label><!-- Last Name --></label>
+        <name>Last_Name__c</name>
+    </fields>
+    <fields>
+        <label><!-- Local --></label>
+        <name>Local__c</name>
+    </fields>
+    <fields>
+        <help><!-- Middle Name --></help>
+        <label><!-- Middle Name --></label>
+        <name>Middle_Name1__c</name>
+    </fields>
+    <fields>
+        <help><!-- Please enter Middle Name --></help>
+        <label><!-- Middle Name --></label>
+        <name>Middle_Name__c</name>
+    </fields>
+    <fields>
+        <label><!-- NOFA Name --></label>
+        <name>NOFA_Name__c</name>
+    </fields>
+    <fields>
+        <label><!-- NOFA/RFP ID --></label>
+        <name>NOFA_RFP_ID__c</name>
+        <relationshipLabel><!-- Contracts --></relationshipLabel>
+    </fields>
+    <fields>
+        <help><!-- Please enter Name of Federal Agency --></help>
+        <label><!-- Name of Federal Agency --></label>
+        <name>Name_of_Federal_Agency__c</name>
+    </fields>
+    <fields>
+        <help><!-- Please select the Options --></help>
+        <label><!-- Options --></label>
+        <name>Options__c</name>
+        <picklistValues>
+            <masterLabel>A. Increase Award</masterLabel>
+            <translation><!-- A. Increase Award --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>B. Decrease Award</masterLabel>
+            <translation><!-- B. Decrease Award --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>C. Increase Duration</masterLabel>
+            <translation><!-- C. Increase Duration --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>D. Decrease Duration</masterLabel>
+            <translation><!-- D. Decrease Duration --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>E. Other (specify)</masterLabel>
+            <translation><!-- E. Other (specify) --></translation>
+        </picklistValues>
+    </fields>
+    <fields>
+        <help><!-- Please enter Organization DUNS --></help>
+        <label><!-- Organization DUNS --></label>
+        <name>Organization_DUNS__c</name>
+    </fields>
+    <fields>
+        <help><!-- Please enter Organizational Affiliation --></help>
+        <label><!-- Organizational Affiliation --></label>
+        <name>Organizational_Affiliation__c</name>
+    </fields>
+    <fields>
+        <label><!-- Other --></label>
+        <name>Other__c</name>
+    </fields>
+    <fields>
+        <label><!-- PDF Url --></label>
+        <name>PDF_Url__c</name>
+    </fields>
+    <fields>
+        <label><!-- Person Accepted Terms --></label>
+        <name>Person_Accepted_Terms__c</name>
+    </fields>
+    <fields>
+        <help><!-- Prefix --></help>
+        <label><!-- Prefix --></label>
+        <name>Prefix1__c</name>
+    </fields>
+    <fields>
+        <help><!-- Prefix --></help>
+        <label><!-- Prefix --></label>
+        <name>Prefix__c</name>
+    </fields>
+    <fields>
+        <label><!-- Program Income --></label>
+        <name>Program_Income__c</name>
+    </fields>
+    <fields>
+        <label><!-- Program/Project --></label>
+        <name>Program_Project__c</name>
+    </fields>
+    <fields>
+        <label><!-- Project Title --></label>
+        <name>Project_Title__c</name>
+        <picklistValues>
+            <masterLabel>a</masterLabel>
+            <translation><!-- a --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>b</masterLabel>
+            <translation><!-- b --></translation>
+        </picklistValues>
+    </fields>
+    <fields>
+        <help><!-- Proposed End Date --></help>
+        <label><!-- Proposed End Date --></label>
+        <name>Proposed_End_Date__c</name>
+    </fields>
+    <fields>
+        <help><!-- Proposed Start Date --></help>
+        <label><!-- Proposed Start Date --></label>
+        <name>Proposed_Start_Date__c</name>
+    </fields>
+    <fields>
+        <help><!-- Please select Province --></help>
+        <label><!-- Province --></label>
+        <name>Province__c</name>
+    </fields>
+    <fields>
+        <label><!-- Review by State per Exec Order 12372 --></label>
+        <name>Review_by_State_per_Exec_Order12372__c</name>
+        <picklistValues>
+            <masterLabel>No</masterLabel>
+            <translation><!-- No --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Yes</masterLabel>
+            <translation><!-- Yes --></translation>
+        </picklistValues>
+    </fields>
+    <fields>
+        <help><!-- Signature of Authorized Representative --></help>
+        <label><!-- Signature of Authorized Representative --></label>
+        <name>Signature_of_Authorized_Representative__c</name>
+    </fields>
+    <fields>
+        <label><!-- State --></label>
+        <name>State1__c</name>
+    </fields>
+    <fields>
+        <help><!-- Please enter State Application Identifier --></help>
+        <label><!-- State Application Identifier --></label>
+        <name>State_Application_Identifier__c</name>
+    </fields>
+    <fields>
+        <label><!-- State --></label>
+        <name>State__c</name>
+    </fields>
+    <fields>
+        <name>Status</name>
+        <picklistValues>
+            <masterLabel>Activated</masterLabel>
+            <translation><!-- Activated --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Draft</masterLabel>
+            <translation><!-- Draft --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>In Approval Process</masterLabel>
+            <translation><!-- In Approval Process --></translation>
+        </picklistValues>
+    </fields>
+    <fields>
+        <label><!-- Status --></label>
+        <name>Status__c</name>
+        <picklistValues>
+            <masterLabel>Accepted</masterLabel>
+            <translation><!-- Accepted --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Draft</masterLabel>
+            <translation><!-- Draft --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>In Process</masterLabel>
+            <translation><!-- In Process --></translation>
+        </picklistValues>
+    </fields>
+    <fields>
+        <label><!-- Street 1 --></label>
+        <name>Street_1__c</name>
+    </fields>
+    <fields>
+        <label><!-- Street 2 --></label>
+        <name>Street_2__c</name>
+    </fields>
+    <fields>
+        <help><!-- Is Application Subject to Review by State Under Executive Order 12372 Process?&quot; --></help>
+        <label><!-- Subject to Review by State Under Executi --></label>
+        <name>Subject_to_Review_by_State_Under_Executi__c</name>
+        <picklistValues>
+            <masterLabel>a. This application was made available to the State under the Executive Order 12372 Process for review on</masterLabel>
+            <translation><!-- a. This application was made available to the State under the Executive Order 12372 Process for review on --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>b. Program is subject to E.O. 12372 but has not been selected by the State for review.&quot;</masterLabel>
+            <translation><!-- b. Program is subject to E.O. 12372 but has not been selected by the State for review.&quot; --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>c. Program is not covered by E.O. 12372.</masterLabel>
+            <translation><!-- c. Program is not covered by E.O. 12372. --></translation>
+        </picklistValues>
+    </fields>
+    <fields>
+        <help><!-- Suffix --></help>
+        <label><!-- Suffix --></label>
+        <name>Suffix1__c</name>
+    </fields>
+    <fields>
+        <help><!-- Please enter Last Name --></help>
+        <label><!-- Suffix --></label>
+        <name>Suffix__c</name>
+    </fields>
+    <fields>
+        <label><!-- TOTAL --></label>
+        <name>TOTAL__c</name>
+    </fields>
+    <fields>
+        <label><!-- Telephone Number --></label>
+        <name>Telephone_Number1__c</name>
+    </fields>
+    <fields>
+        <help><!-- Please enter your Telephone Number --></help>
+        <label><!-- Telephone Number --></label>
+        <name>Telephone_Number__c</name>
+    </fields>
+    <fields>
+        <label><!-- Terms &amp; Conditions --></label>
+        <name>Terms_Conditions__c</name>
+    </fields>
+    <fields>
+        <label><!-- Title --></label>
+        <name>Title1__c</name>
+    </fields>
+    <fields>
+        <help><!-- Please enter Title --></help>
+        <label><!-- Title --></label>
+        <name>Title__c</name>
+    </fields>
+    <fields>
+        <help><!-- Select Type_of_Applicant_1 --></help>
+        <label><!-- Type of Applicant 1 --></label>
+        <name>Type_of_Applicant_1__c</name>
+        <picklistValues>
+            <masterLabel>A. State Government</masterLabel>
+            <translation><!-- A. State Government --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>B. County Government</masterLabel>
+            <translation><!-- B. County Government --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>C. City or Township Government</masterLabel>
+            <translation><!-- C. City or Township Government --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>D. Special District Government</masterLabel>
+            <translation><!-- D. Special District Government --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>E. Regional Organization</masterLabel>
+            <translation><!-- E. Regional Organization --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>F. U.S. Territory or Possession</masterLabel>
+            <translation><!-- F. U.S. Territory or Possession --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>G. Independent School</masterLabel>
+            <translation><!-- G. Independent School --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>H. Public/State Controlled Institution of Higher Education</masterLabel>
+            <translation><!-- H. Public/State Controlled Institution of Higher Education --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>I. Indian/Native American Tribal Government (Federally Recognized)</masterLabel>
+            <translation><!-- I. Indian/Native American Tribal Government (Federally Recognized) --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>J. Indian/Native American Tribal Government (Other than Federally Recognized)</masterLabel>
+            <translation><!-- J. Indian/Native American Tribal Government (Other than Federally Recognized) --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>K. Indian/Native American Tribally Designated Organization</masterLabel>
+            <translation><!-- K. Indian/Native American Tribally Designated Organization --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>L. Public/Indian Housing Authority</masterLabel>
+            <translation><!-- L. Public/Indian Housing Authority --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>M. Nonprofit with 501C3 IRS Status (Other than Institution of Higher Education)</masterLabel>
+            <translation><!-- M. Nonprofit with 501C3 IRS Status (Other than Institution of Higher Education) --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>N. Nonprofit without 501C3 IRS Status (Other than Institution of Higher Education)</masterLabel>
+            <translation><!-- N. Nonprofit without 501C3 IRS Status (Other than Institution of Higher Education) --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>O. Private Institution of Higher Education</masterLabel>
+            <translation><!-- O. Private Institution of Higher Education --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>P. Individual</masterLabel>
+            <translation><!-- P. Individual --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Q. For-Profit Organization (Other than Small Business)</masterLabel>
+            <translation><!-- Q. For-Profit Organization (Other than Small Business) --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>R. Small Business</masterLabel>
+            <translation><!-- R. Small Business --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>S. Hispanic-serving Institution</masterLabel>
+            <translation><!-- S. Hispanic-serving Institution --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>T. Historically Black Colleges and Universities (HBCUs)</masterLabel>
+            <translation><!-- T. Historically Black Colleges and Universities (HBCUs) --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>U. Tribally Controlled Colleges and Universities (TCCUs)</masterLabel>
+            <translation><!-- U. Tribally Controlled Colleges and Universities (TCCUs) --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>V. Alaska Native and Native Hawaiian Serving Institutions</masterLabel>
+            <translation><!-- V. Alaska Native and Native Hawaiian Serving Institutions --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>W. Non-domestic (non-US) Entity</masterLabel>
+            <translation><!-- W. Non-domestic (non-US) Entity --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>X. Other (specify)</masterLabel>
+            <translation><!-- X. Other (specify) --></translation>
+        </picklistValues>
+    </fields>
+    <fields>
+        <label><!-- Type of Applicant 2 --></label>
+        <name>Type_of_Applicant_2__c</name>
+        <picklistValues>
+            <masterLabel>A. State Government</masterLabel>
+            <translation><!-- A. State Government --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>B. County Government</masterLabel>
+            <translation><!-- B. County Government --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>C. City or Township Government</masterLabel>
+            <translation><!-- C. City or Township Government --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>D. Special District Government</masterLabel>
+            <translation><!-- D. Special District Government --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>E. Regional Organization</masterLabel>
+            <translation><!-- E. Regional Organization --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>F. U.S. Territory or Possession</masterLabel>
+            <translation><!-- F. U.S. Territory or Possession --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>G. Independent School</masterLabel>
+            <translation><!-- G. Independent School --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>H. Public/State Controlled Institution of Higher Education</masterLabel>
+            <translation><!-- H. Public/State Controlled Institution of Higher Education --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>I. Indian/Native American Tribal Government (Federally Recognized)</masterLabel>
+            <translation><!-- I. Indian/Native American Tribal Government (Federally Recognized) --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>J. Indian/Native American Tribal Government (Other than Federally Recognized)</masterLabel>
+            <translation><!-- J. Indian/Native American Tribal Government (Other than Federally Recognized) --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>K. Indian/Native American Tribally Designated Organization</masterLabel>
+            <translation><!-- K. Indian/Native American Tribally Designated Organization --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>L. Public/Indian Housing Authority</masterLabel>
+            <translation><!-- L. Public/Indian Housing Authority --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>M. Nonprofit with 501C3 IRS Status (Other than Institution of Higher Education)</masterLabel>
+            <translation><!-- M. Nonprofit with 501C3 IRS Status (Other than Institution of Higher Education) --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>N. Nonprofit without 501C3 IRS Status (Other than Institution of Higher Education)</masterLabel>
+            <translation><!-- N. Nonprofit without 501C3 IRS Status (Other than Institution of Higher Education) --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>O. Private Institution of Higher Education</masterLabel>
+            <translation><!-- O. Private Institution of Higher Education --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>P. Individual</masterLabel>
+            <translation><!-- P. Individual --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Q. For-Profit Organization (Other than Small Business)</masterLabel>
+            <translation><!-- Q. For-Profit Organization (Other than Small Business) --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>R. Small Business</masterLabel>
+            <translation><!-- R. Small Business --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>S. Hispanic-serving Institution</masterLabel>
+            <translation><!-- S. Hispanic-serving Institution --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>T. Historically Black Colleges and Universities (HBCUs)</masterLabel>
+            <translation><!-- T. Historically Black Colleges and Universities (HBCUs) --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>U. Tribally Controlled Colleges and Universities (TCCUs)</masterLabel>
+            <translation><!-- U. Tribally Controlled Colleges and Universities (TCCUs) --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>V. Alaska Native and Native Hawaiian Serving Institutions</masterLabel>
+            <translation><!-- V. Alaska Native and Native Hawaiian Serving Institutions --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>W. Non-domestic (non-US) Entity</masterLabel>
+            <translation><!-- W. Non-domestic (non-US) Entity --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>X. Other (specify)</masterLabel>
+            <translation><!-- X. Other (specify) --></translation>
+        </picklistValues>
+    </fields>
+    <fields>
+        <help><!-- Select Type of Applicant 3 --></help>
+        <label><!-- Type of Applicant 3 --></label>
+        <name>Type_of_Applicant_3__c</name>
+        <picklistValues>
+            <masterLabel>A. State Government</masterLabel>
+            <translation><!-- A. State Government --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>B. County Government</masterLabel>
+            <translation><!-- B. County Government --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>C. City or Township Government</masterLabel>
+            <translation><!-- C. City or Township Government --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>D. Special District Government</masterLabel>
+            <translation><!-- D. Special District Government --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>E. Regional Organization</masterLabel>
+            <translation><!-- E. Regional Organization --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>F. U.S. Territory or Possession</masterLabel>
+            <translation><!-- F. U.S. Territory or Possession --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>G. Independent School</masterLabel>
+            <translation><!-- G. Independent School --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>H. Public/State Controlled Institution of Higher Education</masterLabel>
+            <translation><!-- H. Public/State Controlled Institution of Higher Education --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>I. Indian/Native American Tribal Government (Federally Recognized)</masterLabel>
+            <translation><!-- I. Indian/Native American Tribal Government (Federally Recognized) --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>J. Indian/Native American Tribal Government (Other than Federally Recognized)</masterLabel>
+            <translation><!-- J. Indian/Native American Tribal Government (Other than Federally Recognized) --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>K. Indian/Native American Tribally Designated Organization</masterLabel>
+            <translation><!-- K. Indian/Native American Tribally Designated Organization --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>L. Public/Indian Housing Authority</masterLabel>
+            <translation><!-- L. Public/Indian Housing Authority --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>M. Nonprofit with 501C3 IRS Status (Other than Institution of Higher Education)</masterLabel>
+            <translation><!-- M. Nonprofit with 501C3 IRS Status (Other than Institution of Higher Education) --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>N. Nonprofit without 501C3 IRS Status (Other than Institution of Higher Education)</masterLabel>
+            <translation><!-- N. Nonprofit without 501C3 IRS Status (Other than Institution of Higher Education) --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>O. Private Institution of Higher Education</masterLabel>
+            <translation><!-- O. Private Institution of Higher Education --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>P. Individual</masterLabel>
+            <translation><!-- P. Individual --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Q. For-Profit Organization (Other than Small Business)</masterLabel>
+            <translation><!-- Q. For-Profit Organization (Other than Small Business) --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>R. Small Business</masterLabel>
+            <translation><!-- R. Small Business --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>S. Hispanic-serving Institution</masterLabel>
+            <translation><!-- S. Hispanic-serving Institution --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>T. Historically Black Colleges and Universities (HBCUs)</masterLabel>
+            <translation><!-- T. Historically Black Colleges and Universities (HBCUs) --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>U. Tribally Controlled Colleges and Universities (TCCUs)</masterLabel>
+            <translation><!-- U. Tribally Controlled Colleges and Universities (TCCUs) --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>V. Alaska Native and Native Hawaiian Serving Institutions</masterLabel>
+            <translation><!-- V. Alaska Native and Native Hawaiian Serving Institutions --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>W. Non-domestic (non-US) Entity</masterLabel>
+            <translation><!-- W. Non-domestic (non-US) Entity --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>X. Other (specify)</masterLabel>
+            <translation><!-- X. Other (specify) --></translation>
+        </picklistValues>
+    </fields>
+    <fields>
+        <help><!-- Please select Type of Application --></help>
+        <label><!-- Type of Application --></label>
+        <name>Type_of_Application__c</name>
+        <picklistValues>
+            <masterLabel>Continuation</masterLabel>
+            <translation><!-- Continuation --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>New</masterLabel>
+            <translation><!-- New --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Revision</masterLabel>
+            <translation><!-- Revision --></translation>
+        </picklistValues>
+    </fields>
+    <fields>
+        <help><!-- Please select  Type of Submission --></help>
+        <label><!-- Type of Submission --></label>
+        <name>Type_of_Submission__c</name>
+        <picklistValues>
+            <masterLabel>Application</masterLabel>
+            <translation><!-- Application --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Changed/Corrected Application</masterLabel>
+            <translation><!-- Changed/Corrected Application --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Pre-Application</masterLabel>
+            <translation><!-- Pre-Application --></translation>
+        </picklistValues>
+    </fields>
+    <fields>
+        <label><!-- Zip --></label>
+        <name>Zip__c</name>
+    </fields>
+    <layouts>
+        <layout>Application for Federal Assistance SF-424</layout>
+        <sections>
+            <label><!-- Application Information --></label>
+            <section>Application Information</section>
+        </sections>
+        <sections>
+            <label><!-- Authorized Representative --></label>
+            <section>Authorized Representative</section>
+        </sections>
+        <sections>
+            <label><!-- Certification --></label>
+            <section>Certification</section>
+        </sections>
+        <sections>
+            <label><!-- Custom Links --></label>
+            <section>Custom Links</section>
+        </sections>
+        <sections>
+            <label><!-- Federal Assistance SF-424 Details --></label>
+            <section>Federal Assistance SF-424 Details</section>
+        </sections>
+        <sections>
+            <label><!-- Fields --></label>
+            <section>Fields</section>
+        </sections>
+        <sections>
+            <label><!-- Organization Information --></label>
+            <section>Organization Information</section>
+        </sections>
+        <sections>
+            <label><!-- Signature --></label>
+            <section>Signature</section>
+        </sections>
+        <sections>
+            <label><!-- T &amp; C --></label>
+            <section>T &amp; C</section>
+        </sections>
+    </layouts>
+    <startsWith>Consonant</startsWith>
+    <validationRules>
+        <errorMessage><!-- Please select the checkbox for accepting the T &amp; C mentioned in the Terms and Conditions. --></errorMessage>
+        <name>Accepting_Terms</name>
+    </validationRules>
+    <validationRules>
+        <errorMessage><!-- Please select the checkbox for accepting the Terms mentioned in the PDF link --></errorMessage>
+        <name>Agreed_Terms</name>
+    </validationRules>
+    <validationRules>
+        <errorMessage><!-- Enter a Comment --></errorMessage>
+        <name>Application_Federal_debt</name>
+    </validationRules>
+    <validationRules>
+        <errorMessage><!-- The date must be after the date entered in the “proposed start date --></errorMessage>
+        <name>Proposed_end_date</name>
+    </validationRules>
+    <validationRules>
+        <errorMessage><!-- The date cannot be prior to the current date --></errorMessage>
+        <name>Proposed_start_date</name>
+    </validationRules>
+    <validationRules>
+        <errorMessage><!-- please enter the date --></errorMessage>
+        <name>Review_by_state</name>
+    </validationRules>
+    <webLinks>
+        <label><!-- Conga_Composer_OAuth --></label>
+        <name>APXTConga4__Conga_Composer_OAuth</name>
+    </webLinks>
+    <webLinks>
+        <label><!-- Conga_Mail_Merge --></label>
+        <name>APXTConga4__Conga_Mail_Merge</name>
+    </webLinks>
+    <webLinks>
+        <label><!-- Conga_Merge --></label>
+        <name>APXTConga4__Conga_Merge</name>
+    </webLinks>
+    <webLinks>
+        <label><!-- Click_the_link_to_download_file --></label>
+        <name>Click_the_link_to_download_file</name>
+    </webLinks>
+    <webLinks>
+        <label><!-- Select_File --></label>
+        <name>Select_File</name>
+    </webLinks>
+</CustomObjectTranslation>

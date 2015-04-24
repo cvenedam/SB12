@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomObjectTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <caseValues>
+        <plural>false</plural>
+        <value>Program Description</value>
+    </caseValues>
+    <caseValues>
+        <plural>true</plural>
+        <value>Program Description</value>
+    </caseValues>
+    <fields>
+        <label><!-- Additional Program Models --></label>
+        <name>Additional_Program_Models1__c</name>
+    </fields>
+    <fields>
+        <label><!-- Additional Program Models --></label>
+        <name>Additional_Program_Models__c</name>
+    </fields>
+    <fields>
+        <label><!-- Funding Priorities --></label>
+        <name>Funding_Priorities__c</name>
+    </fields>
+    <fields>
+        <label><!-- National Performance Measure Information --></label>
+        <name>National_Performance_Measur_Information__c</name>
+    </fields>
+    <fields>
+        <label><!-- National Performance Measures --></label>
+        <name>National_Performance_Measures1__c</name>
+    </fields>
+    <fields>
+        <label><!-- National Performance Measure Information --></label>
+        <name>National_Performance_Measures_Informatio__c</name>
+    </fields>
+    <fields>
+        <label><!-- National Performance Measures --></label>
+        <name>National_Performance_Measures__c</name>
+    </fields>
+    <fields>
+        <label><!-- Notice --></label>
+        <name>Notice_ID__c</name>
+        <relationshipLabel><!-- Program Description --></relationshipLabel>
+    </fields>
+    <fields>
+        <label><!-- Program Authority --></label>
+        <name>Program_Authority__c</name>
+    </fields>
+    <fields>
+        <label><!-- Purpose of Program Funding --></label>
+        <name>Purpose_of_Program_Funding__c</name>
+    </fields>
+    <layouts>
+        <layout>Funding Opportunity Layout</layout>
+        <sections>
+            <label><!-- Custom Links --></label>
+            <section>Custom Links</section>
+        </sections>
+    </layouts>
+    <startsWith>Consonant</startsWith>
+</CustomObjectTranslation>

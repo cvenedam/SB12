@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomObjectTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <caseValues>
+        <plural>false</plural>
+        <value>Corporate Program1</value>
+    </caseValues>
+    <caseValues>
+        <plural>true</plural>
+        <value>Corporate Programs1</value>
+    </caseValues>
+    <fields>
+        <label><!-- Accounts Recievables Responsible --></label>
+        <name>Accounts_Recievables_Responsible__c</name>
+    </fields>
+    <fields>
+        <label><!-- Active --></label>
+        <name>Active__c</name>
+    </fields>
+    <fields>
+        <label><!-- Corporate Code --></label>
+        <name>Corp_Code__c</name>
+    </fields>
+    <fields>
+        <label><!-- Description --></label>
+        <name>Description__c</name>
+    </fields>
+    <fields>
+        <label><!-- Director ID --></label>
+        <name>Director_ID__c</name>
+    </fields>
+    <fields>
+        <label><!-- Director Title --></label>
+        <name>Director_Title__c</name>
+    </fields>
+    <fields>
+        <label><!-- Last Name --></label>
+        <name>Director_last_name__c</name>
+        <relationshipLabel><!-- Corporate Programs1 --></relationshipLabel>
+    </fields>
+    <fields>
+        <label><!-- End Date --></label>
+        <name>End_Date__c</name>
+    </fields>
+    <fields>
+        <label><!-- Excess Amount Indicator --></label>
+        <name>Excess_Amount_Indicator__c</name>
+    </fields>
+    <fields>
+        <label><!-- First Name --></label>
+        <name>First_Name__c</name>
+    </fields>
+    <fields>
+        <label><!-- Layer 2 code --></label>
+        <name>Layer_2_Code__c</name>
+        <relationshipLabel><!-- Corporate Programs1 --></relationshipLabel>
+    </fields>
+    <fields>
+        <label><!-- Legal Basis --></label>
+        <name>Legal_Basis__c</name>
+    </fields>
+    <fields>
+        <label><!-- Line1 --></label>
+        <name>Line1__c</name>
+    </fields>
+    <fields>
+        <label><!-- Line2 --></label>
+        <name>Line2__c</name>
+    </fields>
+    <fields>
+        <label><!-- NOFA Approval Workflow Setup? --></label>
+        <name>NOFA_Approval_Workflow_Setup__c</name>
+        <picklistValues>
+            <masterLabel>No</masterLabel>
+            <translation><!-- No --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Yes</masterLabel>
+            <translation><!-- Yes --></translation>
+        </picklistValues>
+    </fields>
+    <fields>
+        <label><!-- Parent Corporate Program --></label>
+        <name>Parent_Corporate_Program__c</name>
+        <relationshipLabel><!-- Corporate Programs1 (Parent Corporate Program) --></relationshipLabel>
+    </fields>
+    <fields>
+        <label><!-- Start Date --></label>
+        <name>Start_Date__c</name>
+    </fields>
+    <fields>
+        <label><!-- Sub Applicants Allowed --></label>
+        <name>Sub_Applicants_Allowed__c</name>
+        <picklistValues>
+            <masterLabel>A</masterLabel>
+            <translation><!-- A --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>N</masterLabel>
+            <translation><!-- N --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>O</masterLabel>
+            <translation><!-- O --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>R</masterLabel>
+            <translation><!-- R --></translation>
+        </picklistValues>
+    </fields>
+    <fields>
+        <label><!-- Sub Corporate Program --></label>
+        <name>Sub_Corporate_Program__c</name>
+        <relationshipLabel><!-- Corporate Programs1 (Sub Corporate Program) --></relationshipLabel>
+    </fields>
+    <layouts>
+        <layout>Corp_prog Layout</layout>
+        <sections>
+            <label><!-- Custom Links --></label>
+            <section>Custom Links</section>
+        </sections>
+        <sections>
+            <label><!-- Director --></label>
+            <section>Director</section>
+        </sections>
+        <sections>
+            <label><!-- Service Stream --></label>
+            <section>Service Stream</section>
+        </sections>
+    </layouts>
+    <startsWith>Consonant</startsWith>
+</CustomObjectTranslation>

@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomObjectTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <caseValues>
+        <plural>false</plural>
+        <value>Eligibility Information</value>
+    </caseValues>
+    <caseValues>
+        <plural>true</plural>
+        <value>Eligibility Information</value>
+    </caseValues>
+    <fields>
+        <label><!-- Amount of the Segal AmeriCorps Education --></label>
+        <name>Amount_of_Segal_Education_Award1__c</name>
+    </fields>
+    <fields>
+        <label><!-- Amount of the Segal AmeriCorps Education --></label>
+        <name>Amount_of_the_Segal_AmeriCorps_Education__c</name>
+    </fields>
+    <fields>
+        <label><!-- Cost Share or Match Requirements --></label>
+        <name>Cost_Share_or_Match_Requirements__c</name>
+    </fields>
+    <fields>
+        <label><!-- Eligible Applicants --></label>
+        <name>Eligible_to_Apply__c</name>
+    </fields>
+    <fields>
+        <label><!-- Exceptions to the Living Allowance --></label>
+        <name>Exceptions_to_the_Living_Allowance1__c</name>
+    </fields>
+    <fields>
+        <label><!-- Exceptions to the Living Allowance --></label>
+        <name>Exceptions_to_the_Living_Allowance__c</name>
+    </fields>
+    <fields>
+        <label><!-- Maximum Cost per MSY --></label>
+        <name>Maximum_Cost_per_MSY1__c</name>
+    </fields>
+    <fields>
+        <label><!-- Maximum Cost per MSY --></label>
+        <name>Maximum_Cost_per_MSY__c</name>
+    </fields>
+    <fields>
+        <label><!-- Member Enrollment Requirement --></label>
+        <name>Member_Enrollment_Requirement1__c</name>
+    </fields>
+    <fields>
+        <label><!-- Member Enrollment Requirements --></label>
+        <name>Member_Enrollment_Requirements__c</name>
+    </fields>
+    <fields>
+        <label><!-- Member Living Allowance --></label>
+        <name>Member_Living_Allowance1__c</name>
+    </fields>
+    <fields>
+        <label><!-- Member Living Allowance --></label>
+        <name>Member_Living_Allowance__c</name>
+    </fields>
+    <fields>
+        <label><!-- Member Retention Requirement --></label>
+        <name>Member_Retention_Requirement1__c</name>
+    </fields>
+    <fields>
+        <label><!-- Member Retention Requirements --></label>
+        <name>Member_Retention_Requirements__c</name>
+    </fields>
+    <fields>
+        <label><!-- Notice --></label>
+        <name>Notice_ID__c</name>
+        <relationshipLabel><!-- Eligibility Information --></relationshipLabel>
+    </fields>
+    <fields>
+        <label><!-- Other Requirements --></label>
+        <name>Other_Requirements1__c</name>
+    </fields>
+    <fields>
+        <label><!-- Other Requirements --></label>
+        <name>Other_Requirements__c</name>
+    </fields>
+    <layouts>
+        <layout>Eligibility Information Layout</layout>
+        <sections>
+            <label><!-- Custom Links --></label>
+            <section>Custom Links</section>
+        </sections>
+    </layouts>
+    <startsWith>Consonant</startsWith>
+</CustomObjectTranslation>

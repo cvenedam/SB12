@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomObjectTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <caseValues>
+        <plural>false</plural>
+        <value>Application and Submissions Information</value>
+    </caseValues>
+    <caseValues>
+        <plural>true</plural>
+        <value>Application and Submissions Information</value>
+    </caseValues>
+    <fields>
+        <label><!-- Address to Request Application Package --></label>
+        <name>Address_to_Request_Application_Package__c</name>
+    </fields>
+    <fields>
+        <label><!-- Application Content --></label>
+        <name>Application_Content__c</name>
+    </fields>
+    <fields>
+        <label><!-- Application Submission --></label>
+        <name>Application_Submission__c</name>
+    </fields>
+    <fields>
+        <label><!-- Application and Submission Information --></label>
+        <name>Application_and_Submission_Information__c</name>
+    </fields>
+    <fields>
+        <label><!-- Content and Form of Application Submissi --></label>
+        <name>Content_and_Form_of_Application_Submissi__c</name>
+    </fields>
+    <fields>
+        <label><!-- DUNS&amp;SAM --></label>
+        <name>DUNS_SAM__c</name>
+    </fields>
+    <fields>
+        <label><!-- Funding Restrictions --></label>
+        <name>Funding_Restrictions__c</name>
+    </fields>
+    <fields>
+        <label><!-- Indirect Costs --></label>
+        <name>Indirect_Costs__c</name>
+    </fields>
+    <fields>
+        <label><!-- Late Applications --></label>
+        <name>Late_Applications__c</name>
+    </fields>
+    <fields>
+        <label><!-- Notice ID --></label>
+        <name>Notice_ID__c</name>
+        <relationshipLabel><!-- Application and Submissions Informations --></relationshipLabel>
+    </fields>
+    <fields>
+        <label><!-- Notice of Intent to Apply --></label>
+        <name>Notice_of_Intent_Deadline1__c</name>
+    </fields>
+    <fields>
+        <label><!-- Notice of Intent to Apply --></label>
+        <name>Notice_of_Intent_to_Apply__c</name>
+    </fields>
+    <fields>
+        <label><!-- Other Submission Requirements --></label>
+        <name>Other_Submission_Requirements1__c</name>
+    </fields>
+    <fields>
+        <label><!-- Other Sumission Requirements --></label>
+        <name>Other_Sumission_Requirements__c</name>
+    </fields>
+    <fields>
+        <label><!-- Page Limits --></label>
+        <name>Page_Limits__c</name>
+    </fields>
+    <fields>
+        <label><!-- Submission of Additional Documents --></label>
+        <name>Submission_of_Additional_Documents1__c</name>
+    </fields>
+    <fields>
+        <label><!-- Submission of Additional Documents --></label>
+        <name>Submission_of_Additional_Documents__c</name>
+    </fields>
+    <fields>
+        <label><!-- Submitting in eGrants --></label>
+        <name>Submitting_in_eGrants__c</name>
+    </fields>
+    <layouts>
+        <layout>Application and Submissions Information Layout</layout>
+        <sections>
+            <label><!-- Custom Links --></label>
+            <section>Custom Links</section>
+        </sections>
+    </layouts>
+    <startsWith>Consonant</startsWith>
+</CustomObjectTranslation>

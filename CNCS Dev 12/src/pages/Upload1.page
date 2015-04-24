@@ -1,0 +1,5 @@
+<apex:page standardController="Account">
+<apex:pageBlock title="Account Edit" mode="edit">
+   <c:Attachment />
+  </apex:pageBlock>
+</apex:page>

@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomObjectTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <caseValues>
+        <plural>false</plural>
+        <value>Application Review Information</value>
+    </caseValues>
+    <caseValues>
+        <plural>true</plural>
+        <value>Application Review Information</value>
+    </caseValues>
+    <fields>
+        <label><!-- Assessment Criteria --></label>
+        <name>Assessment_Criteria__c</name>
+    </fields>
+    <fields>
+        <label><!-- Blended Review --></label>
+        <name>Blend_Review__c</name>
+    </fields>
+    <fields>
+        <label><!-- Blended Review --></label>
+        <name>Blended_Review__c</name>
+    </fields>
+    <fields>
+        <label><!-- Clarification Process --></label>
+        <name>Clarfication_Process__c</name>
+    </fields>
+    <fields>
+        <label><!-- Clarification Process --></label>
+        <name>Clarification_Process__c</name>
+    </fields>
+    <fields>
+        <label><!-- Compliance and Eligibility Review --></label>
+        <name>Compliance_and_Elgibility_Review__c</name>
+    </fields>
+    <fields>
+        <label><!-- Cost-Effectiveness and Budget Adequacy --></label>
+        <name>Cost_Effectiveness_and_Budget_Adequacy__c</name>
+    </fields>
+    <fields>
+        <label><!-- External Review --></label>
+        <name>External_Review__c</name>
+    </fields>
+    <fields>
+        <label><!-- External Review --></label>
+        <name>Extrnal_Review__c</name>
+    </fields>
+    <fields>
+        <label><!-- Feedback to Applicants --></label>
+        <name>Feedback_to_Applicants__c</name>
+    </fields>
+    <fields>
+        <label><!-- Internal Review --></label>
+        <name>Internal_Review__c</name>
+    </fields>
+    <fields>
+        <label><!-- Internal Review --></label>
+        <name>Internl_Review__c</name>
+    </fields>
+    <fields>
+        <label><!-- Notice ID --></label>
+        <name>Notice_ID__c</name>
+        <relationshipLabel><!-- Application Review Information --></relationshipLabel>
+    </fields>
+    <fields>
+        <label><!-- Organizational Capability --></label>
+        <name>Organizational_Capability__c</name>
+    </fields>
+    <fields>
+        <label><!-- Post Review Quality Control --></label>
+        <name>Post_Revew_Quality_Control__c</name>
+    </fields>
+    <fields>
+        <label><!-- Post Review Quality Control --></label>
+        <name>Post_Review_Quality_Control__c</name>
+    </fields>
+    <fields>
+        <label><!-- Program Design --></label>
+        <name>Program_Design__c</name>
+    </fields>
+    <fields>
+        <label><!-- Review Model --></label>
+        <name>Revew_Model__c</name>
+    </fields>
+    <fields>
+        <label><!-- Review Model --></label>
+        <name>Review_Model__c</name>
+    </fields>
+    <fields>
+        <label><!-- Review and Selection Process --></label>
+        <name>Review_and_Selection_Process__c</name>
+    </fields>
+    <fields>
+        <label><!-- Risk Assessment Evaluation --></label>
+        <name>Risk_Assessment_Evaluation__c</name>
+    </fields>
+    <fields>
+        <label><!-- Selection for Funding --></label>
+        <name>Selection_for_Funding__c</name>
+    </fields>
+    <fields>
+        <label><!-- Selection of Applications for Internal R --></label>
+        <name>Selection_of_Aplications_for_Internal_R__c</name>
+    </fields>
+    <fields>
+        <label><!-- Selection of Applications for Internal R --></label>
+        <name>Selection_of_Applications_for_Internal_R__c</name>
+    </fields>
+    <fields>
+        <label><!-- Compliance and Eligibility Review --></label>
+        <name>Stages_in_the_Review_and_Selection_Proce__c</name>
+    </fields>
+    <fields>
+        <label><!-- Transparency in Grant-Making --></label>
+        <name>Transparency_in_Grant_Making__c</name>
+    </fields>
+    <layouts>
+        <layout>Application Review Information Layout</layout>
+        <sections>
+            <label><!-- Custom Links --></label>
+            <section>Custom Links</section>
+        </sections>
+        <sections>
+            <label><!-- Stages in the Review and Selection Process --></label>
+            <section>Stages in the Review and Selection Process</section>
+        </sections>
+    </layouts>
+    <startsWith>Consonant</startsWith>
+</CustomObjectTranslation>

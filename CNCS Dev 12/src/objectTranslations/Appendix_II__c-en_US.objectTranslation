@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomObjectTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <caseValues>
+        <plural>false</plural>
+        <value>Appendix II</value>
+    </caseValues>
+    <caseValues>
+        <plural>true</plural>
+        <value>Appendix II</value>
+    </caseValues>
+    <fields>
+        <label><!-- Application Instructions --></label>
+        <name>Applica_Instructions__c</name>
+    </fields>
+    <fields>
+        <label><!-- Application Instructions --></label>
+        <name>Application_Instructions__c</name>
+    </fields>
+    <fields>
+        <label><!-- Notice --></label>
+        <name>Notice_ID__c</name>
+        <relationshipLabel><!-- Appendix II --></relationshipLabel>
+    </fields>
+    <fields>
+        <label><!-- Subheading-Public Burden Statement --></label>
+        <name>Subheading_Public_Burd_Statement__c</name>
+    </fields>
+    <fields>
+        <label><!-- Subheading-Public Burden Statement --></label>
+        <name>Subheading_Public_Burden_Statement__c</name>
+    </fields>
+    <layouts>
+        <layout>Appendix II Layout</layout>
+        <sections>
+            <label><!-- Custom Links --></label>
+            <section>Custom Links</section>
+        </sections>
+    </layouts>
+    <startsWith>Consonant</startsWith>
+</CustomObjectTranslation>

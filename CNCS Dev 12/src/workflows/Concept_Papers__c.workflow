@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workflow xmlns="http://soap.sforce.com/2006/04/metadata">
+    <alerts>
+        <fullName>Withdraw_template</fullName>
+        <ccEmails>avasili@plan-sys.com</ccEmails>
+        <description>Withdraw template</description>
+        <protected>false</protected>
+        <recipients>
+            <type>creator</type>
+        </recipients>
+        <senderType>CurrentUser</senderType>
+        <template>unfiled$public/Withdraw</template>
+    </alerts>
+    <fieldUpdates>
+        <fullName>Field_Update</fullName>
+        <field>Status1__c</field>
+        <literalValue>Presubmitted</literalValue>
+        <name>Field Update</name>
+        <notifyAssignee>false</notifyAssignee>
+        <operation>Literal</operation>
+        <protected>false</protected>
+    </fieldUpdates>
+    <fieldUpdates>
+        <fullName>Withdraw</fullName>
+        <field>Approval_Status__c</field>
+        <literalValue>Withdraw</literalValue>
+        <name>Withdraw</name>
+        <notifyAssignee>false</notifyAssignee>
+        <operation>Literal</operation>
+        <protected>false</protected>
+    </fieldUpdates>
+    <fieldUpdates>
+        <fullName>Withdraw1</fullName>
+        <field>Approval_Status__c</field>
+        <literalValue>Withdraw</literalValue>
+        <name>Withdraw1</name>
+        <notifyAssignee>false</notifyAssignee>
+        <operation>Literal</operation>
+        <protected>false</protected>
+    </fieldUpdates>
+    <rules>
+        <fullName>Withdraw</fullName>
+        <actions>
+            <name>Withdraw_template</name>
+            <type>Alert</type>
+        </actions>
+        <active>true</active>
+        <criteriaItems>
+            <field>Concept_Papers__c.Approval_Status__c</field>
+            <operation>equals</operation>
+            <value>Withdraw</value>
+        </criteriaItems>
+        <triggerType>onCreateOrTriggeringUpdate</triggerType>
+    </rules>
+</Workflow>

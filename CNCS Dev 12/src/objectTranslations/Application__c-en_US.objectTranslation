@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomObjectTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <caseValues>
+        <plural>false</plural>
+        <value>Application12</value>
+    </caseValues>
+    <caseValues>
+        <plural>true</plural>
+        <value>Application1</value>
+    </caseValues>
+    <fields>
+        <label><!-- Applications --></label>
+        <name>Applications__c</name>
+        <relationshipLabel><!-- Application1 --></relationshipLabel>
+    </fields>
+    <fields>
+        <label><!-- Concept Paper --></label>
+        <name>Concept_Paper__c</name>
+        <relationshipLabel><!-- Application1 --></relationshipLabel>
+    </fields>
+    <fields>
+        <label><!-- Corporate Program --></label>
+        <name>Corporate_Program__c</name>
+        <picklistValues>
+            <masterLabel>TTA Regional Conferences</masterLabel>
+            <translation><!-- TTA Regional Conferences --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Training &amp; Technical Assistance</masterLabel>
+            <translation><!-- Training &amp; Technical Assistance --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>VISA Headquarters</masterLabel>
+            <translation><!-- VISA Headquarters --></translation>
+        </picklistValues>
+    </fields>
+    <layouts>
+        <layout>Application Layout</layout>
+        <sections>
+            <label><!-- Custom Links --></label>
+            <section>Custom Links</section>
+        </sections>
+    </layouts>
+    <recordTypes>
+        <label><!-- AmeriCorps Fixed Amount Grant --></label>
+        <name>AmeriCorps_Fixed_Amount_Grant</name>
+    </recordTypes>
+    <recordTypes>
+        <label><!-- AmeriCorps Indian Tribes --></label>
+        <name>AmeriCorps_Indian_Tribes</name>
+    </recordTypes>
+    <recordTypes>
+        <label><!-- AmeriCorps NCCC --></label>
+        <name>AmeriCorps_NCCC</name>
+    </recordTypes>
+    <recordTypes>
+        <label><!-- AmeriCorps National --></label>
+        <name>AmeriCorps_National</name>
+    </recordTypes>
+    <recordTypes>
+        <label><!-- AmeriCorps State --></label>
+        <name>AmeriCorps_State</name>
+    </recordTypes>
+    <recordTypes>
+        <label><!-- AmeriCorps State without Comissions --></label>
+        <name>AmeriCorps_State_without_Comissions</name>
+    </recordTypes>
+    <recordTypes>
+        <label><!-- AmeriCorps Territories --></label>
+        <name>AmeriCorps_Territories</name>
+    </recordTypes>
+    <recordTypes>
+        <label><!-- AmeriCorps VISTA --></label>
+        <name>AmeriCorps_VISTA</name>
+    </recordTypes>
+    <recordTypes>
+        <label><!-- Basic Innovative Programs --></label>
+        <name>Basic_Innovative_Programs</name>
+    </recordTypes>
+    <recordTypes>
+        <label><!-- Commission Administration --></label>
+        <name>Commission_Administration</name>
+    </recordTypes>
+    <recordTypes>
+        <label><!-- Disability --></label>
+        <name>Disability</name>
+    </recordTypes>
+    <recordTypes>
+        <label><!-- FGP Component Programs --></label>
+        <name>FGP_Component_Programs</name>
+    </recordTypes>
+    <startsWith>Consonant</startsWith>
+</CustomObjectTranslation>

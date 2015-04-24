@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomObjectTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <caseValues>
+        <plural>false</plural>
+        <value>Planning</value>
+    </caseValues>
+    <caseValues>
+        <plural>true</plural>
+        <value>Planning</value>
+    </caseValues>
+    <fields>
+        <label><!-- Planning Name --></label>
+        <name>Planning_Name__c</name>
+    </fields>
+    <layouts>
+        <layout>Planning Layout</layout>
+        <sections>
+            <label><!-- Custom Links --></label>
+            <section>Custom Links</section>
+        </sections>
+    </layouts>
+    <recordTypes>
+        <label><!-- NOFA/RFP --></label>
+        <name>NOFA_RFP</name>
+    </recordTypes>
+    <startsWith>Consonant</startsWith>
+</CustomObjectTranslation>

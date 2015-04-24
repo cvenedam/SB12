@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomObjectTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <caseValues>
+        <plural>false</plural>
+        <value>Service Address</value>
+    </caseValues>
+    <caseValues>
+        <plural>true</plural>
+        <value>Service Address</value>
+    </caseValues>
+    <fields>
+        <label><!-- Application Due --></label>
+        <name>Application_Due1__c</name>
+    </fields>
+    <fields>
+        <label><!-- Application Due2 --></label>
+        <name>Application_Due2__c</name>
+    </fields>
+    <fields>
+        <label><!-- Application Due3 --></label>
+        <name>Application_Due3__c</name>
+    </fields>
+    <fields>
+        <label><!-- Application Due 4 --></label>
+        <name>Application_Due4__c</name>
+    </fields>
+    <fields>
+        <label><!-- Concept Paper Due Date --></label>
+        <name>Concept_Paper_Due_Date1__c</name>
+    </fields>
+    <fields>
+        <label><!-- Concept Paper Due Date2 --></label>
+        <name>Concept_Paper_Due_Date2__c</name>
+    </fields>
+    <fields>
+        <label><!-- Concept Paper Due Date3 --></label>
+        <name>Concept_Paper_Due_Date3__c</name>
+    </fields>
+    <fields>
+        <label><!-- Concept Paper Due Date 4 --></label>
+        <name>Concept_Paper_Due_Date4__c</name>
+    </fields>
+    <fields>
+        <label><!-- Concept Papers --></label>
+        <name>Concept_Papers__c</name>
+        <relationshipLabel><!-- Service Address --></relationshipLabel>
+    </fields>
+    <fields>
+        <help><!-- Is Service Address different from Organization Address --></help>
+        <label><!-- Different from Organization address? --></label>
+        <name>Different_from_Organization_address__c</name>
+        <picklistValues>
+            <masterLabel>No</masterLabel>
+            <translation><!-- No --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Yes</masterLabel>
+            <translation><!-- Yes --></translation>
+        </picklistValues>
+    </fields>
+    <fields>
+        <label><!-- If Yes,Specify the address --></label>
+        <name>If_Yes_Specify_the_address__c</name>
+    </fields>
+    <fields>
+        <label><!-- Project End Due Date --></label>
+        <name>Project_End_Date1__c</name>
+    </fields>
+    <fields>
+        <label><!-- Project End Due Date 2 --></label>
+        <name>Project_End_Date2__c</name>
+    </fields>
+    <fields>
+        <label><!-- Project End Due Date 3 --></label>
+        <name>Project_End_Due_Date3__c</name>
+    </fields>
+    <fields>
+        <label><!-- Project End Due Date 4 --></label>
+        <name>Project_End_Due_Date_4__c</name>
+    </fields>
+    <fields>
+        <label><!-- Project Start Due Date --></label>
+        <name>Project_Start_Date1__c</name>
+    </fields>
+    <fields>
+        <label><!-- Project Start Due Date 2 --></label>
+        <name>Project_Start_Date2__c</name>
+    </fields>
+    <fields>
+        <label><!-- Project Start Due Date 3 --></label>
+        <name>Project_Start_Date3__c</name>
+    </fields>
+    <fields>
+        <label><!-- Project Start Due Date 4 --></label>
+        <name>Project_Start_Due_Date_4__c</name>
+    </fields>
+    <fields>
+        <label><!-- Region --></label>
+        <name>Region__c</name>
+        <picklistValues>
+            <masterLabel>Atlantic Region</masterLabel>
+            <translation><!-- Atlantic Region --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>North Central Region</masterLabel>
+            <translation><!-- North Central Region --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Pacific Region</masterLabel>
+            <translation><!-- Pacific Region --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Southern Region</masterLabel>
+            <translation><!-- Southern Region --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Southwestern Region</masterLabel>
+            <translation><!-- Southwestern Region --></translation>
+        </picklistValues>
+    </fields>
+    <fields>
+        <label><!-- Round --></label>
+        <name>Round__c</name>
+        <picklistValues>
+            <masterLabel>Round 1</masterLabel>
+            <translation><!-- Round 1 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Round 2</masterLabel>
+            <translation><!-- Round 2 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Round 3</masterLabel>
+            <translation><!-- Round 3 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Round 4</masterLabel>
+            <translation><!-- Round 4 --></translation>
+        </picklistValues>
+    </fields>
+    <layouts>
+        <layout>Service Address Layout</layout>
+        <sections>
+            <label><!-- Custom Links --></label>
+            <section>Custom Links</section>
+        </sections>
+        <sections>
+            <label><!-- Dew Dates --></label>
+            <section>Dew Dates</section>
+        </sections>
+        <sections>
+            <label><!-- Region --></label>
+            <section>Region</section>
+        </sections>
+    </layouts>
+    <startsWith>Consonant</startsWith>
+</CustomObjectTranslation>

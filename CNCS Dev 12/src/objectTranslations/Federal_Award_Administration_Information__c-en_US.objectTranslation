@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomObjectTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <caseValues>
+        <plural>false</plural>
+        <value>Federal Award Administration Information</value>
+    </caseValues>
+    <caseValues>
+        <plural>true</plural>
+        <value>Federal Award Administration Information</value>
+    </caseValues>
+    <fields>
+        <label><!-- Continuation Funding Information and Req --></label>
+        <name>Additional_Information1__c</name>
+    </fields>
+    <fields>
+        <label><!-- Continuation Funding Information and Re --></label>
+        <name>Additional_Information__c</name>
+    </fields>
+    <fields>
+        <label><!-- Administrative Policy Requirements --></label>
+        <name>Administrative_and_National_Policy_Requi__c</name>
+    </fields>
+    <fields>
+        <label><!-- Federal Award Notice --></label>
+        <name>Federal_Award_Notice__c</name>
+    </fields>
+    <fields>
+        <label><!-- National Service Criminal History Check --></label>
+        <name>National_Service_Criminal_History_Check__c</name>
+    </fields>
+    <fields>
+        <label><!-- Notice ID --></label>
+        <name>Notice_ID__c</name>
+        <relationshipLabel><!-- Federal Award Administration Information --></relationshipLabel>
+    </fields>
+    <fields>
+        <label><!-- Reporting Requirements --></label>
+        <name>Reporting_Requirements__c</name>
+    </fields>
+    <fields>
+        <label><!-- Use of Material --></label>
+        <name>Use_of_Material__c</name>
+    </fields>
+    <layouts>
+        <layout>Award Administration Information Layout</layout>
+        <sections>
+            <label><!-- Custom Links --></label>
+            <section>Custom Links</section>
+        </sections>
+    </layouts>
+    <startsWith>Consonant</startsWith>
+</CustomObjectTranslation>

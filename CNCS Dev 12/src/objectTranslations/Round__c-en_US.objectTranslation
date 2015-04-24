@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomObjectTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <caseValues>
+        <plural>false</plural>
+        <value>Round</value>
+    </caseValues>
+    <caseValues>
+        <plural>true</plural>
+        <value>Rounds</value>
+    </caseValues>
+    <fields>
+        <label><!-- Class Number --></label>
+        <name>Class_Number__c</name>
+    </fields>
+    <fields>
+        <label><!-- Class ID --></label>
+        <name>Class__c</name>
+        <relationshipLabel><!-- Rounds --></relationshipLabel>
+    </fields>
+    <fields>
+        <label><!-- Round End Date --></label>
+        <name>Round_End_Date__c</name>
+    </fields>
+    <fields>
+        <label><!-- Round Number --></label>
+        <name>Round_Number__c</name>
+    </fields>
+    <fields>
+        <label><!-- Round Start Date --></label>
+        <name>Round_Start_Date__c</name>
+    </fields>
+    <fields>
+        <label><!-- Transition End Date --></label>
+        <name>Transition_End_Round_Date__c</name>
+    </fields>
+    <fields>
+        <label><!-- Transition Start Date --></label>
+        <name>Transition_Start_Round_Dates__c</name>
+    </fields>
+    <layouts>
+        <layout>Round Layout</layout>
+        <sections>
+            <label><!-- Custom Links --></label>
+            <section>Custom Links</section>
+        </sections>
+    </layouts>
+    <startsWith>Consonant</startsWith>
+    <validationRules>
+        <errorMessage><!-- Round end date must be after Round start date --></errorMessage>
+        <name>Round_End_Date</name>
+    </validationRules>
+    <validationRules>
+        <errorMessage><!-- Transition end date must be after the Transition start date --></errorMessage>
+        <name>Transition_End_Date</name>
+    </validationRules>
+    <validationRules>
+        <errorMessage><!-- Transition start date must be after the round end date --></errorMessage>
+        <name>Transition_Start_Date</name>
+    </validationRules>
+</CustomObjectTranslation>

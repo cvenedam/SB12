@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Network xmlns="http://soap.sforce.com/2006/04/metadata">
+    <allowMembersToFlag>false</allowMembersToFlag>
+    <branding>
+        <loginFooterText>salesforce.com</loginFooterText>
+        <primaryColor>#3283D5</primaryColor>
+        <primaryComplementColor>#FFFFFF</primaryComplementColor>
+        <quaternaryColor>#AACDF0</quaternaryColor>
+        <quaternaryComplementColor>#222222</quaternaryComplementColor>
+        <secondaryColor>#3283D5</secondaryColor>
+        <tertiaryColor>#3283D5</tertiaryColor>
+        <tertiaryComplementColor>#FFFFFF</tertiaryComplementColor>
+        <zeronaryColor>#3283D5</zeronaryColor>
+        <zeronaryComplementColor>#FFFFFF</zeronaryComplementColor>
+    </branding>
+    <changePasswordTemplate>unfiled$public/CommunityChangePasswordEmailTemplate</changePasswordTemplate>
+    <emailSenderAddress>pmungamuri@plan-sys.com</emailSenderAddress>
+    <emailSenderName>Statecommission</emailSenderName>
+    <enableGuestChatter>false</enableGuestChatter>
+    <enableInvitation>false</enableInvitation>
+    <enableKnowledgeable>false</enableKnowledgeable>
+    <enableNicknameDisplay>false</enableNicknameDisplay>
+    <enablePrivateMessages>false</enablePrivateMessages>
+    <enableReputation>false</enableReputation>
+    <forgotPasswordTemplate>unfiled$public/CommunityForgotPasswordEmailTemplate</forgotPasswordTemplate>
+    <logoutUrl>https://cns--devsb12.cs32.my.salesforce.com</logoutUrl>
+    <networkMemberGroups>
+        <profile>Admin</profile>
+        <profile>State commission</profile>
+    </networkMemberGroups>
+    <picassoSite>Statecommission1</picassoSite>
+    <selfRegistration>false</selfRegistration>
+    <sendWelcomeEmail>true</sendWelcomeEmail>
+    <site>Statecommission</site>
+    <status>Live</status>
+    <tabs>
+        <customTab>NOFA__c</customTab>
+        <customTab>Project__c</customTab>
+        <defaultTab>Account</defaultTab>
+        <standardTab>Account</standardTab>
+        <standardTab>Contact</standardTab>
+        <standardTab>Opportunity</standardTab>
+    </tabs>
+    <urlPathPrefix>statecommission</urlPathPrefix>
+    <welcomeTemplate>unfiled$public/CommunityWelcomeEmailTemplate</welcomeTemplate>
+</Network>

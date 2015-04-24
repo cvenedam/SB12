@@ -1,0 +1,1690 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomObjectTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <caseValues>
+        <plural>false</plural>
+        <value>Concept Papers</value>
+    </caseValues>
+    <caseValues>
+        <plural>true</plural>
+        <value>Concept Papers</value>
+    </caseValues>
+    <fields>
+        <caseValues>
+            <plural>false</plural>
+            <value>Organization</value>
+        </caseValues>
+        <name>amount_opportunity</name>
+        <startsWith>Vowel</startsWith>
+    </fields>
+    <fields>
+        <caseValues>
+            <plural>false</plural>
+            <value>Proposed End Date</value>
+        </caseValues>
+        <name>close_date_opportunity</name>
+        <startsWith>Vowel</startsWith>
+    </fields>
+    <fields>
+        <caseValues>
+            <plural>false</plural>
+            <value>Concept Papers Access</value>
+        </caseValues>
+        <name>opportunity_access</name>
+        <startsWith>Vowel</startsWith>
+    </fields>
+    <fields>
+        <caseValues>
+            <plural>false</plural>
+            <value>Concept Papers Access Level</value>
+        </caseValues>
+        <name>opportunity_access_level</name>
+        <startsWith>Vowel</startsWith>
+    </fields>
+    <fields>
+        <caseValues>
+            <plural>false</plural>
+            <value>Concept Papers Alert</value>
+        </caseValues>
+        <name>opportunity_alert</name>
+        <startsWith>Vowel</startsWith>
+    </fields>
+    <fields>
+        <caseValues>
+            <plural>false</plural>
+            <value>Concept Papers Amount</value>
+        </caseValues>
+        <name>opportunity_amount</name>
+        <startsWith>Vowel</startsWith>
+    </fields>
+    <fields>
+        <caseValues>
+            <plural>false</plural>
+            <value>Concept Papers-based Briefcase</value>
+        </caseValues>
+        <name>opportunity_based_briefcase</name>
+        <startsWith>Vowel</startsWith>
+    </fields>
+    <fields>
+        <caseValues>
+            <plural>false</plural>
+            <value>Concept Papers Close Date</value>
+        </caseValues>
+        <name>opportunity_close_date</name>
+        <startsWith>Vowel</startsWith>
+    </fields>
+    <fields>
+        <caseValues>
+            <plural>false</plural>
+            <value>Concept Papers Closed</value>
+        </caseValues>
+        <name>opportunity_closed</name>
+        <startsWith>Vowel</startsWith>
+    </fields>
+    <fields>
+        <caseValues>
+            <plural>false</plural>
+            <value>Concept Papers Competitor</value>
+        </caseValues>
+        <name>opportunity_competitor</name>
+        <startsWith>Vowel</startsWith>
+    </fields>
+    <fields>
+        <caseValues>
+            <plural>false</plural>
+            <value>Concept Papers Competitor Report</value>
+        </caseValues>
+        <name>opportunity_competitor_report</name>
+        <startsWith>Vowel</startsWith>
+    </fields>
+    <fields>
+        <caseValues>
+            <plural>false</plural>
+            <value>Concept Papers Contact</value>
+        </caseValues>
+        <name>opportunity_contact</name>
+        <startsWith>Vowel</startsWith>
+    </fields>
+    <fields>
+        <caseValues>
+            <plural>false</plural>
+            <value>Concept Papers Contact Report</value>
+        </caseValues>
+        <name>opportunity_contact_report</name>
+        <startsWith>Vowel</startsWith>
+    </fields>
+    <fields>
+        <caseValues>
+            <plural>false</plural>
+            <value>Concept Papers Contact Role</value>
+        </caseValues>
+        <caseValues>
+            <plural>true</plural>
+            <value>Concept Papers Contact Roles</value>
+        </caseValues>
+        <name>opportunity_contact_role</name>
+        <startsWith>Vowel</startsWith>
+    </fields>
+    <fields>
+        <caseValues>
+            <plural>false</plural>
+            <value>Concept Papers Creator</value>
+        </caseValues>
+        <name>opportunity_creator</name>
+        <startsWith>Vowel</startsWith>
+    </fields>
+    <fields>
+        <caseValues>
+            <plural>false</plural>
+            <value>Concept Papers</value>
+        </caseValues>
+        <name>opportunity_currency</name>
+        <startsWith>Vowel</startsWith>
+    </fields>
+    <fields>
+        <caseValues>
+            <plural>false</plural>
+            <value>Concept Papers Description</value>
+        </caseValues>
+        <name>opportunity_description</name>
+        <startsWith>Vowel</startsWith>
+    </fields>
+    <fields>
+        <caseValues>
+            <plural>false</plural>
+            <value>Concept Papers Detail Page</value>
+        </caseValues>
+        <name>opportunity_detail_page</name>
+        <startsWith>Vowel</startsWith>
+    </fields>
+    <fields>
+        <caseValues>
+            <plural>false</plural>
+            <value>Concept Papers Division</value>
+        </caseValues>
+        <name>opportunity_division</name>
+        <startsWith>Vowel</startsWith>
+    </fields>
+    <fields>
+        <caseValues>
+            <plural>false</plural>
+            <value>Concept Papers Edit</value>
+        </caseValues>
+        <name>opportunity_edit</name>
+        <startsWith>Vowel</startsWith>
+    </fields>
+    <fields>
+        <caseValues>
+            <plural>false</plural>
+            <value>Concept Papers Field</value>
+        </caseValues>
+        <caseValues>
+            <plural>true</plural>
+            <value>Concept Papers Fields</value>
+        </caseValues>
+        <name>opportunity_field</name>
+        <startsWith>Vowel</startsWith>
+    </fields>
+    <fields>
+        <caseValues>
+            <plural>false</plural>
+            <value>Concept Papers Field History</value>
+        </caseValues>
+        <name>opportunity_field_history</name>
+        <startsWith>Vowel</startsWith>
+    </fields>
+    <fields>
+        <caseValues>
+            <plural>false</plural>
+            <value>Concept Papers Field History ID</value>
+        </caseValues>
+        <name>opportunity_field_history_id</name>
+        <startsWith>Vowel</startsWith>
+    </fields>
+    <fields>
+        <caseValues>
+            <plural>false</plural>
+            <value>Concept Papers Field History Report</value>
+        </caseValues>
+        <name>opportunity_field_history_report</name>
+        <startsWith>Vowel</startsWith>
+    </fields>
+    <fields>
+        <caseValues>
+            <plural>false</plural>
+            <value>Concept Papers Forecast</value>
+        </caseValues>
+        <caseValues>
+            <plural>true</plural>
+            <value>Concept Papers Forecasts</value>
+        </caseValues>
+        <name>opportunity_forecast</name>
+        <startsWith>Vowel</startsWith>
+    </fields>
+    <fields>
+        <caseValues>
+            <plural>false</plural>
+            <value>Concept Papers Forecast Category</value>
+        </caseValues>
+        <name>opportunity_forecast_category</name>
+        <startsWith>Vowel</startsWith>
+    </fields>
+    <fields>
+        <caseValues>
+            <plural>false</plural>
+            <value>Concept Papers Forecast Edit</value>
+        </caseValues>
+        <name>opportunity_forecast_edit</name>
+        <startsWith>Vowel</startsWith>
+    </fields>
+    <fields>
+        <caseValues>
+            <plural>false</plural>
+            <value>Concept Papers History</value>
+        </caseValues>
+        <name>opportunity_history</name>
+        <startsWith>Vowel</startsWith>
+    </fields>
+    <fields>
+        <caseValues>
+            <plural>false</plural>
+            <value>Concept Papers History ID</value>
+        </caseValues>
+        <name>opportunity_history_id</name>
+        <startsWith>Vowel</startsWith>
+    </fields>
+    <fields>
+        <caseValues>
+            <plural>false</plural>
+            <value>Concept Papers History Information</value>
+        </caseValues>
+        <name>opportunity_history_information</name>
+        <startsWith>Vowel</startsWith>
+    </fields>
+    <fields>
+        <caseValues>
+            <plural>false</plural>
+            <value>Concept Papers History Report</value>
+        </caseValues>
+        <name>opportunity_history_report</name>
+        <startsWith>Vowel</startsWith>
+    </fields>
+    <fields>
+        <caseValues>
+            <plural>false</plural>
+            <value>Concept Papers ID</value>
+        </caseValues>
+        <name>opportunity_id</name>
+        <startsWith>Vowel</startsWith>
+    </fields>
+    <fields>
+        <caseValues>
+            <plural>false</plural>
+            <value>Concept Papers Info</value>
+        </caseValues>
+        <name>opportunity_info</name>
+        <startsWith>Vowel</startsWith>
+    </fields>
+    <fields>
+        <caseValues>
+            <plural>false</plural>
+            <value>Concept Papers Information</value>
+        </caseValues>
+        <name>opportunity_information</name>
+        <startsWith>Vowel</startsWith>
+    </fields>
+    <fields>
+        <caseValues>
+            <plural>false</plural>
+            <value>Concept Papers Lead Source</value>
+        </caseValues>
+        <name>opportunity_lead_source</name>
+        <startsWith>Vowel</startsWith>
+    </fields>
+    <fields>
+        <caseValues>
+            <plural>false</plural>
+            <value>Concept Papers Line Item</value>
+        </caseValues>
+        <name>opportunity_line_item</name>
+        <startsWith>Vowel</startsWith>
+    </fields>
+    <fields>
+        <caseValues>
+            <plural>false</plural>
+            <value>Concept Papers Line Item Field</value>
+        </caseValues>
+        <caseValues>
+            <plural>true</plural>
+            <value>Concept Papers Line Item Fields</value>
+        </caseValues>
+        <name>opportunity_line_item_field</name>
+        <startsWith>Vowel</startsWith>
+    </fields>
+    <fields>
+        <caseValues>
+            <plural>false</plural>
+            <value>Concept Papers Line Item ID</value>
+        </caseValues>
+        <name>opportunity_line_item_id</name>
+        <startsWith>Vowel</startsWith>
+    </fields>
+    <fields>
+        <caseValues>
+            <plural>false</plural>
+            <value>Concept Papers Name</value>
+        </caseValues>
+        <caseValues>
+            <plural>true</plural>
+            <value>Concept Papers Names</value>
+        </caseValues>
+        <name>opportunity_name</name>
+        <startsWith>Vowel</startsWith>
+    </fields>
+    <fields>
+        <caseValues>
+            <plural>false</plural>
+            <value>Concept Papers Owner</value>
+        </caseValues>
+        <name>opportunity_owner</name>
+        <startsWith>Vowel</startsWith>
+    </fields>
+    <fields>
+        <caseValues>
+            <plural>false</plural>
+            <value>Concept Papers Owner Alias</value>
+        </caseValues>
+        <name>opportunity_owner_alias</name>
+        <startsWith>Vowel</startsWith>
+    </fields>
+    <fields>
+        <caseValues>
+            <plural>false</plural>
+            <value>Concept Papers Owner Email</value>
+        </caseValues>
+        <name>opportunity_owner_email</name>
+        <startsWith>Vowel</startsWith>
+    </fields>
+    <fields>
+        <caseValues>
+            <plural>false</plural>
+            <value>Concept Papers Partner Report</value>
+        </caseValues>
+        <name>opportunity_partner_report</name>
+        <startsWith>Vowel</startsWith>
+    </fields>
+    <fields>
+        <caseValues>
+            <plural>false</plural>
+            <value>Concept Papers Picklists</value>
+        </caseValues>
+        <name>opportunity_picklists</name>
+        <startsWith>Vowel</startsWith>
+    </fields>
+    <fields>
+        <caseValues>
+            <plural>false</plural>
+            <value>Concept Papers Pipeline</value>
+        </caseValues>
+        <name>opportunity_pipeline</name>
+        <startsWith>Vowel</startsWith>
+    </fields>
+    <fields>
+        <caseValues>
+            <plural>false</plural>
+            <value>Concept Papers Pipeline Trend</value>
+        </caseValues>
+        <name>opportunity_pipeline_trend</name>
+        <startsWith>Vowel</startsWith>
+    </fields>
+    <fields>
+        <caseValues>
+            <plural>false</plural>
+            <value>Concept Papers Product Name</value>
+        </caseValues>
+        <caseValues>
+            <plural>true</plural>
+            <value>Concept Papers Product Names</value>
+        </caseValues>
+        <name>opportunity_product_name</name>
+        <startsWith>Vowel</startsWith>
+    </fields>
+    <fields>
+        <caseValues>
+            <plural>false</plural>
+            <value>Concept Papers Quantity</value>
+        </caseValues>
+        <name>opportunity_quantity</name>
+        <startsWith>Vowel</startsWith>
+    </fields>
+    <fields>
+        <caseValues>
+            <plural>false</plural>
+            <value>Concept Papers Record Type</value>
+        </caseValues>
+        <caseValues>
+            <plural>true</plural>
+            <value>Concept Papers Record Types</value>
+        </caseValues>
+        <name>opportunity_record_type</name>
+        <startsWith>Vowel</startsWith>
+    </fields>
+    <fields>
+        <caseValues>
+            <plural>false</plural>
+            <value>Concept Papers Report</value>
+        </caseValues>
+        <caseValues>
+            <plural>true</plural>
+            <value>Concept Papers Reports</value>
+        </caseValues>
+        <name>opportunity_report</name>
+        <startsWith>Vowel</startsWith>
+    </fields>
+    <fields>
+        <caseValues>
+            <plural>false</plural>
+            <value>Concept Papers Schedule Report</value>
+        </caseValues>
+        <name>opportunity_schedule_report</name>
+        <startsWith>Vowel</startsWith>
+    </fields>
+    <fields>
+        <caseValues>
+            <plural>false</plural>
+            <value>Concept Papers Source</value>
+        </caseValues>
+        <caseValues>
+            <plural>true</plural>
+            <value>Concept Papers Sources</value>
+        </caseValues>
+        <name>opportunity_source</name>
+        <startsWith>Vowel</startsWith>
+    </fields>
+    <fields>
+        <caseValues>
+            <plural>false</plural>
+            <value>Concept Papers Stage</value>
+        </caseValues>
+        <caseValues>
+            <plural>true</plural>
+            <value>Concept Papers Stages</value>
+        </caseValues>
+        <name>opportunity_stage</name>
+        <startsWith>Vowel</startsWith>
+    </fields>
+    <fields>
+        <caseValues>
+            <plural>false</plural>
+            <value>Concept Papers Stage Duration Report</value>
+        </caseValues>
+        <name>opportunity_stage_duration_report</name>
+        <startsWith>Vowel</startsWith>
+    </fields>
+    <fields>
+        <caseValues>
+            <plural>false</plural>
+            <value>Concept Papers Stage ID</value>
+        </caseValues>
+        <name>opportunity_stage_id</name>
+        <startsWith>Vowel</startsWith>
+    </fields>
+    <fields>
+        <caseValues>
+            <plural>false</plural>
+            <value>Concept Papers Stage Name</value>
+        </caseValues>
+        <name>opportunity_stage_name</name>
+        <startsWith>Vowel</startsWith>
+    </fields>
+    <fields>
+        <caseValues>
+            <plural>false</plural>
+            <value>Concept Papers Stage Status</value>
+        </caseValues>
+        <name>opportunity_stage_status</name>
+        <startsWith>Vowel</startsWith>
+    </fields>
+    <fields>
+        <caseValues>
+            <plural>false</plural>
+            <value>Concept Papers Status</value>
+        </caseValues>
+        <name>opportunity_status</name>
+        <startsWith>Vowel</startsWith>
+    </fields>
+    <fields>
+        <caseValues>
+            <plural>false</plural>
+            <value>Concept Papers Team</value>
+        </caseValues>
+        <caseValues>
+            <plural>true</plural>
+            <value>Concept Papers Teams</value>
+        </caseValues>
+        <name>opportunity_team</name>
+        <startsWith>Vowel</startsWith>
+    </fields>
+    <fields>
+        <caseValues>
+            <plural>false</plural>
+            <value>Concept Papers Team Member</value>
+        </caseValues>
+        <caseValues>
+            <plural>true</plural>
+            <value>Concept Papers Team Members</value>
+        </caseValues>
+        <name>opportunity_team_member</name>
+        <startsWith>Vowel</startsWith>
+    </fields>
+    <fields>
+        <caseValues>
+            <plural>false</plural>
+            <value>Concept Papers Team Member Field</value>
+        </caseValues>
+        <caseValues>
+            <plural>true</plural>
+            <value>Concept Papers Team Member Fields</value>
+        </caseValues>
+        <name>opportunity_team_member_field</name>
+        <startsWith>Vowel</startsWith>
+    </fields>
+    <fields>
+        <caseValues>
+            <plural>false</plural>
+            <value>Concept Papers Team Member ID</value>
+        </caseValues>
+        <name>opportunity_team_member_id</name>
+        <startsWith>Vowel</startsWith>
+    </fields>
+    <fields>
+        <caseValues>
+            <plural>false</plural>
+            <value>Concept Papers with Oppportunity Teams and Products Report</value>
+        </caseValues>
+        <name>opportunity_team_product_report</name>
+        <startsWith>Vowel</startsWith>
+    </fields>
+    <fields>
+        <caseValues>
+            <plural>false</plural>
+            <value>Concept Papers Team Report</value>
+        </caseValues>
+        <caseValues>
+            <plural>true</plural>
+            <value>Concept Papers Team Reports</value>
+        </caseValues>
+        <name>opportunity_team_report</name>
+        <startsWith>Vowel</startsWith>
+    </fields>
+    <fields>
+        <caseValues>
+            <plural>false</plural>
+            <value>Concept Papers Territory</value>
+        </caseValues>
+        <caseValues>
+            <plural>true</plural>
+            <value>Concept Papers Territories</value>
+        </caseValues>
+        <name>opportunity_territory</name>
+        <startsWith>Vowel</startsWith>
+    </fields>
+    <fields>
+        <caseValues>
+            <plural>false</plural>
+            <value>Concept Papers Territory</value>
+        </caseValues>
+        <caseValues>
+            <plural>true</plural>
+            <value>Concept Papers Territories</value>
+        </caseValues>
+        <name>opportunity_territory2</name>
+        <startsWith>Vowel</startsWith>
+    </fields>
+    <fields>
+        <caseValues>
+            <plural>false</plural>
+            <value>Concept Papers Territory</value>
+        </caseValues>
+        <name>opportunity_territory_report</name>
+        <startsWith>Vowel</startsWith>
+    </fields>
+    <fields>
+        <caseValues>
+            <plural>false</plural>
+            <value>Concept Papers Trend</value>
+        </caseValues>
+        <caseValues>
+            <plural>true</plural>
+            <value>Concept Papers Trends</value>
+        </caseValues>
+        <name>opportunity_trend</name>
+        <startsWith>Vowel</startsWith>
+    </fields>
+    <fields>
+        <caseValues>
+            <plural>false</plural>
+            <value>Concept Papers Trend Information</value>
+        </caseValues>
+        <name>opportunity_trend_information</name>
+        <startsWith>Vowel</startsWith>
+    </fields>
+    <fields>
+        <caseValues>
+            <plural>false</plural>
+            <value>Concept Papers Trend Report</value>
+        </caseValues>
+        <name>opportunity_trend_report</name>
+        <startsWith>Vowel</startsWith>
+    </fields>
+    <fields>
+        <caseValues>
+            <plural>false</plural>
+            <value>Concept Papers Type</value>
+        </caseValues>
+        <name>opportunity_type</name>
+        <startsWith>Vowel</startsWith>
+    </fields>
+    <fields>
+        <caseValues>
+            <plural>false</plural>
+            <value>Concept Papers View</value>
+        </caseValues>
+        <caseValues>
+            <plural>true</plural>
+            <value>Concept Papers Views</value>
+        </caseValues>
+        <name>opportunity_view</name>
+        <startsWith>Vowel</startsWith>
+    </fields>
+    <fields>
+        <label><!-- Anticipated length of project (months) --></label>
+        <name>Anticipated_length_of_project_months__c</name>
+    </fields>
+    <fields>
+        <label><!-- Approval Status --></label>
+        <name>Approval_Status__c</name>
+        <picklistValues>
+            <masterLabel>Approved</masterLabel>
+            <translation><!-- Approved --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Hold Pending Resources</masterLabel>
+            <translation><!-- Hold Pending Resources --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Rejected</masterLabel>
+            <translation><!-- Rejected --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Under Review</masterLabel>
+            <translation><!-- Under Review --></translation>
+        </picklistValues>
+    </fields>
+    <fields>
+        <label><!-- Are you a former grantee/sponsor? --></label>
+        <name>Are_you_a_former_grantee_sponsor__c</name>
+        <picklistValues>
+            <masterLabel>No</masterLabel>
+            <translation><!-- No --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Yes</masterLabel>
+            <translation><!-- Yes --></translation>
+        </picklistValues>
+    </fields>
+    <fields>
+        <label><!-- Areas Affected by the Project --></label>
+        <name>Areas_Affected_by_the_Project__c</name>
+    </fields>
+    <fields>
+        <help><!-- “Please read the authorization, assurances and certifications below. You must view or print the assurances/certifications before you can click on each &quot;I Agree&quot; for assurance or certification.” --></help>
+        <label><!-- Certifications --></label>
+        <name>Certifications__c</name>
+    </fields>
+    <fields>
+        <label><!-- City --></label>
+        <name>Cite__c</name>
+    </fields>
+    <fields>
+        <label><!-- City --></label>
+        <name>City__c</name>
+    </fields>
+    <fields>
+        <label><!-- Comments --></label>
+        <name>Comments__c</name>
+    </fields>
+    <fields>
+        <help><!-- “How many member/participants does your organization have?&quot; --></help>
+        <label><!-- Current Members/Participants --></label>
+        <name>Current_Members_Participants__c</name>
+    </fields>
+    <fields>
+        <label><!-- Disaster Services --></label>
+        <name>Disaster_Services__c</name>
+        <picklistValues>
+            <masterLabel>Disaster Assistance Provided</masterLabel>
+            <translation><!-- Disaster Assistance Provided --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Other Disaster Services</masterLabel>
+            <translation><!-- Other Disaster Services --></translation>
+        </picklistValues>
+    </fields>
+    <fields>
+        <label><!-- Document Type --></label>
+        <name>Document_Type__c</name>
+        <picklistValues>
+            <masterLabel>AAE Waiver</masterLabel>
+            <translation><!-- AAE Waiver --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>AAE Waiver Request</masterLabel>
+            <translation><!-- AAE Waiver Request --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Authorized Representative Confirmation</masterLabel>
+            <translation><!-- Authorized Representative Confirmation --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Commission Executive Order</masterLabel>
+            <translation><!-- Commission Executive Order --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>NONE</masterLabel>
+            <translation><!-- NONE --></translation>
+        </picklistValues>
+    </fields>
+    <fields>
+        <label><!-- Education --></label>
+        <name>Education__c</name>
+        <picklistValues>
+            <masterLabel>K-12 Success</masterLabel>
+            <translation><!-- K-12 Success --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Other Education</masterLabel>
+            <translation><!-- Other Education --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Post-HS Education Support</masterLabel>
+            <translation><!-- Post-HS Education Support --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>School Readiness</masterLabel>
+            <translation><!-- School Readiness --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Teacher Corps</masterLabel>
+            <translation><!-- Teacher Corps --></translation>
+        </picklistValues>
+    </fields>
+    <fields>
+        <label><!-- Email --></label>
+        <name>Email__c</name>
+    </fields>
+    <fields>
+        <label><!-- Email --></label>
+        <name>Emaile__c</name>
+    </fields>
+    <fields>
+        <label><!-- Environmental Stewardship --></label>
+        <name>Environmental_Stewardship__c</name>
+        <picklistValues>
+            <masterLabel>At-Risk Ecosystems</masterLabel>
+            <translation><!-- At-Risk Ecosystems --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Awareness and Stewardship</masterLabel>
+            <translation><!-- Awareness and Stewardship --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Energy Efficiency</masterLabel>
+            <translation><!-- Energy Efficiency --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Green Jobs</masterLabel>
+            <translation><!-- Green Jobs --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Other Environmental Stewardship</masterLabel>
+            <translation><!-- Other Environmental Stewardship --></translation>
+        </picklistValues>
+    </fields>
+    <fields>
+        <help><!-- Have you ever had a &quot;Fee for Service&quot; arrangement with a youth or conservation corps program? “Fee for Service” is an agreement in which your org. pays fees or reimburses costs to a service program in exchange for member or team support. --></help>
+        <label><!-- Fee for Service --></label>
+        <name>Fee_for_Service__c</name>
+        <picklistValues>
+            <masterLabel>No</masterLabel>
+            <translation><!-- No --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Yes</masterLabel>
+            <translation><!-- Yes --></translation>
+        </picklistValues>
+    </fields>
+    <fields>
+        <label><!-- Flexibility of Proposed Dates --></label>
+        <name>Flexibility_of_Proposed_Dates__c</name>
+        <picklistValues>
+            <masterLabel>Fixed</masterLabel>
+            <translation><!-- Fixed --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Flexible</masterLabel>
+            <translation><!-- Flexible --></translation>
+        </picklistValues>
+    </fields>
+    <fields>
+        <label><!-- Economic Opportunity --></label>
+        <name>Focus_Area_and_Objectives__c</name>
+        <picklistValues>
+            <masterLabel>Asset Building Served</masterLabel>
+            <translation><!-- Asset Building Served --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Community Economic Development</masterLabel>
+            <translation><!-- Community Economic Development --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Employment</masterLabel>
+            <translation><!-- Employment --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Financial Literacy</masterLabel>
+            <translation><!-- Financial Literacy --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Find Opportunity Futures</masterLabel>
+            <translation><!-- Find Opportunity Futures --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Housing</masterLabel>
+            <translation><!-- Housing --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Microenterprise Families</masterLabel>
+            <translation><!-- Microenterprise Families --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Other Economic Opportunity</masterLabel>
+            <translation><!-- Other Economic Opportunity --></translation>
+        </picklistValues>
+    </fields>
+    <fields>
+        <help><!-- If &apos;Yes&apos;, how many teams have served your organization? --></help>
+        <label><!-- Have you previouly worked with NCCC ? --></label>
+        <name>Have_you_previouly_worked_with_NCCC__c</name>
+        <picklistValues>
+            <masterLabel>No</masterLabel>
+            <translation><!-- No --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Yes</masterLabel>
+            <translation><!-- Yes --></translation>
+        </picklistValues>
+    </fields>
+    <fields>
+        <label><!-- Healthy Futures --></label>
+        <name>Healthy_Futures__c</name>
+        <picklistValues>
+            <masterLabel>Access to Care</masterLabel>
+            <translation><!-- Access to Care --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Aging in Place</masterLabel>
+            <translation><!-- Aging in Place --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Obesity and Food</masterLabel>
+            <translation><!-- Obesity and Food --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Other Healthy Initiatives</masterLabel>
+            <translation><!-- Other Healthy Initiatives --></translation>
+        </picklistValues>
+    </fields>
+    <fields>
+        <help><!-- In the event that housing is not available on the regional campus or your project is beyond a reasonable driving distance (1 hr) from your regional campus, briefly describe the housing arrangements you are exploring for the team. --></help>
+        <label><!-- Housing Arrangements --></label>
+        <name>Housing_Arrangements__c</name>
+    </fields>
+    <fields>
+        <label><!-- How did you find out about NCCC? --></label>
+        <name>How_did_you_find_out_about_NCCC__c</name>
+        <picklistValues>
+            <masterLabel>Current NCCC Member</masterLabel>
+            <translation><!-- Current NCCC Member --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>I am a past NCCC Sponsor</masterLabel>
+            <translation><!-- I am a past NCCC Sponsor --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>I am an NCCC Alumni</masterLabel>
+            <translation><!-- I am an NCCC Alumni --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>NCCC Staff Member</masterLabel>
+            <translation><!-- NCCC Staff Member --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Other (please specify)</masterLabel>
+            <translation><!-- Other (please specify) --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Outreach Presentation</masterLabel>
+            <translation><!-- Outreach Presentation --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Previous NCCC Sponsor</masterLabel>
+            <translation><!-- Previous NCCC Sponsor --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>State CNCS Office</masterLabel>
+            <translation><!-- State CNCS Office --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>State Commission Community Service</masterLabel>
+            <translation><!-- State Commission Community Service --></translation>
+        </picklistValues>
+    </fields>
+    <fields>
+        <label><!-- How many teams are being requested? --></label>
+        <name>How_many_teams_are_being_requested__c</name>
+    </fields>
+    <fields>
+        <label><!-- I AGREE --></label>
+        <name>I_AGREE__c</name>
+    </fields>
+    <fields>
+        <label><!-- If Other , comments --></label>
+        <name>If_Other_comments__c</name>
+    </fields>
+    <fields>
+        <help><!-- NCCC has effectively been used in past projects to augment and support existing youth corps partnerships with organizations. Please describe how your plan to utilize NCCC will incorporate your existing partnership with the &quot;Fee for Service&quot; corps. --></help>
+        <label><!-- If &quot;Yes,&quot; Fee for Service Incorporation --></label>
+        <name>If_Yes_Fee_for_Service_Incorporation__c</name>
+    </fields>
+    <fields>
+        <help><!-- &quot;If &apos;Yes&apos;, how many teams have served your organization?&quot; --></help>
+        <label><!-- If &quot;Yes,&quot; how many teams? --></label>
+        <name>If_Yes_how_many_teams__c</name>
+    </fields>
+    <fields>
+        <help><!-- If &apos;Yes&apos;, when did a team most recently work with your organization? --></help>
+        <label><!-- If &quot;Yes,&quot; when? --></label>
+        <name>If_Yes_when__c</name>
+    </fields>
+    <fields>
+        <label><!-- If yes, for how many years? --></label>
+        <name>If_yes_for_how_many_years__c</name>
+    </fields>
+    <fields>
+        <label><!-- If yes, how many members/participants? --></label>
+        <name>If_yes_how_many_members_participants__c</name>
+    </fields>
+    <fields>
+        <label><!-- If yes, please explain --></label>
+        <name>If_yes_please_explain__c</name>
+    </fields>
+    <fields>
+        <label><!-- Intermediary Justification --></label>
+        <name>Intermediary_Justification__c</name>
+    </fields>
+    <fields>
+        <name>LeadSource</name>
+        <picklistValues>
+            <masterLabel>Advertisement</masterLabel>
+            <translation><!-- Advertisement --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Employee Referral</masterLabel>
+            <translation><!-- Employee Referral --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>External Referral</masterLabel>
+            <translation><!-- External Referral --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Other</masterLabel>
+            <translation><!-- Other --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Partner</masterLabel>
+            <translation><!-- Partner --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Public Relations</masterLabel>
+            <translation><!-- Public Relations --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Seminar - Internal</masterLabel>
+            <translation><!-- Seminar - Internal --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Seminar - Partner</masterLabel>
+            <translation><!-- Seminar - Partner --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Trade Show</masterLabel>
+            <translation><!-- Trade Show --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Web</masterLabel>
+            <translation><!-- Web --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Word of mouth</masterLabel>
+            <translation><!-- Word of mouth --></translation>
+        </picklistValues>
+    </fields>
+    <fields>
+        <label><!-- Mailing Address --></label>
+        <name>Mailing_Addres__c</name>
+    </fields>
+    <fields>
+        <help><!-- If different from the organization address above, please provide the primary address where the service activities will take place. --></help>
+        <label><!-- Mailing Address --></label>
+        <name>Mailing_Address__c</name>
+    </fields>
+    <fields>
+        <label><!-- NOFA/RFP ID --></label>
+        <name>NOFA_RFP_Id__c</name>
+        <relationshipLabel><!-- Opportunities --></relationshipLabel>
+    </fields>
+    <fields>
+        <label><!-- Need --></label>
+        <name>Need__c</name>
+    </fields>
+    <fields>
+        <label><!-- Organization Type --></label>
+        <name>Organization_Type__c</name>
+        <picklistValues>
+            <masterLabel>Federal Government</masterLabel>
+            <translation><!-- Federal Government --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>For Profit Organization</masterLabel>
+            <translation><!-- For Profit Organization --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>HQ Internal Organizations</masterLabel>
+            <translation><!-- HQ Internal Organizations --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Higher Education Organization - Private</masterLabel>
+            <translation><!-- Higher Education Organization - Private --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Higher Education Organization - State Controlled</masterLabel>
+            <translation><!-- Higher Education Organization - State Controlled --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Indian Tribe</masterLabel>
+            <translation><!-- Indian Tribe --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Local Government - County</masterLabel>
+            <translation><!-- Local Government - County --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Local Government - Municipal</masterLabel>
+            <translation><!-- Local Government - Municipal --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Local Government - Township</masterLabel>
+            <translation><!-- Local Government - Township --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>National Non Profit</masterLabel>
+            <translation><!-- National Non Profit --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Native American</masterLabel>
+            <translation><!-- Native American --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Non-Profit</masterLabel>
+            <translation><!-- Non-Profit --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Other</masterLabel>
+            <translation><!-- Other --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>State Commission</masterLabel>
+            <translation><!-- State Commission --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>State Education Agency</masterLabel>
+            <translation><!-- State Education Agency --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>State Government</masterLabel>
+            <translation><!-- State Government --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>U.S. Territory</masterLabel>
+            <translation><!-- U.S. Territory --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Unknown designation</masterLabel>
+            <translation><!-- Unknown designation --></translation>
+        </picklistValues>
+    </fields>
+    <fields>
+        <label><!-- Organizational Capability --></label>
+        <name>Organizational_Capability__c</name>
+    </fields>
+    <fields>
+        <help><!-- “Does your organization have other CNCS resources?” --></help>
+        <label><!-- Other CNCS Resources --></label>
+        <name>Other_CNCS_Resources__c</name>
+        <picklistValues>
+            <masterLabel>No</masterLabel>
+            <translation><!-- No --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Yes</masterLabel>
+            <translation><!-- Yes --></translation>
+        </picklistValues>
+    </fields>
+    <fields>
+        <label><!-- Other comments --></label>
+        <name>Other_comments__c</name>
+    </fields>
+    <fields>
+        <help><!-- Check the box for the primary issue area that the project will address. --></help>
+        <label><!-- Primary Issue Area --></label>
+        <name>Primary_Issue_Area__c</name>
+        <picklistValues>
+            <masterLabel>Energy Conservation</masterLabel>
+            <translation><!-- Energy Conservation --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Environmental Stewardship and Conservation</masterLabel>
+            <translation><!-- Environmental Stewardship and Conservation --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Infrastructure Improvement</masterLabel>
+            <translation><!-- Infrastructure Improvement --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Natural and Other Disasters</masterLabel>
+            <translation><!-- Natural and Other Disasters --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Urban and Rural Development</masterLabel>
+            <translation><!-- Urban and Rural Development --></translation>
+        </picklistValues>
+    </fields>
+    <fields>
+        <help><!-- If different from the organization address above, please provide the primary address where the service activities will take place. --></help>
+        <label><!-- Primary Project Address --></label>
+        <name>Primary_Project_Address__c</name>
+    </fields>
+    <fields>
+        <label><!-- Project Title --></label>
+        <name>Project_Title__c</name>
+        <picklistValues>
+            <masterLabel>Project 1</masterLabel>
+            <translation><!-- Project 1 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Project 2</masterLabel>
+            <translation><!-- Project 2 --></translation>
+        </picklistValues>
+    </fields>
+    <fields>
+        <label><!-- Proposed Start Date --></label>
+        <name>Proposed_Start_Date__c</name>
+    </fields>
+    <fields>
+        <help><!-- Provide a brief description of your organization&apos;s mission. --></help>
+        <label><!-- Provide Organization Mission --></label>
+        <name>Provide_Organization_Mission__c</name>
+    </fields>
+    <fields>
+        <help><!-- Provide a brief description about the service activities for which your organization is requesting an NCCC team. Please conclude your statement with the desired outcome expected from the involvement of NCCC. --></help>
+        <label><!-- Service Activities Description --></label>
+        <name>Service_Activities_Description__c</name>
+    </fields>
+    <fields>
+        <name>StageName</name>
+        <picklistValues>
+            <masterLabel>Closed Won</masterLabel>
+            <translation><!-- Closed Won --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Id. Decision Makers</masterLabel>
+            <translation><!-- Id. Decision Makers --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Needs Analysis</masterLabel>
+            <translation><!-- Needs Analysis --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Negotiation/Review</masterLabel>
+            <translation><!-- Negotiation/Review --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Perception Analysis</masterLabel>
+            <translation><!-- Perception Analysis --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Proposal/Price Quote</masterLabel>
+            <translation><!-- Proposal/Price Quote --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Prospecting</masterLabel>
+            <translation><!-- Prospecting --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Qualification</masterLabel>
+            <translation><!-- Qualification --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Value Proposition</masterLabel>
+            <translation><!-- Value Proposition --></translation>
+        </picklistValues>
+    </fields>
+    <fields>
+        <label><!-- State --></label>
+        <name>State__c</name>
+        <picklistValues>
+            <masterLabel>AK</masterLabel>
+            <translation><!-- AK --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>AL</masterLabel>
+            <translation><!-- AL --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>AR</masterLabel>
+            <translation><!-- AR --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>AZ</masterLabel>
+            <translation><!-- AZ --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>CA</masterLabel>
+            <translation><!-- CA --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>CO</masterLabel>
+            <translation><!-- CO --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>CT</masterLabel>
+            <translation><!-- CT --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>DE</masterLabel>
+            <translation><!-- DE --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>FL</masterLabel>
+            <translation><!-- FL --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>GA</masterLabel>
+            <translation><!-- GA --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>HI</masterLabel>
+            <translation><!-- HI --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>IA</masterLabel>
+            <translation><!-- IA --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>ID</masterLabel>
+            <translation><!-- ID --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>IL</masterLabel>
+            <translation><!-- IL --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>IN</masterLabel>
+            <translation><!-- IN --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>KS</masterLabel>
+            <translation><!-- KS --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>KY</masterLabel>
+            <translation><!-- KY --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>LA</masterLabel>
+            <translation><!-- LA --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>MA</masterLabel>
+            <translation><!-- MA --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>MD</masterLabel>
+            <translation><!-- MD --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>ME</masterLabel>
+            <translation><!-- ME --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>MI</masterLabel>
+            <translation><!-- MI --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>MN</masterLabel>
+            <translation><!-- MN --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>MO</masterLabel>
+            <translation><!-- MO --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>MS</masterLabel>
+            <translation><!-- MS --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>MT</masterLabel>
+            <translation><!-- MT --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>NC</masterLabel>
+            <translation><!-- NC --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>ND</masterLabel>
+            <translation><!-- ND --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>NE</masterLabel>
+            <translation><!-- NE --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>NH</masterLabel>
+            <translation><!-- NH --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>NJ</masterLabel>
+            <translation><!-- NJ --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>NM</masterLabel>
+            <translation><!-- NM --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>NV</masterLabel>
+            <translation><!-- NV --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>NY</masterLabel>
+            <translation><!-- NY --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>OH</masterLabel>
+            <translation><!-- OH --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>OK</masterLabel>
+            <translation><!-- OK --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>OR</masterLabel>
+            <translation><!-- OR --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>PA</masterLabel>
+            <translation><!-- PA --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>RI</masterLabel>
+            <translation><!-- RI --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>SC</masterLabel>
+            <translation><!-- SC --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>SD</masterLabel>
+            <translation><!-- SD --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>TN</masterLabel>
+            <translation><!-- TN --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>TX</masterLabel>
+            <translation><!-- TX --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>UT</masterLabel>
+            <translation><!-- UT --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>VA</masterLabel>
+            <translation><!-- VA --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>VT</masterLabel>
+            <translation><!-- VT --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>WA</masterLabel>
+            <translation><!-- WA --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>WI</masterLabel>
+            <translation><!-- WI --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>WV</masterLabel>
+            <translation><!-- WV --></translation>
+        </picklistValues>
+    </fields>
+    <fields>
+        <label><!-- State --></label>
+        <name>Statee__c</name>
+    </fields>
+    <fields>
+        <label><!-- Status --></label>
+        <name>Status__c</name>
+        <picklistValues>
+            <masterLabel>InProgress</masterLabel>
+            <translation><!-- InProgress --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Presubmitted</masterLabel>
+            <translation><!-- Presubmitted --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Submitted</masterLabel>
+            <translation><!-- Submitted --></translation>
+        </picklistValues>
+    </fields>
+    <fields>
+        <label><!-- Strengthening Communities --></label>
+        <name>Strengthening_Communities__c</name>
+    </fields>
+    <fields>
+        <label><!-- Target Populations --></label>
+        <name>Target_Populations__c</name>
+        <picklistValues>
+            <masterLabel>Low-income Nat-Amer./Nat-AK/Pac-Islander</masterLabel>
+            <translation><!-- Low-income Nat-Amer./Nat-AK/Pac-Islander --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Low-income adults</masterLabel>
+            <translation><!-- Low-income adults --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Low-income communities</masterLabel>
+            <translation><!-- Low-income communities --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Low-income formerly incarcerated adults</masterLabel>
+            <translation><!-- Low-income formerly incarcerated adults --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Low-income formerly incarcerated youth</masterLabel>
+            <translation><!-- Low-income formerly incarcerated youth --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Low-income individuals with disabilities</masterLabel>
+            <translation><!-- Low-income individuals with disabilities --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Low-income military families</masterLabel>
+            <translation><!-- Low-income military families --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Low-income veterans</masterLabel>
+            <translation><!-- Low-income veterans --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Low-income youth</masterLabel>
+            <translation><!-- Low-income youth --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Those experiencing homelessness</masterLabel>
+            <translation><!-- Those experiencing homelessness --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Unemployed individuals</masterLabel>
+            <translation><!-- Unemployed individuals --></translation>
+        </picklistValues>
+    </fields>
+    <fields>
+        <label><!-- Telephone --></label>
+        <name>Telephone__c</name>
+    </fields>
+    <fields>
+        <label><!-- Telephone --></label>
+        <name>Telephonee__c</name>
+    </fields>
+    <fields>
+        <name>Type</name>
+        <picklistValues>
+            <masterLabel>Existing Business</masterLabel>
+            <translation><!-- Existing Business --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>New Business</masterLabel>
+            <translation><!-- New Business --></translation>
+        </picklistValues>
+    </fields>
+    <fields>
+        <label><!-- Veterans and Military --></label>
+        <name>Veterans_and_Military_Families__c</name>
+        <picklistValues>
+            <masterLabel>Access and Attract</masterLabel>
+            <translation><!-- Access and Attract --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Other Veterans</masterLabel>
+            <translation><!-- Other Veterans --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Veterans and Families</masterLabel>
+            <translation><!-- Veterans and Families --></translation>
+        </picklistValues>
+    </fields>
+    <fields>
+        <help><!-- How many weeks will it take a team of 8 to 12 members working full time (40-45 hours per week) to complete this project? --></help>
+        <label><!-- Weeks for Team to Complete Project --></label>
+        <name>Weeks_for_Team_8_12_to_Complete_Projec__c</name>
+    </fields>
+    <fields>
+        <label><!-- Zip --></label>
+        <name>Zip__c</name>
+    </fields>
+    <fields>
+        <label><!-- Zip --></label>
+        <name>Zipp__c</name>
+    </fields>
+    <layouts>
+        <layout>Americorps NCCC</layout>
+        <sections>
+            <label><!-- Custom Links --></label>
+            <section>Custom Links</section>
+        </sections>
+        <sections>
+            <label><!-- Fields --></label>
+            <section>Fields</section>
+        </sections>
+        <sections>
+            <label><!-- General Information --></label>
+            <section>General Information</section>
+        </sections>
+        <sections>
+            <label><!-- Organization Information --></label>
+            <section>Organization Information</section>
+        </sections>
+        <sections>
+            <label><!-- Primary Project Address --></label>
+            <section>Primary Project Address</section>
+        </sections>
+        <sections>
+            <label><!-- Project Information --></label>
+            <section>Project Information</section>
+        </sections>
+    </layouts>
+    <layouts>
+        <layout>Americorps VISTA</layout>
+        <sections>
+            <label><!-- Custom Links --></label>
+            <section>Custom Links</section>
+        </sections>
+        <sections>
+            <label><!-- Extra Fields --></label>
+            <section>Extra Fields</section>
+        </sections>
+        <sections>
+            <label><!-- Focus Areas and Objectives --></label>
+            <section>Focus Areas and Objectives</section>
+        </sections>
+        <sections>
+            <label><!-- General Information --></label>
+            <section>General Information</section>
+        </sections>
+        <sections>
+            <label><!-- Narratives --></label>
+            <section>Narratives</section>
+        </sections>
+        <sections>
+            <label><!-- Organization Information --></label>
+            <section>Organization Information</section>
+        </sections>
+        <sections>
+            <label><!-- Other Information --></label>
+            <section>Other Information</section>
+        </sections>
+        <sections>
+            <label><!-- Project Information --></label>
+            <section>Project Information</section>
+        </sections>
+    </layouts>
+    <layouts>
+        <layout>Opportunity Layout</layout>
+        <sections>
+            <label><!-- Organization Information --></label>
+            <section>Organization Information</section>
+        </sections>
+    </layouts>
+    <recordTypes>
+        <label><!-- AmeriCorps NCCC --></label>
+        <name>AmeriCorps_NCCC</name>
+    </recordTypes>
+    <recordTypes>
+        <label><!-- AmeriCorps VISTA --></label>
+        <name>AmeriCorps_VISTA</name>
+    </recordTypes>
+    <startsWith>Vowel</startsWith>
+    <validationRules>
+        <errorMessage><!-- Proposed end date should be after proposed start date. --></errorMessage>
+        <name>Close_date</name>
+    </validationRules>
+    <validationRules>
+        <errorMessage><!-- Enter the value for  &quot;Fee for Service Incorporation&quot; --></errorMessage>
+        <name>Fee_for_Service_Incorporation</name>
+    </validationRules>
+    <validationRules>
+        <errorMessage><!-- You cannot edit the record as the Concept Paper due date is passed. --></errorMessage>
+        <name>Lock_a_Record</name>
+    </validationRules>
+    <validationRules>
+        <errorMessage><!-- Please enter the value for the number of teams you have served in your organization --></errorMessage>
+        <name>Number_of_Teams</name>
+    </validationRules>
+    <validationRules>
+        <errorMessage><!-- If Other CNCS resource then please explain --></errorMessage>
+        <name>Other_CNCS_Resources_required_field</name>
+    </validationRules>
+    <validationRules>
+        <errorMessage><!-- Proposed start date should be after today&apos;s date. --></errorMessage>
+        <name>Proposed_start_date</name>
+    </validationRules>
+    <validationRules>
+        <errorMessage><!-- If you are a former grantee sponsor then please enter the number of years and number of members/participants --></errorMessage>
+        <name>Required_Fields_Former_member</name>
+    </validationRules>
+    <validationRules>
+        <errorMessage><!-- Please provide the time period a Team most recently worked with your organization --></errorMessage>
+        <name>When_did_a_Team_work_most_recently</name>
+    </validationRules>
+    <webLinks>
+        <label><!-- Conga_Composer_OAuth --></label>
+        <name>APXTConga4__Conga_Composer_OAuth</name>
+    </webLinks>
+    <webLinks>
+        <label><!-- Conga_Mail_Merge --></label>
+        <name>APXTConga4__Conga_Mail_Merge</name>
+    </webLinks>
+</CustomObjectTranslation>

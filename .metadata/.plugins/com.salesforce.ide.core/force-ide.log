@@ -1,0 +1,195 @@
+ WARN [2015-04-24 11:05:29,323] (BaseRetryAspect.java:isLoginExceptionRetryable:117) - Login evaluation deemed exception not retry-able:
+ LoginFault: Invalid username, password, security token; or user locked out.
+ WARN [2015-04-24 11:05:29,401] (BaseRetryAspect.java:isConnectionExceptionRetryable:153) - Connection evaluation deemed exception not retry-able:
+ LoginFault: Invalid username, password, security token; or user locked out.
+ WARN [2015-04-24 11:05:29,416] (ProjectController.java:getRemotePackageNames:939) - Unable to get project packages for project 'CNCS Dev 12': Invalid username, password, security token; or user locked out.
+ WARN [2015-04-24 11:05:29,541] (ProjectOrganizationPage.java:prepareNextPage:269) - Unable to login: Invalid username, password, security token; or user locked out.
+ WARN [2015-04-24 11:05:57,523] (BaseRetryAspect.java:isLoginExceptionRetryable:117) - Login evaluation deemed exception not retry-able:
+ LoginFault: Invalid username, password, security token; or user locked out.
+ WARN [2015-04-24 11:05:57,538] (BaseRetryAspect.java:isConnectionExceptionRetryable:153) - Connection evaluation deemed exception not retry-able:
+ LoginFault: Invalid username, password, security token; or user locked out.
+ WARN [2015-04-24 11:05:57,554] (ProjectController.java:getRemotePackageNames:939) - Unable to get project packages for project 'CNCS Dev 12': Invalid username, password, security token; or user locked out.
+ WARN [2015-04-24 11:05:57,585] (ProjectOrganizationPage.java:prepareNextPage:269) - Unable to login: Invalid username, password, security token; or user locked out.
+ WARN [2015-04-24 11:06:56,284] (ComponentFactory.java:getComponentBean:1154) - Unable to get component for id 'ExternalDataSource': Unable to get bean for id 'ExternalDataSource'
+ WARN [2015-04-24 11:06:56,300] (ComponentFactory.java:getComponentBean:1154) - Unable to get component for id 'NamedCredential': Unable to get bean for id 'NamedCredential'
+ WARN [2015-04-24 11:06:56,300] (ComponentFactory.java:getComponentBean:1154) - Unable to get component for id 'UiPlugin': Unable to get bean for id 'UiPlugin'
+ WARN [2015-04-24 11:06:56,347] (ComponentFactory.java:getComponentBean:1154) - Unable to get component for id 'MatchingRules': Unable to get bean for id 'MatchingRules'
+ WARN [2015-04-24 11:06:56,362] (ComponentFactory.java:getComponentBean:1154) - Unable to get component for id 'ChannelLayout': Unable to get bean for id 'ChannelLayout'
+ WARN [2015-04-24 11:06:56,378] (ComponentFactory.java:getComponentBean:1154) - Unable to get component for id 'SharingRules': Unable to get bean for id 'SharingRules'
+ WARN [2015-04-24 11:06:56,425] (ComponentFactory.java:getComponentBean:1154) - Unable to get component for id 'ManagedTopics': Unable to get bean for id 'ManagedTopics'
+ WARN [2015-04-24 11:06:56,440] (ComponentFactory.java:getComponentBean:1154) - Unable to get component for id 'CorsWhitelistOrigin': Unable to get bean for id 'CorsWhitelistOrigin'
+ WARN [2015-04-24 11:06:56,456] (ComponentFactory.java:getComponentBean:1154) - Unable to get component for id 'ActionLinkGroupTemplate': Unable to get bean for id 'ActionLinkGroupTemplate'
+ WARN [2015-04-24 11:06:57,365] (ComponentFactory.java:getComponentBean:1154) - Unable to get component for id 'ExternalDataSource': Unable to get bean for id 'ExternalDataSource'
+ WARN [2015-04-24 11:06:57,365] (ComponentFactory.java:getComponentBean:1154) - Unable to get component for id 'NamedCredential': Unable to get bean for id 'NamedCredential'
+ WARN [2015-04-24 11:06:57,380] (ComponentFactory.java:getComponentBean:1154) - Unable to get component for id 'UiPlugin': Unable to get bean for id 'UiPlugin'
+ WARN [2015-04-24 11:06:57,396] (ComponentFactory.java:getComponentBean:1154) - Unable to get component for id 'MatchingRules': Unable to get bean for id 'MatchingRules'
+ WARN [2015-04-24 11:06:57,396] (ComponentFactory.java:getComponentBean:1154) - Unable to get component for id 'ChannelLayout': Unable to get bean for id 'ChannelLayout'
+ WARN [2015-04-24 11:06:57,412] (ComponentFactory.java:getComponentBean:1154) - Unable to get component for id 'SharingRules': Unable to get bean for id 'SharingRules'
+ WARN [2015-04-24 11:06:57,427] (ComponentFactory.java:getComponentBean:1154) - Unable to get component for id 'ManagedTopics': Unable to get bean for id 'ManagedTopics'
+ WARN [2015-04-24 11:06:57,427] (ComponentFactory.java:getComponentBean:1154) - Unable to get component for id 'CorsWhitelistOrigin': Unable to get bean for id 'CorsWhitelistOrigin'
+ WARN [2015-04-24 11:06:57,427] (ComponentFactory.java:getComponentBean:1154) - Unable to get component for id 'ActionLinkGroupTemplate': Unable to get bean for id 'ActionLinkGroupTemplate'
+ WARN [2015-04-24 11:07:17,944] (Utils.java:loadDocument:799) - Unable to load document: C:\Users\cvenedam\workspace\.metadata\.plugins\com.salesforce.ide.core\packageCache.xml (The system cannot find the file specified)
+ WARN [2015-04-24 11:07:18,865] (ComponentFactory.java:getComponentBean:1154) - Unable to get component for id 'ExternalDataSource': Unable to get bean for id 'ExternalDataSource'
+ WARN [2015-04-24 11:07:18,896] (ComponentFactory.java:getComponentBean:1154) - Unable to get component for id 'NamedCredential': Unable to get bean for id 'NamedCredential'
+ WARN [2015-04-24 11:07:18,958] (ComponentFactory.java:getComponentBean:1154) - Unable to get component for id 'UiPlugin': Unable to get bean for id 'UiPlugin'
+ WARN [2015-04-24 11:07:19,005] (ComponentFactory.java:getComponentBean:1154) - Unable to get component for id 'MatchingRules': Unable to get bean for id 'MatchingRules'
+ WARN [2015-04-24 11:07:19,068] (ComponentFactory.java:getComponentBean:1154) - Unable to get component for id 'ChannelLayout': Unable to get bean for id 'ChannelLayout'
+ WARN [2015-04-24 11:07:19,083] (ComponentFactory.java:getComponentBean:1154) - Unable to get component for id 'SharingRules': Unable to get bean for id 'SharingRules'
+ WARN [2015-04-24 11:07:19,114] (ComponentFactory.java:getComponentBean:1154) - Unable to get component for id 'ManagedTopics': Unable to get bean for id 'ManagedTopics'
+ WARN [2015-04-24 11:07:19,130] (ComponentFactory.java:getComponentBean:1154) - Unable to get component for id 'CorsWhitelistOrigin': Unable to get bean for id 'CorsWhitelistOrigin'
+ WARN [2015-04-24 11:07:19,146] (ComponentFactory.java:getComponentBean:1154) - Unable to get component for id 'ActionLinkGroupTemplate': Unable to get bean for id 'ActionLinkGroupTemplate'
+ WARN [2015-04-24 11:07:19,974] (ComponentFactory.java:getComponentBean:1154) - Unable to get component for id 'ExternalDataSource': Unable to get bean for id 'ExternalDataSource'
+ WARN [2015-04-24 11:07:20,006] (ComponentFactory.java:getComponentBean:1154) - Unable to get component for id 'NamedCredential': Unable to get bean for id 'NamedCredential'
+ WARN [2015-04-24 11:07:20,021] (ComponentFactory.java:getComponentBean:1154) - Unable to get component for id 'UiPlugin': Unable to get bean for id 'UiPlugin'
+ WARN [2015-04-24 11:07:20,099] (ComponentFactory.java:getComponentBean:1154) - Unable to get component for id 'MatchingRules': Unable to get bean for id 'MatchingRules'
+ WARN [2015-04-24 11:07:20,115] (ComponentFactory.java:getComponentBean:1154) - Unable to get component for id 'ChannelLayout': Unable to get bean for id 'ChannelLayout'
+ WARN [2015-04-24 11:07:20,162] (ComponentFactory.java:getComponentBean:1154) - Unable to get component for id 'SharingRules': Unable to get bean for id 'SharingRules'
+ WARN [2015-04-24 11:07:20,177] (ComponentFactory.java:getComponentBean:1154) - Unable to get component for id 'ManagedTopics': Unable to get bean for id 'ManagedTopics'
+ WARN [2015-04-24 11:07:20,193] (ComponentFactory.java:getComponentBean:1154) - Unable to get component for id 'CorsWhitelistOrigin': Unable to get bean for id 'CorsWhitelistOrigin'
+ WARN [2015-04-24 11:07:20,208] (ComponentFactory.java:getComponentBean:1154) - Unable to get component for id 'ActionLinkGroupTemplate': Unable to get bean for id 'ActionLinkGroupTemplate'
+ WARN [2015-04-24 11:07:21,519] (ComponentFactory.java:getComponentBean:1154) - Unable to get component for id 'ExternalDataSource': Unable to get bean for id 'ExternalDataSource'
+ WARN [2015-04-24 11:07:21,534] (ComponentFactory.java:getComponentBean:1154) - Unable to get component for id 'NamedCredential': Unable to get bean for id 'NamedCredential'
+ WARN [2015-04-24 11:07:21,550] (ComponentFactory.java:getComponentBean:1154) - Unable to get component for id 'UiPlugin': Unable to get bean for id 'UiPlugin'
+ WARN [2015-04-24 11:07:21,566] (ComponentFactory.java:getComponentBean:1154) - Unable to get component for id 'MatchingRules': Unable to get bean for id 'MatchingRules'
+ WARN [2015-04-24 11:07:21,581] (ComponentFactory.java:getComponentBean:1154) - Unable to get component for id 'ChannelLayout': Unable to get bean for id 'ChannelLayout'
+ WARN [2015-04-24 11:07:21,597] (ComponentFactory.java:getComponentBean:1154) - Unable to get component for id 'SharingRules': Unable to get bean for id 'SharingRules'
+ WARN [2015-04-24 11:07:21,612] (ComponentFactory.java:getComponentBean:1154) - Unable to get component for id 'ManagedTopics': Unable to get bean for id 'ManagedTopics'
+ WARN [2015-04-24 11:07:21,628] (ComponentFactory.java:getComponentBean:1154) - Unable to get component for id 'CorsWhitelistOrigin': Unable to get bean for id 'CorsWhitelistOrigin'
+ WARN [2015-04-24 11:07:21,644] (ComponentFactory.java:getComponentBean:1154) - Unable to get component for id 'ActionLinkGroupTemplate': Unable to get bean for id 'ActionLinkGroupTemplate'
+ WARN [2015-04-24 11:07:22,114] (ComponentFactory.java:getComponentBean:1154) - Unable to get component for id 'ExternalDataSource': Unable to get bean for id 'ExternalDataSource'
+ WARN [2015-04-24 11:07:22,129] (ComponentFactory.java:getComponentBean:1154) - Unable to get component for id 'NamedCredential': Unable to get bean for id 'NamedCredential'
+ WARN [2015-04-24 11:07:22,129] (ComponentFactory.java:getComponentBean:1154) - Unable to get component for id 'UiPlugin': Unable to get bean for id 'UiPlugin'
+ WARN [2015-04-24 11:07:22,160] (ComponentFactory.java:getComponentBean:1154) - Unable to get component for id 'MatchingRules': Unable to get bean for id 'MatchingRules'
+ WARN [2015-04-24 11:07:22,192] (ComponentFactory.java:getComponentBean:1154) - Unable to get component for id 'ChannelLayout': Unable to get bean for id 'ChannelLayout'
+ WARN [2015-04-24 11:07:22,207] (ComponentFactory.java:getComponentBean:1154) - Unable to get component for id 'SharingRules': Unable to get bean for id 'SharingRules'
+ WARN [2015-04-24 11:07:22,223] (ComponentFactory.java:getComponentBean:1154) - Unable to get component for id 'ManagedTopics': Unable to get bean for id 'ManagedTopics'
+ WARN [2015-04-24 11:07:22,223] (ComponentFactory.java:getComponentBean:1154) - Unable to get component for id 'CorsWhitelistOrigin': Unable to get bean for id 'CorsWhitelistOrigin'
+ WARN [2015-04-24 11:07:22,238] (ComponentFactory.java:getComponentBean:1154) - Unable to get component for id 'ActionLinkGroupTemplate': Unable to get bean for id 'ActionLinkGroupTemplate'
+ WARN [2015-04-24 11:07:23,268] (ComponentFactory.java:getComponentBean:1154) - Unable to get component for id 'ExternalDataSource': Unable to get bean for id 'ExternalDataSource'
+ WARN [2015-04-24 11:07:23,268] (ComponentFactory.java:getComponentBean:1154) - Unable to get component for id 'NamedCredential': Unable to get bean for id 'NamedCredential'
+ WARN [2015-04-24 11:07:23,284] (ComponentFactory.java:getComponentBean:1154) - Unable to get component for id 'UiPlugin': Unable to get bean for id 'UiPlugin'
+ WARN [2015-04-24 11:07:23,330] (ComponentFactory.java:getComponentBean:1154) - Unable to get component for id 'MatchingRules': Unable to get bean for id 'MatchingRules'
+ WARN [2015-04-24 11:07:23,330] (ComponentFactory.java:getComponentBean:1154) - Unable to get component for id 'ChannelLayout': Unable to get bean for id 'ChannelLayout'
+ WARN [2015-04-24 11:07:23,346] (ComponentFactory.java:getComponentBean:1154) - Unable to get component for id 'SharingRules': Unable to get bean for id 'SharingRules'
+ WARN [2015-04-24 11:07:23,362] (ComponentFactory.java:getComponentBean:1154) - Unable to get component for id 'ManagedTopics': Unable to get bean for id 'ManagedTopics'
+ WARN [2015-04-24 11:07:23,377] (ComponentFactory.java:getComponentBean:1154) - Unable to get component for id 'CorsWhitelistOrigin': Unable to get bean for id 'CorsWhitelistOrigin'
+ WARN [2015-04-24 11:07:23,393] (ComponentFactory.java:getComponentBean:1154) - Unable to get component for id 'ActionLinkGroupTemplate': Unable to get bean for id 'ActionLinkGroupTemplate'
+ WARN [2015-04-24 11:07:42,574] (ComponentFactory.java:getComponentBean:1154) - Unable to get component for id 'ActionLinkGroupTemplate': Unable to get bean for id 'ActionLinkGroupTemplate'
+ WARN [2015-04-24 11:07:42,652] (ComponentFactory.java:getComponentBean:1154) - Unable to get component for id 'BusinessProcess': Unable to get bean for id 'BusinessProcess'
+ WARN [2015-04-24 11:07:42,668] (ComponentFactory.java:getComponentBean:1154) - Unable to get component for id 'ChannelLayout': Unable to get bean for id 'ChannelLayout'
+ WARN [2015-04-24 11:07:42,714] (ComponentFactory.java:getComponentBean:1154) - Unable to get component for id 'CompactLayout': Unable to get bean for id 'CompactLayout'
+ WARN [2015-04-24 11:07:42,730] (ComponentFactory.java:getComponentBean:1154) - Unable to get component for id 'CorsWhitelistOrigin': Unable to get bean for id 'CorsWhitelistOrigin'
+ WARN [2015-04-24 11:07:42,746] (ComponentFactory.java:getComponentBean:1154) - Unable to get component for id 'CustomField': Unable to get bean for id 'CustomField'
+ WARN [2015-04-24 11:07:42,761] (ComponentFactory.java:getComponentBean:1154) - Unable to get component for id 'CustomLabel': Unable to get bean for id 'CustomLabel'
+ WARN [2015-04-24 11:07:42,886] (ComponentFactory.java:getComponentBean:1154) - Unable to get component for id 'ExternalDataSource': Unable to get bean for id 'ExternalDataSource'
+ WARN [2015-04-24 11:07:42,902] (ComponentFactory.java:getComponentBean:1154) - Unable to get component for id 'NamedCredential': Unable to get bean for id 'NamedCredential'
+ WARN [2015-04-24 11:07:42,917] (ComponentFactory.java:getComponentBean:1154) - Unable to get component for id 'UiPlugin': Unable to get bean for id 'UiPlugin'
+ WARN [2015-04-24 11:07:42,933] (ComponentFactory.java:getComponentBean:1154) - Unable to get component for id 'MatchingRules': Unable to get bean for id 'MatchingRules'
+ WARN [2015-04-24 11:07:42,933] (ComponentFactory.java:getComponentBean:1154) - Unable to get component for id 'ChannelLayout': Unable to get bean for id 'ChannelLayout'
+ WARN [2015-04-24 11:07:42,948] (ComponentFactory.java:getComponentBean:1154) - Unable to get component for id 'SharingRules': Unable to get bean for id 'SharingRules'
+ WARN [2015-04-24 11:07:42,948] (ComponentFactory.java:getComponentBean:1154) - Unable to get component for id 'ManagedTopics': Unable to get bean for id 'ManagedTopics'
+ WARN [2015-04-24 11:07:42,964] (ComponentFactory.java:getComponentBean:1154) - Unable to get component for id 'CorsWhitelistOrigin': Unable to get bean for id 'CorsWhitelistOrigin'
+ WARN [2015-04-24 11:07:42,980] (ComponentFactory.java:getComponentBean:1154) - Unable to get component for id 'ActionLinkGroupTemplate': Unable to get bean for id 'ActionLinkGroupTemplate'
+ WARN [2015-04-24 11:07:43,214] (ComponentFactory.java:getComponentBean:1154) - Unable to get component for id 'ExternalDataSource': Unable to get bean for id 'ExternalDataSource'
+ WARN [2015-04-24 11:07:43,214] (ComponentFactory.java:getComponentBean:1154) - Unable to get component for id 'NamedCredential': Unable to get bean for id 'NamedCredential'
+ WARN [2015-04-24 11:07:43,229] (ComponentFactory.java:getComponentBean:1154) - Unable to get component for id 'UiPlugin': Unable to get bean for id 'UiPlugin'
+ WARN [2015-04-24 11:07:43,229] (ComponentFactory.java:getComponentBean:1154) - Unable to get component for id 'MatchingRules': Unable to get bean for id 'MatchingRules'
+ WARN [2015-04-24 11:07:43,245] (ComponentFactory.java:getComponentBean:1154) - Unable to get component for id 'ChannelLayout': Unable to get bean for id 'ChannelLayout'
+ WARN [2015-04-24 11:07:43,260] (ComponentFactory.java:getComponentBean:1154) - Unable to get component for id 'SharingRules': Unable to get bean for id 'SharingRules'
+ WARN [2015-04-24 11:07:43,276] (ComponentFactory.java:getComponentBean:1154) - Unable to get component for id 'ManagedTopics': Unable to get bean for id 'ManagedTopics'
+ WARN [2015-04-24 11:07:43,292] (ComponentFactory.java:getComponentBean:1154) - Unable to get component for id 'CorsWhitelistOrigin': Unable to get bean for id 'CorsWhitelistOrigin'
+ WARN [2015-04-24 11:07:43,307] (ComponentFactory.java:getComponentBean:1154) - Unable to get component for id 'ActionLinkGroupTemplate': Unable to get bean for id 'ActionLinkGroupTemplate'
+ WARN [2015-04-24 11:07:44,323] (ComponentFactory.java:getComponentBean:1154) - Unable to get component for id 'ExternalDataSource': Unable to get bean for id 'ExternalDataSource'
+ WARN [2015-04-24 11:07:44,323] (ComponentFactory.java:getComponentBean:1154) - Unable to get component for id 'NamedCredential': Unable to get bean for id 'NamedCredential'
+ WARN [2015-04-24 11:07:44,339] (ComponentFactory.java:getComponentBean:1154) - Unable to get component for id 'UiPlugin': Unable to get bean for id 'UiPlugin'
+ WARN [2015-04-24 11:07:44,370] (ComponentFactory.java:getComponentBean:1154) - Unable to get component for id 'MatchingRules': Unable to get bean for id 'MatchingRules'
+ WARN [2015-04-24 11:07:44,370] (ComponentFactory.java:getComponentBean:1154) - Unable to get component for id 'ChannelLayout': Unable to get bean for id 'ChannelLayout'
+ WARN [2015-04-24 11:07:44,386] (ComponentFactory.java:getComponentBean:1154) - Unable to get component for id 'SharingRules': Unable to get bean for id 'SharingRules'
+ WARN [2015-04-24 11:07:44,401] (ComponentFactory.java:getComponentBean:1154) - Unable to get component for id 'ManagedTopics': Unable to get bean for id 'ManagedTopics'
+ WARN [2015-04-24 11:07:44,417] (ComponentFactory.java:getComponentBean:1154) - Unable to get component for id 'CorsWhitelistOrigin': Unable to get bean for id 'CorsWhitelistOrigin'
+ WARN [2015-04-24 11:07:44,417] (ComponentFactory.java:getComponentBean:1154) - Unable to get component for id 'ActionLinkGroupTemplate': Unable to get bean for id 'ActionLinkGroupTemplate'
+ WARN [2015-04-24 11:07:44,557] (ComponentFactory.java:getComponentBean:1154) - Unable to get component for id 'ExternalDataSource': Unable to get bean for id 'ExternalDataSource'
+ WARN [2015-04-24 11:07:44,573] (ComponentFactory.java:getComponentBean:1154) - Unable to get component for id 'FieldSet': Unable to get bean for id 'FieldSet'
+ WARN [2015-04-24 11:07:44,620] (ComponentFactory.java:getComponentBean:1154) - Unable to get component for id 'ListView': Unable to get bean for id 'ListView'
+ WARN [2015-04-24 11:07:44,635] (ComponentFactory.java:getComponentBean:1154) - Unable to get component for id 'ManagedTopic': Unable to get bean for id 'ManagedTopic'
+ WARN [2015-04-24 11:07:44,635] (ComponentFactory.java:getComponentBean:1154) - Unable to get component for id 'ManagedTopics': Unable to get bean for id 'ManagedTopics'
+ WARN [2015-04-24 11:07:44,651] (ComponentFactory.java:getComponentBean:1154) - Unable to get component for id 'MatchingRule': Unable to get bean for id 'MatchingRule'
+ WARN [2015-04-24 11:07:44,666] (ComponentFactory.java:getComponentBean:1154) - Unable to get component for id 'MatchingRules': Unable to get bean for id 'MatchingRules'
+ WARN [2015-04-24 11:07:44,682] (ComponentFactory.java:getComponentBean:1154) - Unable to get component for id 'NamedCredential': Unable to get bean for id 'NamedCredential'
+ WARN [2015-04-24 11:07:44,729] (ComponentFactory.java:getComponentBean:1154) - Unable to get component for id 'RecordType': Unable to get bean for id 'RecordType'
+ WARN [2015-04-24 11:07:45,244] (ComponentFactory.java:getComponentBean:1154) - Unable to get component for id 'ExternalDataSource': Unable to get bean for id 'ExternalDataSource'
+ WARN [2015-04-24 11:07:45,244] (ComponentFactory.java:getComponentBean:1154) - Unable to get component for id 'NamedCredential': Unable to get bean for id 'NamedCredential'
+ WARN [2015-04-24 11:07:45,259] (ComponentFactory.java:getComponentBean:1154) - Unable to get component for id 'UiPlugin': Unable to get bean for id 'UiPlugin'
+ WARN [2015-04-24 11:07:45,275] (ComponentFactory.java:getComponentBean:1154) - Unable to get component for id 'MatchingRules': Unable to get bean for id 'MatchingRules'
+ WARN [2015-04-24 11:07:45,290] (ComponentFactory.java:getComponentBean:1154) - Unable to get component for id 'ChannelLayout': Unable to get bean for id 'ChannelLayout'
+ WARN [2015-04-24 11:07:45,306] (ComponentFactory.java:getComponentBean:1154) - Unable to get component for id 'SharingRules': Unable to get bean for id 'SharingRules'
+ WARN [2015-04-24 11:07:45,306] (ComponentFactory.java:getComponentBean:1154) - Unable to get component for id 'ManagedTopics': Unable to get bean for id 'ManagedTopics'
+ WARN [2015-04-24 11:07:45,322] (ComponentFactory.java:getComponentBean:1154) - Unable to get component for id 'CorsWhitelistOrigin': Unable to get bean for id 'CorsWhitelistOrigin'
+ WARN [2015-04-24 11:07:45,337] (ComponentFactory.java:getComponentBean:1154) - Unable to get component for id 'ActionLinkGroupTemplate': Unable to get bean for id 'ActionLinkGroupTemplate'
+ WARN [2015-04-24 11:07:45,790] (ComponentFactory.java:getComponentBean:1154) - Unable to get component for id 'SharingCriteriaRule': Unable to get bean for id 'SharingCriteriaRule'
+ WARN [2015-04-24 11:07:45,805] (ComponentFactory.java:getComponentBean:1154) - Unable to get component for id 'SharingOwnerRule': Unable to get bean for id 'SharingOwnerRule'
+ WARN [2015-04-24 11:07:45,821] (ComponentFactory.java:getComponentBean:1154) - Unable to get component for id 'SharingReason': Unable to get bean for id 'SharingReason'
+ WARN [2015-04-24 11:07:45,836] (ComponentFactory.java:getComponentBean:1154) - Unable to get component for id 'SharingRules': Unable to get bean for id 'SharingRules'
+ WARN [2015-04-24 11:07:45,883] (ComponentFactory.java:getComponentBean:1154) - Unable to get component for id 'UiPlugin': Unable to get bean for id 'UiPlugin'
+ WARN [2015-04-24 11:07:45,899] (ComponentFactory.java:getComponentBean:1154) - Unable to get component for id 'ValidationRule': Unable to get bean for id 'ValidationRule'
+ WARN [2015-04-24 11:07:45,915] (ComponentFactory.java:getComponentBean:1154) - Unable to get component for id 'WebLink': Unable to get bean for id 'WebLink'
+ WARN [2015-04-24 11:07:45,923] (ComponentFactory.java:getComponentBean:1154) - Unable to get component for id 'WorkflowAlert': Unable to get bean for id 'WorkflowAlert'
+ WARN [2015-04-24 11:07:45,973] (ComponentFactory.java:getComponentBean:1154) - Unable to get component for id 'WorkflowFieldUpdate': Unable to get bean for id 'WorkflowFieldUpdate'
+ WARN [2015-04-24 11:07:45,988] (ComponentFactory.java:getComponentBean:1154) - Unable to get component for id 'WorkflowOutboundMessage': Unable to get bean for id 'WorkflowOutboundMessage'
+ WARN [2015-04-24 11:07:46,039] (ComponentFactory.java:getComponentBean:1154) - Unable to get component for id 'WorkflowRule': Unable to get bean for id 'WorkflowRule'
+ WARN [2015-04-24 11:07:46,055] (ComponentFactory.java:getComponentBean:1154) - Unable to get component for id 'WorkflowSend': Unable to get bean for id 'WorkflowSend'
+ WARN [2015-04-24 11:07:46,055] (ComponentFactory.java:getComponentBean:1154) - Unable to get component for id 'WorkflowTask': Unable to get bean for id 'WorkflowTask'
+ WARN [2015-04-24 11:07:46,195] (ComponentFactory.java:getComponentBean:1154) - Unable to get component for id 'ActionLinkGroupTemplate': Unable to get bean for id 'ActionLinkGroupTemplate'
+ WARN [2015-04-24 11:07:46,226] (ComponentFactory.java:getComponentBean:1154) - Unable to get component for id 'ChannelLayout': Unable to get bean for id 'ChannelLayout'
+ WARN [2015-04-24 11:07:46,226] (ComponentFactory.java:getComponentBean:1154) - Unable to get component for id 'CorsWhitelistOrigin': Unable to get bean for id 'CorsWhitelistOrigin'
+ WARN [2015-04-24 11:07:46,258] (ComponentFactory.java:getComponentBean:1154) - Unable to get component for id 'ExternalDataSource': Unable to get bean for id 'ExternalDataSource'
+ WARN [2015-04-24 11:07:46,273] (ComponentFactory.java:getComponentBean:1154) - Unable to get component for id 'ManagedTopic': Unable to get bean for id 'ManagedTopic'
+ WARN [2015-04-24 11:07:46,304] (ComponentFactory.java:getComponentBean:1154) - Unable to get component for id 'ManagedTopics': Unable to get bean for id 'ManagedTopics'
+ WARN [2015-04-24 11:07:46,304] (ComponentFactory.java:getComponentBean:1154) - Unable to get component for id 'MatchingRule': Unable to get bean for id 'MatchingRule'
+ WARN [2015-04-24 11:07:46,320] (ComponentFactory.java:getComponentBean:1154) - Unable to get component for id 'MatchingRules': Unable to get bean for id 'MatchingRules'
+ WARN [2015-04-24 11:07:46,336] (ComponentFactory.java:getComponentBean:1154) - Unable to get component for id 'NamedCredential': Unable to get bean for id 'NamedCredential'
+ WARN [2015-04-24 11:07:46,351] (ComponentFactory.java:getComponentBean:1154) - Unable to get component for id 'SharingCriteriaRule': Unable to get bean for id 'SharingCriteriaRule'
+ WARN [2015-04-24 11:07:46,367] (ComponentFactory.java:getComponentBean:1154) - Unable to get component for id 'SharingOwnerRule': Unable to get bean for id 'SharingOwnerRule'
+ WARN [2015-04-24 11:07:46,382] (ComponentFactory.java:getComponentBean:1154) - Unable to get component for id 'SharingRules': Unable to get bean for id 'SharingRules'
+ WARN [2015-04-24 11:07:46,382] (ComponentFactory.java:getComponentBean:1154) - Unable to get component for id 'UiPlugin': Unable to get bean for id 'UiPlugin'
+ WARN [2015-04-24 11:09:06,924] (ComponentFactory.java:getComponentByFilePath:622) - No id found for filepath 'connectedApps/Hello_World.connectedApp', tagging as component of type 'Unknown'
+ WARN [2015-04-24 11:09:06,940] (ComponentFactory.java:getComponentByFilePath:622) - No id found for filepath 'connectedApps/Test_1.connectedApp', tagging as component of type 'Unknown'
+ WARN [2015-04-24 11:09:13,185] (ProjectController.java:handleRetrieveResults:772) - Failed to retrieve: 'Conga Composer/package.xml': Metadata API received improper input. Please ensure file name and capitalization is correct. Load of metadata from db failed for metadata of type:ConnectedApp and file name:Conga_Composer.
+ WARN [2015-04-24 11:09:13,200] (ProjectController.java:handleRetrieveResults:772) - Failed to retrieve: 'Conga Composer/package.xml': Metadata API received improper input. Please ensure file name and capitalization is correct. Load of metadata from db failed for metadata of type:ConnectedApp and file name:Conga_Composer_SF1.
+ WARN [2015-04-24 11:09:13,232] (ComponentFactory.java:getComponentByFilePath:622) - No id found for filepath 'modules/Conga_Composer_oauth_c4s/Canvases/Conga_Composer_oauth_c4sCanvas.Canvas', tagging as component of type 'Unknown'
+ WARN [2015-04-24 11:09:13,403] (ComponentFactory.java:getComponentByFilePath:622) - No id found for filepath 'modules/Conga_Composer_oauth_c4s/modules/APXTConga4__Conga_Composer_oauth_c4s', tagging as component of type 'Unknown'
+ WARN [2015-04-24 11:09:13,419] (ComponentFactory.java:getComponentByFilePath:622) - No id found for filepath 'modules/Conga_Composer_oauth/ConnectivityDevConfigs/Conga_Composer_oauth_devConfig.ConnectivityDevConfig', tagging as component of type 'Unknown'
+ WARN [2015-04-24 11:09:13,419] (ComponentFactory.java:getComponentByFilePath:622) - No id found for filepath 'modules/Conga_Composer_oauth/modules/APXTConga4__Conga_Composer_oauth', tagging as component of type 'Unknown'
+ WARN [2015-04-24 11:09:13,434] (ComponentFactory.java:getComponentByFilePath:622) - No id found for filepath 'applicationManifests/Conga_Composer', tagging as component of type 'Unknown'
+ WARN [2015-04-24 11:09:13,450] (ComponentFactory.java:getComponentByFilePath:622) - No id found for filepath 'modules/Conga_Composer_SF1_oauth_c4s/Canvases/Conga_Composer_SF1_oauth_c4sCanvas.Canvas', tagging as component of type 'Unknown'
+ WARN [2015-04-24 11:09:13,450] (ComponentFactory.java:getComponentByFilePath:622) - No id found for filepath 'modules/Conga_Composer_SF1_oauth_c4s/modules/APXTConga4__Conga_Composer_SF1_oauth_c4s', tagging as component of type 'Unknown'
+ WARN [2015-04-24 11:09:13,466] (ComponentFactory.java:getComponentByFilePath:622) - No id found for filepath 'modules/Conga_Composer_SF1_oauth/ConnectivityDevConfigs/Conga_Composer_SF1_oauth_devConfig.ConnectivityDevConfig', tagging as component of type 'Unknown'
+ WARN [2015-04-24 11:09:13,481] (ComponentFactory.java:getComponentByFilePath:622) - No id found for filepath 'modules/Conga_Composer_SF1_oauth/modules/APXTConga4__Conga_Composer_SF1_oauth', tagging as component of type 'Unknown'
+ WARN [2015-04-24 11:09:13,481] (ComponentFactory.java:getComponentByFilePath:622) - No id found for filepath 'applicationManifests/Conga_Composer_SF1', tagging as component of type 'Unknown'
+ WARN [2015-04-24 11:09:22,547] (ComponentResource.java:createFolder:468) - Unable to create '\CNCS Dev 12\src\connectedApps' folder: A resource exists with a different case: '/CNCS Dev 12/src/connectedapps'. Cause:
+ (1) A resource exists with a different case: '/CNCS Dev 12/src/connectedapps'.
+ WARN [2015-04-24 11:09:22,547] (ProjectPackageList.java:saveResources:1194) - Unable to save component 'Unknown [Unknown] 'connectedApps/Hello_World.connectedApp' [unpackaged]' to Resource '/CNCS Dev 12/src/connectedApps' does not exist. Cause:
+ (1) Resource '/CNCS Dev 12/src/connectedApps' does not exist.
+ WARN [2015-04-24 11:09:22,562] (ComponentResource.java:createFolder:468) - Unable to create '\CNCS Dev 12\src\connectedApps' folder: A resource exists with a different case: '/CNCS Dev 12/src/connectedapps'. Cause:
+ (1) A resource exists with a different case: '/CNCS Dev 12/src/connectedapps'.
+ WARN [2015-04-24 11:09:22,578] (ProjectPackageList.java:saveResources:1194) - Unable to save component 'Unknown [Unknown] 'connectedApps/Test_1.connectedApp' [unpackaged]' to Resource '/CNCS Dev 12/src/connectedApps' does not exist. Cause:
+ (1) Resource '/CNCS Dev 12/src/connectedApps' does not exist.
+ERROR [2015-04-24 11:10:17,753] (SyncServiceListenerBroadcaster.java:handleException:59) - Error executing a contributed ISyncServiceListener
+java.lang.NullPointerException
+	at com.salesforce.ide.core.model.ComponentList.getComponentFactory(ComponentList.java:62)
+	at com.salesforce.ide.core.model.ComponentList.getComponentListForComponentType(ComponentList.java:266)
+	at com.salesforce.ide.debug.ui.sync.SyncActionListener.collectDebuggerElements(SyncActionListener.java:154)
+	at com.salesforce.ide.debug.ui.sync.SyncActionListener.invalidateApexModelManager(SyncActionListener.java:122)
+	at com.salesforce.ide.debug.ui.sync.SyncActionListener.projectSync(SyncActionListener.java:114)
+	at com.salesforce.ide.core.services.hooks.SyncServiceListenerBroadcaster$1.run(SyncServiceListenerBroadcaster.java:54)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.ui.internal.JFaceUtil$1.run(JFaceUtil.java:49)
+	at org.eclipse.jface.util.SafeRunnable.run(SafeRunnable.java:175)
+	at com.salesforce.ide.core.services.hooks.SyncServiceListenerBroadcaster.executeExtension(SyncServiceListenerBroadcaster.java:62)
+	at com.salesforce.ide.core.services.hooks.SyncServiceListenerBroadcaster.broadcast(SyncServiceListenerBroadcaster.java:40)
+	at com.salesforce.ide.core.model.ProjectPackageList.saveResources(ProjectPackageList.java:1210)
+	at com.salesforce.ide.core.model.ProjectPackageList.saveResources(ProjectPackageList.java:1123)
+	at com.salesforce.ide.core.services.ForceProjectRefreshJob$ForceProjectRefreshProject.doSaveResources(ForceProjectRefreshJob.java:62)
+	at com.salesforce.ide.core.services.ForceProjectRefreshJob.runInWorkspace(ForceProjectRefreshJob.java:42)
+	at org.eclipse.core.internal.resources.InternalWorkspaceJob.run(InternalWorkspaceJob.java:38)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:53)

@@ -1,0 +1,61 @@
+<apex:page standardController="Account" showheader="True">
+  <!-- Begin Default Content REMOVE THIS -->
+  <apex:sectionHeader title="New Organization" subtitle="{!account.name}"/>
+  
+   
+  <apex:form >
+   <apex:pageBlock title="Organization Edit" mode="edit">
+   <apex:pageBlockButtons >
+     <apex:commandButton value="Save" action="{!save}"/>
+          <apex:commandButton value="Cancel" action="{!cancel}"/>
+     <!--apex:CommandButton Value="Save As Draft" action="{!SaveAsDraft}"/-->
+   </apex:pageBlockButtons>
+      
+   
+  <apex:pageBlockSection title="Organization Information" columns="2" >
+  <apex:inputField value="{!account.Legal_Name__c}" />
+  <apex:inputField value="{!account.Name }" />
+  <apex:inputField value="{!account.ID__c}" />
+  <apex:inputField value="{!account.EIN__c}" />
+  <apex:inputField value="{!account.Organization_Type__c}" required="True" />
+  <apex:inputField value="{!account.DUNS__c}" />
+  <apex:inputField value="{!account.DUNS_4__c}"/>
+  <apex:inputCheckbox value="{!account.DUNS_Verification__c}"/>
+  <apex:inputField value="{!account.VISTA_TIN__c}" />
+  <apex:inputField value="{!account.CCR_Active_Until__c}" />
+  <apex:inputCheckbox value="{!account.NCCC_Sponsor__c}"/>
+  </apex:pageBlockSection> 
+  
+  
+    <apex:pageBlockSection title="Contact Information" columns="2">
+     <apex:inputField value="{!account.Address_1__c}" />
+     <apex:inputField value="{!account.Address_2__c}" />
+     <apex:inputField value="{!account.City1__c}" />
+     <apex:inputField value="{!account.State__c}" />
+     <apex:inputField value="{!account.Zip_4__c}" />
+     <apex:inputField value="{!account.County__c}"/>
+     <apex:inputField value="{!account.Country__c}"/>
+     <apex:inputField value="{!account.Phone1__c}" />
+     <apex:inputField value="{!account.Email__c}"  /><br/>
+     
+  
+     <apex:inputField value="{!account.O__c}" />
+       
+ </apex:pageBlockSection>
+ 
+ 
+ 
+ 
+ <!--apex:pageBlockSection title="Attached Documents" columns="2"-->
+ <!--apex:inputField value="{!account.Document_Type__c}" /-->
+ <!--/apex:pageBlockSection-->
+ 
+
+
+   
+  
+  </apex:pageBlock>
+   
+  </apex:form>
+  <c:Attachment />
+</apex:page>

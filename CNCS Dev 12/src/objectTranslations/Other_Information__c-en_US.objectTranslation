@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomObjectTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <caseValues>
+        <plural>false</plural>
+        <value>Other Information</value>
+    </caseValues>
+    <caseValues>
+        <plural>true</plural>
+        <value>Other Information</value>
+    </caseValues>
+    <fields>
+        <label><!-- Notice ID --></label>
+        <name>Notice_ID__c</name>
+        <relationshipLabel><!-- Other Information --></relationshipLabel>
+    </fields>
+    <startsWith>Consonant</startsWith>
+</CustomObjectTranslation>
